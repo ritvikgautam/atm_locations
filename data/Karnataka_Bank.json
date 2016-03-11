@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 1,
+        "address": "76, Ground Floor, Heritage Tower, Nehrunagar, M.G.Road, Agra-282002,",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Raja Plaza Complex, Gokul Main Road, Memnagar, Ahmedabad-380052,",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "23, M G Marg, Civil Lines, Allahabad-211001,",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Building No.1(817), Panaji-panvel Highway, Opp.Coquira Hotel, Porvorim,",
+        "city": "Alto Betim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 5,
+        "address": "P.B.No.62, Durga Vihar Building, Mahaveer Road, Bagalkot,",
+        "city": "Bagalkot",
+        "district": "Bagalkot",
+        "state": "Karnataka"
+    },
+    {
+        "id": 6,
+        "address": "No.1234, 7th B Cross, Mother Dairy Road, Yelahanka New Town,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 7,
+        "address": "No.50, Ground Floor, Opp.Shanthinagar Bus Stand, K.H.Road,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 8,
+        "address": "No.60\/a, Survey No.300, Jigani Road, Bommasandra Industrial Area, Bommasandra,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 9,
+        "address": "No.89\/5, Bellandur Main Road, Bellandur Village, Varthur Hobli, Bellandur, Bangalore-south,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 10,
+        "address": "No.18, 2nd Main, 7th Cross, Basaveshwar Society, 2nd Stage, Chandra Layout,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 11,
+        "address": "No.393, 13th Cross, Sadashivanagar,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 12,
+        "address": "No 204\/c, 6th Main, 27th Cross, 4th Block, Jayanagar -560011,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 13,
+        "address": "452, 9th Cross, 2nd Phase, Sarakki, Layout, J.P.Nagar, Bangalore-560078,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 14,
+        "address": "No 48 Mohan Mansion, P.B.No-5171, Kasturba Road, Bangalore-560001,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 15,
+        "address": "163, Ground Floor, Rajeswari Complex, R.V.Road, Minerva Circle , Bangalore -560004,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 16,
+        "address": "No.2257, E Block, Kodigehalli Main Road, Sahakarnagar , Bangalore -560092,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 17,
+        "address": "Shri Kshetra Complex, No.911, 39th Cross, 28th Main, 9th Block, Jayanagar-560069,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 18,
+        "address": "50 Ft Road, No 487\/62(26), 8th Main , 50ft Road , Opp Tvs Showroom, Hanumanthanagar, Bangalore-560019,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 19,
+        "address": "Rao Bahadur Dharmapravartha Gubbi Thotdappa, Road, Near City Railway Station, Subhashnagar,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 20,
+        "address": "37, Mahakavi Kuvempu Road P.B.No.2125, Nagappa Block, Near Devaiah Park, Srirampuram, Bangalore - 560021,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 21,
+        "address": "No.71, 5th Main, 5th Cross, Vijayanagar, Bangalore -560040,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 22,
+        "address": "No.704, Hmt Layout, 5th Block, Vidyaranyapura Main Rd - 560097,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "No.1, Nagarbhavi Road, Amarjyothi Nagar, Bangalore - 560040,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 24,
+        "address": "Opp Prasanna Talkies, 6th Block, Rajaji Nagar, Bangalore-560010,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 25,
+        "address": "No.652, Iii Block, 17th Main, P.B.No3424, Koramangala , Bangalore-560034,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 26,
+        "address": "No.83, Anandnagar, Near Bus Stop, Ring Road,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 27,
+        "address": "No.963, 5-ac, Banaswadi, Outer Ring Road, Hrbr Layout, Blk-1, Kalyannagar, Banaswadi,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 28,
+        "address": "No.5\/2, Shankarmutt Road, Shankarapuram, Bangalore,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 29,
+        "address": "No.183, Viharish Mansion, 15th Cross, Margosa Road, Malleswaram,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 30,
+        "address": "No.488, 3rd Stage, 3rd Block, Basaveshwaranagar,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 31,
+        "address": "No.732, 18th Cross, Mahalakshmi Nilayam, Near Nagalakshmi Kalyana Mantap, Banashankari Ii Stage,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 32,
+        "address": "No.279, 10th Cross, Wilson Garden, Bangalore-560027,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 33,
+        "address": "Civil Court Complex, Bangalore-560009,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 34,
+        "address": "No.18, 6th Main Road, I Cross, B.T.M Layout, Ii Stage, Bangalore-560076,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 35,
+        "address": "No, 417, 27 Th Main, Sector I , H S R Layout, Bangalore-560034,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 36,
+        "address": "650, 2nd Phase, Vii Block, Banashankari Iii Stage, Hosakerahalli Cross, Bangalore-560085,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 37,
+        "address": "52, Dinesh Complex, Subbarama Chetty, Netkallappa Circle, Basavangudi, Bangalore-560004,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 38,
+        "address": "No.8\/2, Nagappa Street, Seshadripuram, Nehrunagar, Bangalore-560020,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 39,
+        "address": "166\/13, 1, 12 Cross, Mahalaxmi Layout, Bangalore-560086,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 40,
+        "address": "No.10, First Floor, Hmt Layout, Main Road, R.T.Nagar, Bangalore-560032,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 41,
+        "address": "City Central Library Building, Ii Block, Dr.Rajkumar Road, Rajajinagar,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 42,
+        "address": "No.24\/2813\/2628, Surabhi Complex, B.B.Road, N.H.7, Devanahalli,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 43,
+        "address": "S.No.26\/27\/28, Uttarahalli Main Road, Uttarahalli,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 44,
+        "address": "No.1103, 1st Main Road, 4th Cross, Kengeri Satellite Town,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 45,
+        "address": "No.478, Maha Padma, Sri Krishna Temple Road, Indiranagar I Stage, Bangalore ,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 46,
+        "address": "No.26, R.M.N.Complex, Hesaraghatta Main Road, Bagalagunte, Nagasandra Post, Bangalore,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 47,
+        "address": "No.50, Rajagopal Layout, Amarjyothi Layout, Sanjay Nagar, Bangalore,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 48,
+        "address": "No.33, Pipeline Road, Ist Main, Yeshwantpur, Bangalore,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 49,
+        "address": "112, Lucknow-delhi Marg, Civil Lines, Bareilly,",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 50,
+        "address": "Gogate Institute Of Technology Campus, Khanapur Road, Udyambag,",
+        "city": "Belgaum",
+        "district": "Belgaum",
+        "state": "Karnataka"
+    },
+    {
+        "id": 51,
+        "address": "Shop No:14, Star Towers, Khanapur Road,",
+        "city": "Belgaum",
+        "district": "Belgaum",
+        "state": "Karnataka"
+    },
+    {
+        "id": 52,
+        "address": "96, Annapoorna Agencies Building, Ananthpur Road, Bellary-583101,",
+        "city": "Bellary",
+        "district": "Bellary",
+        "state": "Karnataka"
+    },
+    {
+        "id": 53,
+        "address": "Ground Floor, Sadana Towers, 2a, Zone -2, M.P.Nagar,",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 54,
+        "address": "Ground Floor, No.6, Janapath Road, Bhubaneswar-751001,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 55,
+        "address": "Link Road, Bilaspur-492009,",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 56,
+        "address": "Sector-22c, Sco No, 2917\/8, Chandigarh,",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 57,
+        "address": "Old No.402, New No.78, Paneernagar, Thiruvalluvar Road, Mogappair, Chennai-600037,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 58,
+        "address": "No.12(old No.28), 2nd Street, Postal Colony, West Mambalam, Chennai,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 59,
+        "address": "No.168\/351 Avvai Shanmugam Road(lyods Road), Gopalapuram Chennai-600086,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 60,
+        "address": "D.No.68 2nd Main Road, United India Colony, Kodambakkam , Chennai-600024,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 61,
+        "address": "Block No.\"w\" 124, Iii Avenue, Annanagar, Chennai-600040,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 62,
+        "address": "No.10, P K Rajan Salai, Kk Nagar Chennai - 600078,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 63,
+        "address": "T-32, A\/b, 7th Avenue, Beasant Nagar, Chennai-600090,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 64,
+        "address": "P.B.No 2, Saragod Building, Indira Gandhi Road, Chikmagalur-577101,",
+        "city": "Chickmagalur",
+        "district": "Chickmagalur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 65,
+        "address": "No.52, Ground Floor, Oppanakara Street, P Box No.255,",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 66,
+        "address": "No.22 & 22\/1507, Rashmi Plaza, Next To Arunodaya Market, Link Road, Cuttack - 753012,",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 67,
+        "address": "59\/1, Avk College Road, 2 Main, P J Extension, Davangere,",
+        "city": "Davangere",
+        "district": "Davanagere",
+        "state": "Karnataka"
+    },
+    {
+        "id": 68,
+        "address": "No2, Ground Floor, New Cantt Road, Adj To Rajpur Road, Dehradun-248001,",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 69,
+        "address": "Cauvery Building, Ratha Beedi, Dharmasthala, Belthangady Taluk, D.K Dist - 574216,",
+        "city": "Dharmasthala",
+        "district": "Na",
+        "state": "Karnataka"
+    },
+    {
+        "id": 70,
+        "address": "Sri Durgaparameshwari Plaza, Cts No.94\/1a\/2a 2 Station Road,",
+        "city": "Dharwad",
+        "district": "Dharwad",
+        "state": "Karnataka"
+    },
+    {
+        "id": 71,
+        "address": "Huggi Bldg, Near Nttf, P B Road,",
+        "city": "Dharwad",
+        "district": "Dharwad",
+        "state": "Karnataka"
+    },
+    {
+        "id": 72,
+        "address": "Plot No 02, Cts 174 221b Haliyal Road, Kud Circle, Srinagar,",
+        "city": "Dharwad",
+        "district": "Dharwad",
+        "state": "Karnataka"
+    },
+    {
+        "id": 73,
+        "address": "Chelur Buildings, P.B.No.1795, Xxx\/512, M.G.Road, Pallimukku, Cochin,",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 74,
+        "address": "Door No.348, E.V.N.Road, Erode,",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 75,
+        "address": "Sco No, 143, Ground Floor, Sector 21c, Shopping Centre,",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 76,
+        "address": "Markandeya Building Complex, Taramakki Cross Road, Gokarna-581326,",
+        "city": "Gokarna",
+        "district": "Uttara Kannada",
+        "state": "Karnataka"
+    },
+    {
+        "id": 77,
+        "address": "Plot No.31, Super Market,",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 78,
+        "address": "Ground Floor, Sco 21, Sector-14, Old Delhi Road,",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 79,
+        "address": "Dag No.741, Ground Floor, Ganga Bhavan, Harbala Cross Road, G.S.Road, Ulubari,",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 80,
+        "address": "Mahant Sthal, Ground Floor, Near Vanaprasth Ashram, Jwalapur Road, Haridwar,",
+        "city": "Haridwar",
+        "district": "Haridwar",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 81,
+        "address": "Avk College Building, Avk College Road, Hassan- 573201,",
+        "city": "Hassan",
+        "district": "Hassan",
+        "state": "Karnataka"
+    },
+    {
+        "id": 82,
+        "address": "No.1273\/2540\/22, College Road, Sir M Vishweshwaraiah Layout, Hoskote,",
+        "city": "Hoskote",
+        "district": "Bangalore Rural",
+        "state": "Karnataka"
+    },
+    {
+        "id": 83,
+        "address": "Cts 1232, Ward No.5, Sri Mallikarjun Temple Building, Kasabapeth Main Road, Old Hubli,",
+        "city": "Hubli",
+        "district": "Hubli",
+        "state": "Karnataka"
+    },
+    {
+        "id": 84,
+        "address": "Samyukta Karnataka Building, Koppikar Road, Hubli,",
+        "city": "Hubli",
+        "district": "Hubli",
+        "state": "Karnataka"
+    },
+    {
+        "id": 85,
+        "address": "Plot No.663, Sln Arcade, Warangal Highway, Peerzadiguda Village, Uppal Kalan,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 86,
+        "address": "6-3-1219\/24 , Ground Flooor, Umanagar , Begumpet, Hyderabad-500016,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 87,
+        "address": "6-3-1090\/a, Ground Floor, Bhupal Towers, Rajbhavan Road, Somajiguda , Hydrebad - 500082,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 88,
+        "address": "1-19-69\/5\/1, Dr A.S Rao Nagar, Sainikpuri, Secundrebad-500062,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 89,
+        "address": "Shop No.2, Ground Floor, Raghavendras Grand Residency, Municipal No.8-3-1085 & 1086, Plot No.49, Srinagar Colony, Hyderabad.,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 90,
+        "address": "No.42, Pratima Arcade, Phase 6, K.P.H.B.Colony, Kukatpally, Hyderabad,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 91,
+        "address": "8\/2, Ground Floor, M6 , Rafeal Towers , Old Palasia, Greater Kailash Road , Indore -452001,",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 92,
+        "address": "Umaid Nagar House, Plot No.4, Opp., Ganapathi Plaza, M.I.Road, Jaipur-302001,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 93,
+        "address": "Gabindmall, Plot No.25, G T Road,",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 94,
+        "address": "Anand Bhavan, Ground Floor, Main Chopasini Road, Shani Chargi Ka Than, Jodhpur- 342001,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 95,
+        "address": "24\/13, Mall Plaza, Mall Road, Kanpur-208004,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 96,
+        "address": "Shahu Institute Of Business Education And Research-siber, C S No.372\/a, E Ward, University Road,",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 97,
+        "address": "No.112a, Ground Floor, Near Lake Market, Rash Behari Avenue, Kolkata - 700029,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 98,
+        "address": "No.109, Beliaghata(phool Bagan), C.I.T.Road, Kolkata,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 99,
+        "address": "No.Cj-161, Janaki Kunj, Salt Lake City, (para), Kolkata -700091,",
+        "city": "Kolkatta",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 100,
+        "address": "First Floor, Bright Star Properties , Asramam Road , Kollam- 691001,",
+        "city": "Kollam",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 101,
+        "address": "Ganesh Complex, T.M.Road, P.B.No 10, Koppa , Chikmagalur District,",
+        "city": "Koppa",
+        "district": "Chickmagalur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 102,
+        "address": "No.251\/8, 9th Ward, Shastri Circle, Nh-17,",
+        "city": "Kundapura",
+        "district": "Udupi",
+        "state": "Karnataka"
+    },
+    {
+        "id": 103,
+        "address": "G-3\/5, Shalimar Square, 126\/31, B N Road, Lalbagh,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 104,
+        "address": "Post Box No.31, Kohinoor Road, Madikeri-571201,",
+        "city": "Madikeri",
+        "district": "Madikeri",
+        "state": "Karnataka"
+    },
+    {
+        "id": 105,
+        "address": "No.1121, M.C.Road, Ashok Nagar, Mandya,",
+        "city": "Mandya",
+        "district": "Mandya",
+        "state": "Karnataka"
+    },
+    {
+        "id": 106,
+        "address": "Pbno.708, P.V.S.Road Kodialbail, Church Road , Mangalore- 575003,",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 107,
+        "address": "Shop No.3, \" Inland Monarch\", (opp K S N Adiga Smaraka Bhavan) , Mangalore - 575003,",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 108,
+        "address": "P.B.No.294, Mabai Hotel Building, Opp Muncipal Gnd, George Baretto Square, South Goa,",
+        "city": "Margoa",
+        "district": "South Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 109,
+        "address": "Scf No.43\/phase 3b-ii, Sector 59, Roop Nagar, Sas Nagar, Mohali Dist, Mohali -160059,",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 110,
+        "address": "Ae-34, Ramganga Vihar, Phase 1, Kanth Road, ,",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 111,
+        "address": "Vihang Garden, Pokhran Road, Behind Cadburys, Varthak Nagar, Thane(w), Mumbai,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 112,
+        "address": "Shop No.18 & 19, Kadamgiri Complex, Hanuman Road, Vile Parle(e),",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 113,
+        "address": "Rose Manor Garden School, Central Avenue , Santacruz, Mumbai -400054,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 114,
+        "address": "Gayathri Corner, 90ft Road, Asha Nagar, Opp Thakur Polytechnic, Thankur Complex, Kandivili(e), Mumbai-400101,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 115,
+        "address": "Shop No.34-39, Halley , Building No 6, Evershine Millenium Paradise, Thakur Village , Kandivili(e), Mumbai - 400101,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 116,
+        "address": "20-21, Oshiwara Link Plaza, Mhada Complex, Oshiwara , Jogeshwari (w), Mumbai-400102,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 117,
+        "address": "Badri Kedar Plot No 35-36 Sector 40, Seawoods Nerul -400706,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 118,
+        "address": "Ground Floor, Smt L L Mundada Hostel Building, Nr B.M.C.T Ward Office, Devidayal Road, Mumbai,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 119,
+        "address": "Shop No.11, Dhavalgiri Apartments, S.V.Road & Adukia Road Corner, Kandivili(w), Mumbai-400067,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 120,
+        "address": "Shop No.2a, Akruthi Chsl, New Link Road, Near Don Bosco High School, Vazira Naka, Borivili(w), Mumbai-400017,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 121,
+        "address": "Shop No.20, 21 & 22, Plot No.1, Shivdarshan Building, Sector 15, Palm Beach Road, Cbd Belapur,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 122,
+        "address": "Shop No.7, 8 & 9, Gaurav Garden Complex, Mira Bhayandar Road, Mira Road East, Mumbai,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 123,
+        "address": "Shop No.20&21, Oshiwara Shopping Complex Ground Floor, Mhada, Andheri Link Rd, Jogeshwari(w), Mumbai -400102,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 124,
+        "address": "Pbno.11917, Manish Nagar Shopping Centre, Azad Nagar Po, Mumbai-400053,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 125,
+        "address": "Lic Shopping Centre, Mandapeshwar, J B Nagar , Boriwili(w) , Mumbai-400103,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 126,
+        "address": "M-4, Near Vivekananda Circle, Vivekanandanagar,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 127,
+        "address": "Ca No.1, C Block, Akkamahadevi Road, J.P.Nagar,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 128,
+        "address": "No.2954, K-12\/4 Jlb Road, Chamandipuram Circle, P.B No 385, Mysore - 570004,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 129,
+        "address": "Ajantha Complex, Door No.2767\/b, Kantharaje Urs Road, Saraswathipuram, P.B.No.10 , Mysore-570009,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 130,
+        "address": "No.70\/1, 12th Cross, Kalidasa Road, V.V.Mohalla, Mysore.,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 131,
+        "address": "845, 10 Main, New Kantharaje Urs Road, Near Akshaya Bhandar, Kuvempunagar, Mysore-570023,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 132,
+        "address": "439, Spns Sadana, Bogadi Main Road, Mysore -570026,",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 133,
+        "address": "D-59, Sapna Road, Opp.Sapna Cinema, East Of Kailash,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 134,
+        "address": "11\/8, Upper Ground Floor, Westpatel Nagar, Rajendra Nagar Dist , New Delhi-110008,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 135,
+        "address": "Plot No.6, Hl Square, Sector-5, Dwaraka -110075,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 136,
+        "address": "Plot No.13, Near Sai Mandir, Main Road, Savitha Vihar , Delhi -110092,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 137,
+        "address": "No, 6, Ground Floor, Jain Colony, Veer Nagar, G.T.Karnal Road,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 138,
+        "address": "K47(b) , Central Market, Lajpat Nagar-ii, New Delhi -110024,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 139,
+        "address": "U-75, Mother Dairy Crossing, Shakarpur, Delhi-110092.,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 140,
+        "address": "Plot No.6, Aggarwal Centre Plaza, 1st Floor, Community Centre, D.C Chowk, Sector-9, Delhi-110085,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 141,
+        "address": "Delhi Karnataka Sangha Building, Rao Tularam Marg, Sector No.12, R.K.Puram, New Delhi,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 142,
+        "address": "D1a\/a1, Ground Floor, Satguru Ram Singh Marg, Janakpuri D Block, New Delhi,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 143,
+        "address": "Plot No.5934\/71, Arya Samaj Main Road, Regarpur, Karolbagh, ,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 144,
+        "address": "F-27\/28, Sector-18 , Noida -201301, ,",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 145,
+        "address": "Sco.No.66 , Sector 11, Panchkula-134109,",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 146,
+        "address": "Opp.Dayal Velvet, Near Sanjay Chowk, G.T.Road, Panipat,",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 147,
+        "address": "P.B.No 132, 137, 55-b, Mission Street,",
+        "city": "Pondicherry",
+        "district": "Pondicherry",
+        "state": "Pondicherry"
+    },
+    {
+        "id": 148,
+        "address": "Shop No.9, 10 & 11, Rajadhani Complex, Next To Shankar Mutt, Pune-satara Road, Dhankawadi,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 149,
+        "address": "Baji Rao Road, Pune,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 150,
+        "address": "346, D B Road, Ist Floor, P B No 1182, R S Puram , Coimbatore-641002,",
+        "city": "R S Puram",
+        "district": "Na",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 151,
+        "address": "Plot No.29, Gowri Shankar Mandir Road, Raigarh,",
+        "city": "Raigarh",
+        "district": "Raigarh",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 152,
+        "address": "Plot No2, Jail Road , Medical College Road, Fafadih Chowk, Raipur -492009,",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 153,
+        "address": "Mangal Kiran Complex, Ramdhan Plot, Kalawad Road, Rajkot - 360005,",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 154,
+        "address": "No.5, Main Road, Opp Ranchi Club, Ranchi - 834001,",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 155,
+        "address": "D.No 14, Ground Floor, Divya Towers, Fort Main Road, Salem-636001,",
+        "city": "Salem",
+        "district": "Salem",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 156,
+        "address": "Ground Floor, M.G Palace, Gopi Circle, Shimoga,",
+        "city": "Shimoga",
+        "district": "Shimoga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 157,
+        "address": "Savalanga Road, Shimoga-577201,",
+        "city": "Shimoga",
+        "district": "Shimoga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 158,
+        "address": "Pratap Market, 2nd Mile, Opp.Wall Fort, Sevak Road, Siliguri,",
+        "city": "Siliguri",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 159,
+        "address": "Bharathi Street , Sringeri- 577 139,",
+        "city": "Sringeri",
+        "district": "Chickmagalur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 160,
+        "address": "S.No.703\/1, I Floor, Muthuppa Bldg, Padavanagadi, Thakaraparambhu Road, Tiruvananthapuram-695023,",
+        "city": "T'puram",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 161,
+        "address": "Ground Floor, Gajanana Complex, Azad Road, Gandhi Square,",
+        "city": "Thirthahalli",
+        "district": "Shimoga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 162,
+        "address": "2-7(6), Israt Complex, Nh17, Perammannur Post, Thokkottu-575017,",
+        "city": "Thokkottu",
+        "district": "Na",
+        "state": "Karnataka"
+    },
+    {
+        "id": 163,
+        "address": "Ground Floor, No.100\/729, Gokul Road, P.N.Road, Tirupur- 641 602,",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 164,
+        "address": "Ksrtc Bus Stand, Tumkur,",
+        "city": "Tumkur",
+        "district": "Tumkur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 165,
+        "address": "Bangalore Road, Tumkur,",
+        "city": "Tumkur",
+        "district": "Tumkur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 166,
+        "address": "No.79, Govind Bhavan, Chetak Marg, Chetak Circle, Udaipur,",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 167,
+        "address": "Ist Floor, Bhimanakatte Building , Carstreet, Udupi -576101,",
+        "city": "Udupi",
+        "district": "Udupi",
+        "state": "Karnataka"
+    },
+    {
+        "id": 168,
+        "address": "Pb No, 4052, Old Padra Road, Surya Kiran Complex , Near Tagore Nagar, Vidutnagar, Vadodara-390015,",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 169,
+        "address": "No.D48\/131, Misir Pokhra, Girijaghar, Luxa Road,",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 170,
+        "address": "12-10a, Convent Street, Brp Road, Vijaywada- 520001,",
+        "city": "Vijaywada",
+        "district": "Vijaywada",
+        "state": "Andhra Pradesh"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "address": "9-a, Mahatma Gandhi Road, Opp.Distt.Hospital, Chhipitola, Agra-282001",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Lotus Hotel Building, Bhagwan Talkies Crossing Nh2, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "E-15\/8, Prince Tower, Sanjay Place, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Shop No.Ug-6, Bhawana Multiplex, Sikandara Bodla Road, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Bank Colony, Opp.Subhash Park, 71-a, M.G.Road, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Hotel Woodland, D-587, Kamla Nagar, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "251, Jaipur House, Loha Mandi, Agra-282010",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "2\/91, Kotla House, Church Road, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "G-2, Samedh Near Associated Petrol Pump, C G Road, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "Ground Floor, Ng Tower Astron Square, Highway Cross Road, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 11,
+        "address": "Ground Floor, New York Plaza, Opp.Judges Bungalow, Bodakdev, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 12,
+        "address": "Meera Road, Kadia Kui, Po Box 358, Relief Road, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 13,
+        "address": "1-2, Surjeet Society, Near India Colony, T B Nagar Road, T B Nagar, Ahmedabad-382350",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "Neelkamal, Opp.Sales India, Ashram Road, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 15,
+        "address": "Vrindavan Complex, Near Subhash Chowk, Gurukul, Drive-in-road, Ahemdabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "Women Enterprenuer Branch, Apm Hall, 100 Satellite Road, Dev Priya Bunglow, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 17,
+        "address": "Opp.Sun N Step Club, Near Satadhar Cross Road, Sola Road, Ghatlodia, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 18,
+        "address": "F.P.No.229, Beside Jyothi Plaza, Shyamal Cross Roads, Satellite, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 19,
+        "address": "Arihant House, 16 Prakash Society, Commercial Six Road, Ahmedabad-380009",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 20,
+        "address": "Hanuman Chambers, C.S.No.7584, Savepura, Near Kapad Bazaar, Ahmednagar",
+        "city": "Ahmednagar",
+        "district": "Ahmednagar",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 21,
+        "address": "Near Old Octroi Check Post, Ajmer Road, Jaipur - 302019",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 22,
+        "address": "Opp.Lady Fatima School, 572, Ramghat Road, Aligarh",
+        "city": "Aligarh",
+        "district": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 23,
+        "address": "3, Johnstonganj, Allahabad",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 24,
+        "address": "34, C.S.P Singh Marg, Near Circuit House, Allahabad-211001",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 25,
+        "address": "Hotel Surmool",
+        "city": "Almora",
+        "district": "Almora",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 26,
+        "address": "3, Prem Nagar, Ambala City, Haryana",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 27,
+        "address": "6148\/6, Sadar Bazar, Ambala Cantt.- 133 001",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 28,
+        "address": "Mahesh Nagar, Ambala",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 29,
+        "address": "Plot No.5\/5, Ground Floor, Khatri Mall, Khatri Compound, Near Malviya Bhawan, Amravati, Maharastra-444602",
+        "city": "Amravati",
+        "district": "Amravati",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 30,
+        "address": "Katra Ahluwalia, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    }
+]

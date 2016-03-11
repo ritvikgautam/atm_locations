@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "address": "Ujjain-jhalawar Rd., Bharat Petrolium Petrol Pump, Ujjain-jhalawar Rd",
+        "city": "Agar",
+        "district": "Shajapur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Collectorate, Police Line, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Agra, Hospital Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Shikhar Apartment, Shikhar Apartment, Shikhar Apartment",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Mansuri Building, Mansuri Building",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Commercial Complex, Shop No.14, Commercial Complex, Jatharpeth",
+        "city": "Akola",
+        "district": "Akola",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "address": "Pratap Gunj Marg, Pratap Gunj Marg",
+        "city": "Alirajpur",
+        "district": "Jhabua",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "Ambah, Morena Road",
+        "city": "Ambah",
+        "district": "Morena",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "Bus Stand, Anjad, Bus Stand Anjad",
+        "city": "Anjad",
+        "district": "Badwani",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "Ashoknagar, Hospital Chauraha, Ashoknagar",
+        "city": "Ashoknagar",
+        "district": "Ashoknagar",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Badnawar, Badnawaropp.Branch",
+        "city": "Badnawar",
+        "district": "Dhar",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Arya Plaza, Shop No.43\/2, Arya Plaza, Bull Temple Rd",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 13,
+        "address": "Saraf Natwarlal Huf Comlex, Shop No.9aground Floor, Saraf Natwarlal Huf Comlex, Opp.Collectorate",
+        "city": "Banswara",
+        "district": "Banswara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 14,
+        "address": "Shivaji Path, 104shivaji Path",
+        "city": "Barnagar",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "Race Course Circle, Race Course Circle",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "Indore Khandwa Rd., Indore Khandwa Rd",
+        "city": "Barwaha",
+        "district": "Khandwa",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 17,
+        "address": "Surya Bhawan, , Surya Bhawan, Court Chauraha, Club Road",
+        "city": "Barwani",
+        "district": "Badwani",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "Basoda, 10 Station Road",
+        "city": "Basoda",
+        "district": "Vidisha",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "Bhander, Patel Road",
+        "city": "Bhander",
+        "district": "Datia",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 20,
+        "address": "Old Bus Stand, Bhanpura, Old Bus Stand Bhanpura",
+        "city": "Bhanpura",
+        "district": "Mandsaur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "Bhikangaon, Bus Standbhikangaon",
+        "city": "Bhikangaon",
+        "district": "Khargone",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "Nehru Nagar, Plot No.4-1, Nehru Nagar(west)",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 23,
+        "address": "Etawah Road, , Etawah Road, Main Branch",
+        "city": "Bhind",
+        "district": "Bhind",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 24,
+        "address": "Collectorate Bhind, Lahar Road, Collectorate Bhind",
+        "city": "Bhind",
+        "district": "Bhind",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 25,
+        "address": "Bhitarwar, Main Road",
+        "city": "Bhitarwar",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 26,
+        "address": "District Court Campus, , District Court Campus, Arera Hills",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 27,
+        "address": "Vidya Vihar, 106surendra Palace, Vidya Vihar, Hoshangabad",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 28,
+        "address": "Shalimar Fountain Complex, , Shalimar Fountain Complex, Sultana Road",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 29,
+        "address": "Red Cross Bhawan, Indian Red Cross Soceity, Red Cross Bhawan, Shivaji Nagar",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 30,
+        "address": "Arya Samaj Market, Shop No.3, Arya Samaj Market, Bhadbhada Road",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    }
+]

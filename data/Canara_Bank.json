@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "address": "Chathannoor Offsite Atm, Sainu Building, Cp 7\/34, Chathannoor",
+        "city": "Adichanallur",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 2,
+        "address": "Adirampattinam Railway Station",
+        "city": "Adirampattinam",
+        "district": "Thanjore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 3,
+        "address": "Canara Bank, Msv, Van Faridha Buildings, , Post Box No.25, Main Road",
+        "city": "Adirampattinam",
+        "district": "Thanjore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 4,
+        "address": "Canara Bank, Santosh Nilayam Building, 10496 & 499",
+        "city": "Adoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 5,
+        "address": "Adithurai Railway Station",
+        "city": "Aduthurai",
+        "district": "Trichy",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 6,
+        "address": "Canara Bank, B.K.Road, , New Budh Marg, Chowmohoni",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 7,
+        "address": "Tripura Medical College & Dr B R Ambedkar Memorial Teaching Hospital, Hapania",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 8,
+        "address": "1 39\/1a-u9, Vaishno Mata Complex, Bus Stand Road, Idgah",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "32, Ajantha Colony, Vibhavnagar",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "468, Totaka Tal Lohamandi",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    }
+]

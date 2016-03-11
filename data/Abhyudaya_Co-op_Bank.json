@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "address": "Sahakar Sadan, Dattaram Lad Marg, Kalachowky, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 2,
+        "address": "Abhyudaya Bank Bldg., Plot No.26, Sector-17, Airoli, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 3,
+        "address": "Shraddha Shopping Centre, Old Nagardas Road, Andheri (east), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 4,
+        "address": "Kmspms School, Wadia Estate, , Kurla (w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 5,
+        "address": "Chetna Apartments, J.M.Road, , Bhandup(w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 6,
+        "address": "Chetna Apartments, Jangal Mangal Road, Bhandup (west), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "address": "Gopal Nagar, Bhiwandi",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 8,
+        "address": "Ratnadeep Apartments, Carter Road No.1, Borivali (east), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 9,
+        "address": "Sector 6, Chanakya Shop.Centre, Belapur(cbd), Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 10,
+        "address": "Gurukripa C.H.S.Ltd., Opp.Plaza Cinema, Dadar (w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 11,
+        "address": "Western India Tanneries Compound, Sion Dharavi Road, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 12,
+        "address": "Navjivan Vidya Mandir, Ganesh Nagar, Bhandup (w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 13,
+        "address": "Shop No.4 &5, 25 & 26, , Shree Manoshi Complex, , Sector 3, Ghansoli, , Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 14,
+        "address": "Prakash View, Jivdaya Lane, Ghatkopar (west), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 15,
+        "address": "Hill-n-dale, Hill Road, Bandra(w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 16,
+        "address": "Sector 3 Eb, Kalamboli",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 17,
+        "address": "Gundecha Indl.Complex, Akurli Road, Kandivli(e), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 18,
+        "address": "Bhandari Co-op.Hsg.Socy, Kanjur Village, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 19,
+        "address": "Janata Education Soc., Kher Nagar, Bandra (e), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 20,
+        "address": "Unit No.1, Plot No.24-25, Sector-6, Koparkhairane, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 21,
+        "address": "Gr.Floor, Panchpakhadi, Samarth Co-op.Hsg.Soc.Ltd.Lokmanya Nagar, Thane(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 22,
+        "address": "Ellora Shopping Centre, 148, Daftary Rd, Malad (e), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 23,
+        "address": "St.Judes High School, Kharodi, Malad(w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 24,
+        "address": "Neelkanthdhara, , Netaji Subhashchandra Road, , Mulund(w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 25,
+        "address": "Rizvi Apartment, Opp.Railway Station, Mumbra",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 26,
+        "address": "Neelkanth Tower, Ram Maruti Road, Naupada, Thane(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 27,
+        "address": "Abhyudaya Bank Bldg., Nehru Nagar, , Kurla(e), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 28,
+        "address": "Abhyudaya Bank Bldg., Plot No.3a, Sec-15, Nerul, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 29,
+        "address": "Abhyudaya Bank Bldg., Sector-17, , New Panvel",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 30,
+        "address": "J.N.P.T.Shopping Complex, Nhava Sheva, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 31,
+        "address": "Shrama Safalya, , Parel Village, 63, G.D., Ambekar Marg, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 32,
+        "address": "Navnidhi Indl.Estate, A.D.Marg, Sewri (w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 33,
+        "address": "Khair House, Sherly Rajan Road, Bandra(w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 34,
+        "address": ".Apmc Market, Turbhe, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 35,
+        "address": "Om Shivshakti Complex, Vasai-vajreshwari Road, Valiv Village, Vasai Road(e), Dist.Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 36,
+        "address": "Abhyudaya Bank Bldg., Sector-17, Vashi, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 37,
+        "address": "Bhagwan House, Plot No.1\/a, Ajani Chowk, Wardha Road, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 38,
+        "address": "Shop No 66 & 67, Patel Heritage Tower No.1, , Akashdeep Building Plot No.15 & 17 Sector No.7, Khargar Navi Mumbai",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 39,
+        "address": "Amit Smruddhi, Off.J.M.Road, Shivaji Nagar, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    }
+]

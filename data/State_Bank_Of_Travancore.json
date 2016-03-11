@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "address": "Adimali, Room No.Ap V111\/159, First Floor Eastern Side, Valiaparampil Tourist Home Nh 49",
+        "city": "Adimali",
+        "district": "Idukki",
+        "state": "Kerala"
+    },
+    {
+        "id": 2,
+        "address": "Adoor, Punthala Shopping Complex, Adoor P.O",
+        "city": "Adoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 3,
+        "address": "Adoor, Building No.Amc Xxx\/77(1), High School Junction",
+        "city": "Adoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 4,
+        "address": "Alappuzha (main), Srini Buildings, C.C.S.B.Road",
+        "city": "Alappuzha",
+        "district": "Alappuzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 5,
+        "address": "Alathur, Court Road, Alathur P.O",
+        "city": "Alathur",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 6,
+        "address": "Aluva, Room No.X1x\/135(5), Noor Point Bank Jn., Palace Road Aluva",
+        "city": "Aluva",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 7,
+        "address": "Ambalapuzha, Door No.Ix\/989, Harish Homeo Dispensary, National Highway",
+        "city": "Ambalapuzha",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 8,
+        "address": "Anchal, Ap 9\/222 Vt Buildings, R.O.Junction Main Road, Anchal P.O",
+        "city": "Anchal",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 9,
+        "address": "Angamally, Door No.20\/490 Kachappally Building, Church Junction",
+        "city": "Angamally",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 10,
+        "address": "Aroor, P.B.No.1, Manakkattu Buildings, Aroor P.O",
+        "city": "Aroor",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 11,
+        "address": "Attingal, Pushpakesh Bldgs, Attingal Po",
+        "city": "Attingal",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 12,
+        "address": "Ayur, Aiswarya Buildings, Ayur P.O",
+        "city": "Ayur",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 13,
+        "address": "Balaramapuram, S.K.Towers, Balaramapuram Po",
+        "city": "Balaramapuram",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 14,
+        "address": "Balusserry, Malabar Complex, Opp.Chirakkal Kavu Temlple, Thamarassery Road",
+        "city": "Balusserry",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 15,
+        "address": "Bangalore-banasankari, P.B.No.8505, No.140 Nehru Road, Banasankari.P.O Giri Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 16,
+        "address": "Bangalore-indira Nagar, Door No, 25\/3 New Thippasandra Po, Malleshpalaya Main Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 17,
+        "address": "Bangalore-indiranagar, (indira Nagar), No.729 C.M.H Road, Opp.Chinmaya Mission Hospital Indira Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 18,
+        "address": "Bangalore-j C Nagar, Shop No.1\/2 140, Munnir Reddipalya Main Road, J.C.Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 19,
+        "address": "Chalakkudy, Shop No.302\/e, Thekken Complex South Junction, Chalakudy P.O",
+        "city": "Chalakkudy",
+        "district": "Thrissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 20,
+        "address": "Chalissery, Salamath Bldgs, Chalissery Po",
+        "city": "Chalissery",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 21,
+        "address": "Changanacherry, Pmj Shopping Complex, Kavala",
+        "city": "Changanacherry",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 22,
+        "address": "Changanacherry-sb College, Changanacherry P.O",
+        "city": "Changanacherry",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 23,
+        "address": "Charumoodu, Panchajanyam Hotel, K P Road, Charommoodu Po",
+        "city": "Charummoodu",
+        "district": "Alappuzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 24,
+        "address": "Chathanoor, Lakshmi Buildings, Chathanoor P.O",
+        "city": "Chathanoor",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 25,
+        "address": "Chavakkad, P.B.No.5, City Centre, Chettuva Road",
+        "city": "Chavakkad",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 26,
+        "address": "Chavakkad, City Centre, Chettuva Road, Chavakkad P.O",
+        "city": "Chavakkad",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 27,
+        "address": "Chavara, Cp2\/201, Chavara Bridge P.O",
+        "city": "Chavara",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 28,
+        "address": "Chavara Main, Ire, Campus",
+        "city": "Chavara",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 29,
+        "address": "Chengannur, Cm\/xiv\/534, Valuthadathil Complex",
+        "city": "Chengannur",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 30,
+        "address": "Chennai - Besant Nagar, Plot No.E.32, 2nd Avene, Besant Nagar P.O",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 31,
+        "address": "Chennai - Raja Annamalai Puram, 84 Green Ways Road, Raja Annamalai Puram",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 32,
+        "address": "Chennai- T Nagar, No.443\/445 Guna Complex, Anna Salai, Teynampet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 33,
+        "address": "Chennai-alwarpet, Balavinayakar Bldgs, Eldams Road, Alwarpet P.O",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 34,
+        "address": "Chennai-anna Nagar East, Muva Arcade, C-52 Anna Nagar (e)",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 35,
+        "address": "Chennai-kilpauk, Coromandel Towers, 816 Kilpauk P.O., Poonamalle High Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 36,
+        "address": "Cherplasserry, Sico Towers",
+        "city": "Cherplassery",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 37,
+        "address": "Cherthala, New Buildings, Cherthala P.O",
+        "city": "Cherthala",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 38,
+        "address": "Chingavanam, V.O.Markose Memorial Hall Bldg., Chingavanam Po",
+        "city": "Chingavanam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 39,
+        "address": "Chirayinkal, Fp Building, Opposite Swamiji Clinic, Chirayinkeezhu",
+        "city": "Chirayinkil",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 40,
+        "address": "Chittur, 3\/332 Main Road, Chittur P.O",
+        "city": "Chittur",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 41,
+        "address": "Coimbatore-r.S.Puram, No 96 Nsr Road, Saibaba Colony",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 42,
+        "address": "Coimbatore-ramanathapuram, 1060 - Trichy Road, Ramanathapuram P.O",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 43,
+        "address": "Coimbatore (main), Ioc Petrol Pump, Telungupalayam, Sri Muthukumaran Traders",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 44,
+        "address": "Danapady, Anizham Building No.5\/256\/c, National Highway, Kumarapuram P.O",
+        "city": "Danapady",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 45,
+        "address": "Edappal, Vp 10\/156 A, Kuttippuram-trichur Road",
+        "city": "Edappal",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 46,
+        "address": "Edathua, Pallithekkethil Building, No.X\/735, Opp.Police Station",
+        "city": "Edathua",
+        "district": "Edathua",
+        "state": "Kerala"
+    },
+    {
+        "id": 47,
+        "address": "Elavanthitta, Building No.Vii-180c, Elavinthitta P.O",
+        "city": "Elavanthitta",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 48,
+        "address": "Enathu, 418\/b\/11 Ezhamkulam Panchayat, Ebenezer Mandiram, Enathu P.O",
+        "city": "Enathu",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 49,
+        "address": "Erattupetta, No Ep 4\/67b, Kandathinkara Building, Erattupetta",
+        "city": "Erattupetta",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 50,
+        "address": "Eraviperoor, Thykoodathil Bldgs, Eraviperoor P O",
+        "city": "Eraviperoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    }
+]

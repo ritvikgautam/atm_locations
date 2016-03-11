@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 1,
+        "address": "Mardia Plaza, , C G Road, Ahmedabad 380 006",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 2,
+        "address": "Indraprastha Tower, Drive-in Road, Ahmedabad 380 054",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "Mardia Plaza, C G Road, Ahmedabad 380 006, India",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "Mardia Plaza, C G Road, Ahmedabad 380 006, India",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Indraprastha Tower, Drive-in Road, Ahmedabad 380 054",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "No.7, Mahatma Gandhi Road, Bangalore 560 001",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 7,
+        "address": "Sco 1, Sector 9-d, Chandigarh 160 017, India",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 8,
+        "address": "M. G. Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 9,
+        "address": "Garuda Mall, Magarath Road, Bangalore 560 025",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 10,
+        "address": "46\/1, Coles Road, Frazer Town, Bangalore 560 005",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 11,
+        "address": "Leemans Complex, Cunningham Road, Bangalore 560 052",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 12,
+        "address": "No 493, Cmh Road, Indiranagar, Bangalore 560 038",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 13,
+        "address": "The Forum, Adugodi Main Road, Koramangala, Bangalore 560 095",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 14,
+        "address": "Esteem Plaza, 4th Main Road, Sadashivnagar, Bangalore 560 080",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 15,
+        "address": "Nacons House, No 75\/3\/2 Elephant Rock Road, 8th Main, 3rd Block, Jayanagar Bangalore 560 011",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 16,
+        "address": "Dr.Rajakumar Road, Rajajinagar, Bangalore 560 010",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 17,
+        "address": "S M Plaza, Bannerghatta, Road No 16, Keb Layout, Btm Circle, Bangalore 560 076",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 18,
+        "address": "7 M G Road, Hsbc Centre, Bangalore 560 001, India",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 19,
+        "address": "No.84, Gandhi Bazar Main Road, Basavanagudi, Bangalore 560 004",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 20,
+        "address": "96, Radhakrishnan Salai, Mylapore, Chennai 600 004, India",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 21,
+        "address": "Sco 1, Sector 9-d, Chandigarh 160 017, India",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 22,
+        "address": "Rajalakshmi Palace, No.43, 1 Main Road, Adyar, Chennai 600 020, India",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 23,
+        "address": "Srivari Gokhul Towers, 108, Race Course, Coimbatore 641 018, India",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 24,
+        "address": "Palace Regency, Puraswawalkam High Road, Chennai 600 010",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 25,
+        "address": "Spencer Plaza, 769-a, Anna Salai, Chennai 600 002",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 26,
+        "address": "Khader Nawaz Khan Road, Nungambakkam, Chennai 400 006",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 27,
+        "address": "Challa Mall, Sir Theyagaraya Road, T Nagar, Chennai 600 017",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 28,
+        "address": "Nsk Salai, Vadapalani, Chennai 600 026",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 29,
+        "address": "2nd Avenue Road, Anna Nagar, Chennai 600 040",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 30,
+        "address": "Ambal House, No.610, Anna Salai, Chennai - 600 006",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 31,
+        "address": "96, Radhakrishnan Salai, Mylapore, Chennai 600 004, India",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 32,
+        "address": "Rajalakshmi Palace, No.43, 1 Main Road, Adyar, Chennai 600 020, India",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 33,
+        "address": "Jmd Regent Square, Dlf Phase Ii, Mehrauli - Gurgaon Road, Gurgaon 122 001, India",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 34,
+        "address": "Srivari Gokhul Towers, 108, Race Course, Coimbatore 641 018, India",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 35,
+        "address": "25, Birla Towers, Barakhamba Road, New Delhi 110001, India",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 36,
+        "address": "Qutab Plaza Market, Dlf City Phase I, Gurgaon122 002",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 37,
+        "address": "Booth No.101, Sector 14, Gurgaon 122 001",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 38,
+        "address": "Jmd Regent Square, Dlf Phase Ii, Mehrauli - Gurgaon Road, Gurgaon 122 001, India",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 39,
+        "address": "166\/2 Belilious Road, Kadamtala, Howrah 711 101",
+        "city": "Howrah",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 40,
+        "address": "6-3-1107 & 1108, Raj Bhavan Road, Somajiguda, Hyderabad-500082",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 41,
+        "address": "Maheshwari Plaza Mall, 4-1-833 Palace Talkies Compound, Abids, Big Bazar, Hyderabad 500 001",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 42,
+        "address": "6-3-1107 & 1108, Raj Bhavan Road, Somajiguda, Hyderabad-500082",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 43,
+        "address": "Darshan Mall, 15\/2 Race Course Road, Indore 452 001, India",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 44,
+        "address": "Darshan Mall, 15\/2 Race Course Road, Indore 452 001, India",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 45,
+        "address": "Vasanti 61-a, Sardar Patel Marg, C-scheme, Jaipur 302 001, India",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 46,
+        "address": "Vasanti 61-a, Sardar Patel Marg, C-scheme, Jaipur 302 001, India",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 47,
+        "address": "Plot No.C-43a (2), Center Point, Pwd Colony, Jodhpur - 342001",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 48,
+        "address": "Plot No.C-43a (2), Center Point, Pwd Colony, Jodhpur - 342001",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 49,
+        "address": "Hsbc, Pulikkal Estate, M.G.Road, Pallimukku, Kochi 682 016",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 50,
+        "address": "Hsbc, Pulikkal Estate, M.G.Road, Pallimukku, Kochi 682 016",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 51,
+        "address": "Dalhousie Square, 31 Bbd Bagh, Kolkata 700 001, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 52,
+        "address": "No.2\/1, Ekdalia Road, Kolkata 700 019",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 53,
+        "address": "21, Grand Trunk Road, Howrah 711 101, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 54,
+        "address": "P 158, Nazrul Islam Avenue, Kolkata 700 054, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 55,
+        "address": "Jasmine Tower, 31 Shakespeare Sarani, Kolkata 700017, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 56,
+        "address": "Hsbc Fort Terrazo, No.5, Ramani Chatterjee Road, Kolkata- 700 029",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 57,
+        "address": "375, Block G, New Alipore, Kolkata 700 053, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 58,
+        "address": "Ec 18, Sector I, Salt Lake, Kolkata- 700064",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 59,
+        "address": "Peerless Inn, 12 Jawaharlal Nehru Road, Kolkata 700 013",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 60,
+        "address": "Central Metro Station, 57a C R Avenue, Kolkata 700 073",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 61,
+        "address": "Price Waterhouse Coopers Limited, Plot No .Xi-7, Block Ep\/gp, Salt Lake, Sector V, Kolkata 700 091",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 62,
+        "address": "13 Bhupen Bose Avenue, (shyambazar), Kolkata 700 004",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 63,
+        "address": "15 Gariahat Road, Kolkata 700 019",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 64,
+        "address": "Kalighat Metro Station, 39a, Rash Behari Avenue, Kolkata 700 026",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 65,
+        "address": "P-338 C.I.T.Road, Scheme Vi M, Phulbagan, Kolkata 700 054",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 66,
+        "address": "190 Sarat Bose Road, Southern Avenue, Kolkata 700 029",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 67,
+        "address": "1\/427 Gariahat Road (south), Jodhpur Park Kolkata 700 068",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 68,
+        "address": "Tollygunge Metro Station, Tollygunge, Kolkata 700 033",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 69,
+        "address": "Mili Apartments, 569 Diamond Harbour Road, Behala, Kolkata 700 034",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 70,
+        "address": "P104\/a, Block B, Lake Town, (jessore Road), Kolkata 700 089",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 71,
+        "address": "Dalhousie Square, 31 Bbd Bagh, Kolkata 700 001, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 72,
+        "address": "Jasmine Tower, 31 Shakespeare Sarani, Kolkata 700017, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 73,
+        "address": "Ec 18, Sector I, Salt Lake, Kolkata- 700064",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 74,
+        "address": "21, Grand Trunk Road, Howrah 711 101, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 75,
+        "address": "P 158, Nazrul Islam Avenue, Kolkata 700 054, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 76,
+        "address": "Hsbc Fort Terrazo, No.5, Ramani Chatterjee Road, Kolkata- 700 029",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 77,
+        "address": "375, Block G, New Alipore, Kolkata 700 053, India",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 78,
+        "address": "1, Shahnajaf Road, Hazratganj, Lucknow - 226 001",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 79,
+        "address": "1, Shahnajaf Road, Hazratganj, Lucknow - 226 001",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 80,
+        "address": "Ground Floor, Ludhiana Stock Exchange Building, Feroze Gandhi Market, Ludhiana 141 001, India",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 81,
+        "address": "Ground Floor, Ludhiana Stock Exchange Building, Feroze Gandhi Market, Ludhiana 141 001, India",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 82,
+        "address": "52\/60, Mahatma Gandhi Road, Mumbai 400 001, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 83,
+        "address": "Kamala Bhavan, Swami Nityanand Marg, Andheri (east), Mumbai 400 069",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 84,
+        "address": "Hsbc Centre, Dr Ambedkar Road, Bandra (w), Mumbai 400 050, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 85,
+        "address": "Siddharth Arcade, Lokmanya Tilak Road, Factory Lane Junction, Borivili (west), Mumbai 400 092, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 86,
+        "address": "Merchantile Apartments, Dr C P Gidwani Road, Chembur, Mumbai 400 074, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 87,
+        "address": "Asha Mahal, 46-b, Dr G Deshmukh Road, Peddar Road, Mumbai 400 026, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 88,
+        "address": "Saroj, B7, Kapole Society, V L Mehta Road, Juhu, Mumbai 400 049",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 89,
+        "address": "Lokhandwala , E-2-3-4, Manish Gardens, J P Road, Andheri (w), Mumbai 400 053, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 90,
+        "address": "Prudential Hiranandani Business Park, Powai, Mumbai 400 076, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 91,
+        "address": "Hsbc, Plot No.139-140 B, Western Express Highway, Sahar Road Junction, Vile Parle (east), Mumbai 400 057",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 92,
+        "address": "16 V N Road, Mumbai 400 023",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 93,
+        "address": "Kohinoor Corner, Veer Savarkar Marg, Prabhadevi, Dadar (w), Mumbai 400 025",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 94,
+        "address": "Saryu Premises Commercial Co-op Society, Plot 64\/b, Linking Road, Santacruz (west), Mumbai 400 054",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 95,
+        "address": "Kalyan Bhuvan, Maheshwari Udhyan, Kings Circle, Mumbai 400 019",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 96,
+        "address": "Eden Square, Plot No.3\/1, N.S.Road No.10, Jvpd Scheme, Juhu Vile Parle (west), Mumbai - 400049",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 97,
+        "address": "Evershine Apartments Ii, Jai Prakash Road, 7 Bungalows, Andheri (west), Mumbai 400 053",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 98,
+        "address": "Mittal Industrial Estate, Bldg No.2, Andheri Kurla Road, Marol, Andheri (e), Mumbai400 059",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 99,
+        "address": "Krystal Avenue, (r N A Arcade), Lokhandwala Market, Andheri (w), Mumbai - 400 053",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 100,
+        "address": "7-hermes Centre, Sector 17, Vashi, Navi Mumbai, Mumbai 400 705",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 101,
+        "address": "Hyper City, New Link Road, Mindspace, Malad (w), Mumbai 400 064",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 102,
+        "address": "Jamuna Building, New Link Road, Mith Chowki, Malad (w), Mumbai 400 064",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 103,
+        "address": "Chandra Darshan, P K Road, Panch Rasta, Mulund (w), Mumbai 400 080",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 104,
+        "address": "Shreeji Arcade, Jn Of M G Road And S V Road, Kandivali (w), Mumbai 400 067",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 105,
+        "address": "Krishna Palace, Western Express Highway, Nr Asha Nagar, Nxt To Saidham Mandir, Kandivli East, Mumbai 400 067",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 106,
+        "address": "El Plaza Co-operative Housing Society Ltd., Main Road, I C Colony, Borivli (w), Mumbai 400 103",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 107,
+        "address": "7-hermes Centre, Sector 17, Vashi, Navi Mumbai, Mumbai 400 705",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 108,
+        "address": "52\/60, Mahatma Gandhi Road, Mumbai 400 001, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 109,
+        "address": "Asha Mahal, 46-b, Dr G Deshmukh Road, Peddar Road, Mumbai 400 026, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 110,
+        "address": "Hsbc Centre, Dr Ambedkar Road, Bandra (w), Mumbai 400 050, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 111,
+        "address": "Merchantile Apartments, Dr C P Gidwani Road, Chembur, Mumbai 400 074, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 112,
+        "address": "Hsbc, Plot No.139-140 B, Western Express Highway, Sahar Road Junction, Vile Parle (east), Mumbai 400 057",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 113,
+        "address": "Lokhandwala , E-2-3-4, Manish Gardens, J P Road, Andheri (w), Mumbai 400 053, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 114,
+        "address": "Prudential Hiranandani Business Park, Powai, Mumbai 400 076, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 115,
+        "address": "Siddharth Arcade, Lokmanya Tilak Road, Factory Lane Junction, Borivili (west), Mumbai 400 092, India",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 116,
+        "address": "Ishkrupa Building, Ram Maruti Road, Naupada, Thane (w), 400 602.",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 117,
+        "address": "No.1, Kalidasa Road, Iii Block, Jayalakshmipuram, Mysore",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 118,
+        "address": "No.1, Kalidasa Road, Iii Block, Jayalakshmipuram, Mysore",
+        "city": "Mysore",
+        "district": "Mysore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 119,
+        "address": "Shriram Shyam Towers, Shop No 6 & 7, S V Patel Road, Kingsway, Nagpur -440001",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 120,
+        "address": "Shriram Shyam Towers, Shop No 6 & 7, S V Patel Road, Kingsway, Nagpur -440001",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 121,
+        "address": "R-47 Greater Kailash I, New Delhi 110048, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 122,
+        "address": "12, Basant Lok, New Delhi 110 057, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 123,
+        "address": "No.34, Central Market, Sector-ii, West Avenue Road, Punjabi Bagh (west), New Delhi 110 026, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 124,
+        "address": "Community Center, Saket, New Delhi 110 017",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 125,
+        "address": "F230, Shankar Road, New Rajinder Nagar, New Delhi 110 060",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 126,
+        "address": "Mcdonalds, Bunglow Road, Jawahar Nagar, (kamala Nagar), New Delhi 110 007",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 127,
+        "address": "Indraprastha Gas Ltd., Cng Filling Station, Shanti Path, New Delhi110 021",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 128,
+        "address": "Capital Trust House, Main Mathura Road, Friends Colony, Community Centre, New Delhi 110 065",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 129,
+        "address": "G-3, Shakuntala Apartments, 59 Nehru Place, New Delhi 110 019",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 130,
+        "address": "Indraprastha Gas Ltd., Cng Mega Bus Filling Station, Mandawali Fazalpur Road, Patparganj Area, New Delhi 110 021",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 131,
+        "address": "25, Birla Towers, Barakhamba Road, New Delhi 110001, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 132,
+        "address": "F-43, South Extension Part -1, New Delhi 110 049, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 133,
+        "address": "R-47 Greater Kailash I, New Delhi 110048, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 134,
+        "address": "12, Basant Lok, New Delhi 110 057, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 135,
+        "address": "No.34, Central Market, Sector-ii, West Avenue Road, Punjabi Bagh (west), New Delhi 110 026, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 136,
+        "address": "Community Center, Saket, New Delhi 110 017",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 137,
+        "address": "F-43, South Extension Part -1, New Delhi 110 049, India",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 138,
+        "address": "Plot No.K14-18, Sector 18, Gautam Budh Nagar, Uttar Pradesh -201301, India",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 139,
+        "address": "Sector-18, Atta Market, Noida 201 301",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 140,
+        "address": "Plot No.K14-18, Sector 18, Gautam Budh Nagar, Uttar Pradesh -201301, India",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 141,
+        "address": "Kataruka Niwas, South Gandhi Maidan, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 142,
+        "address": "Kataruka Niwas, South Gandhi Maidan, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 143,
+        "address": "Hsbc Amar Avinash Corporate City, Sector No.11, Bund Garden Road, Pune 411 011",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 144,
+        "address": "Pradeep Chambers, 813\/a, Shop No.3, Bhandarkar Road, Shivaji Nagar, Pune - 411004",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 145,
+        "address": "Kamla Arcade, Jungli Maharaj Road, Shivaji Nagar, Pune 411 005",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 146,
+        "address": "Hsbc Amar Avinash Corporate City, Sector No.11, Bund Garden Road, Pune 411 011",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 147,
+        "address": "Pradeep Chambers, 813\/a, Shop No.3, Bhandarkar Road, Shivaji Nagar, Pune - 411004",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 148,
+        "address": "Dm Plaza, 8\/127, Moulana Abdul Rauf, Fire Brigade Chowk, Chhotapara, Raipur - 492001",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 149,
+        "address": "Dm Plaza, 8\/127, Moulana Abdul Rauf, Fire Brigade Chowk, Chhotapara, Raipur - 492001",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 150,
+        "address": "East Maredpally, Nehru Nagar, Secunderabad 500 026",
+        "city": "Secunderabad",
+        "district": "Secunderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 151,
+        "address": "Ishkrupa Building, Ram Maruti Road, Naupada, Thane (w), 400 602.",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 152,
+        "address": "Ashok Paranjpe Udyog Bhavan, Gokhale Road, Thane 400 601",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 153,
+        "address": "Hsbc , Dimond Hill, Vellayambalam, Trivandrum - 695010.Kerala",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 154,
+        "address": "Hsbc , Dimond Hill, Vellayambalam, Trivandrum - 695010.Kerala",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 155,
+        "address": "Sheel, 1-2 Kalpana Society, Inox Multiplex Road, Race Course Road, Vadodara - 390 007, India",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 156,
+        "address": "Sheel, 1-2 Kalpana Society, Inox Multiplex Road, Race Course Road, Vadodara - 390 007, India",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 157,
+        "address": "Sheel, 1-2 Kalpana Society, Inox Multiplex Road, Race Course Road, Vadodara - 390 007, India",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 158,
+        "address": "Dutt Island, Sirripuram Junction, Visakhapatnam 530 003",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 159,
+        "address": "28-16-31 Suryabagh, Visakhapatnam 530 020",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 160,
+        "address": "Vinayagar Paradise, Door No.10-1-38b, Waltair Uplands, T B Road, Vishakapatnam- 530003",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "address": "Shop No.Rps 4, 2 A, Adipur",
+        "city": "Adipur",
+        "district": "Adipur",
+        "state": "Gujarat"
+    },
+    {
+        "id": 2,
+        "address": "Netaji C Howmuhani P.S., West Agartala, Dist-west, Agartala, Tripura-, 1, 1",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 3,
+        "address": "13 M G Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "2\/137 , Prem Bhawan, Main Dayalbagh Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "C-2\/50, Kamla Nagar,",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Lg 6 Shree Nath Jee Complex Madia Katra Crossing, Mathura Road, Agra, U.P.",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "Shop No.1 , Dakota Complex, Air Force Station, Kheria",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "Shop No.2, Karim Shopping Complex, Fatehabad Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "Shop No.3 , 4 & 11 ; Ground Floor, Block No.17\/2\/4, Friends Plaza ; Sanjay Place",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "Shop No.3 , 4 & 11 ; Ground Floor, Block No.17\/2\/4, Friends Plaza ; Sanjay Place",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Shop No.4, Bhawna Multiplex, Sector 13, Awas Vikas Colony, Sikandra Bodla Road, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Shop No.Ug - 1, B - 190 , Kamla Nagar",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 13,
+        "address": "1 Bhagwati Chambers, C G Road, Near Swastik Cross Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "23, Ankit Complex, Opp.Nutan School, Ghatlodia, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 15,
+        "address": "2nd Floor, Zodiac Square , Opp.Gurudwara, S G High Way, Ahmedabad - 380 015",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "6-g , Mansarovar Plaza, Behind Kamal Cinema , Ramnagar, Sabarmati",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 17,
+        "address": "A\/16, Near Vadaj Bus Stop, Ashram Road,",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 18,
+        "address": "Ahmedabad Electricity Company - Zonal Office, Opp.Jubilli House, Shahpur, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 19,
+        "address": "Apna Bazaar, Ongc Colony, Chandkheda",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 20,
+        "address": "Behind Shyam Shikhar Building, India Colony Char Rastaa, Bapunagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    }
+]

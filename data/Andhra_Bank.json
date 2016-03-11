@@ -1,0 +1,3082 @@
+[
+    {
+        "id": 1,
+        "address": "H No 40-122-1, Narasaraopet Road, Addanki",
+        "city": "Addanki",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Cinema Road, Adilabad,",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Collectorate, Adilabad",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "R.K.Puram, Adilabad",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "19\/1 Opp Municipal Office, Gooty Local Fund Road, P.B.No.65, Adoni, Pin : 518301",
+        "city": "Adoni",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "3, Manick Mansion, , Nand Cinema Crossing, ,",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "Plot No 149, Shop No 42, Rudra Square, Ground Floor, Bolakdev, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "2-73\/2, Palakol Pamarru Road, Akiveedu,",
+        "city": "Akiveedu",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "T B Road, Near Junior College, Allagadda,",
+        "city": "Allagadda",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "7-1-6, Knf Road, Near Gandhi Centre, Tower Clock Centre",
+        "city": "Amalapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Moberlipeta, ,",
+        "city": "Amalapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Amaravathi",
+        "city": "Amaravathi",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 13,
+        "address": "D No.12-1-22(2), Trunk Road, Anakapalle",
+        "city": "Anakapalli",
+        "district": "Vishakapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 14,
+        "address": "New Town Branch, ,",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "15\/391, Shop No.G-6, 15\/391, Pallam Towers, Subhash, Anantapur",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 16,
+        "address": "Ramnagar, ,",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 17,
+        "address": "Sri Krishna Deva Raya University, Anantapur,",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "Dr T Narayana Reddy Eye Hospital, Canal Street, Anaparthi",
+        "city": "Anaparthi",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "Main Road, Balugaon, Puri Dist",
+        "city": "Balugaon",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 20,
+        "address": "Tawakkal Towers, 13 Banswadi Road,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 21,
+        "address": "No 9 Dcosta Lay Out, Cook Town, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 22,
+        "address": "56\/76, Rajajinagar, Bangalore,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "10\/a 1st, Main Road, Gandhinagar, Bangalore-9",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 24,
+        "address": "Sector V, Teachers Colony, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 25,
+        "address": "720, Chinmaya Mission Hospital Road, Indiranagar, Bangalore 560 038",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 26,
+        "address": "J P Nagar, ,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 27,
+        "address": "H No.15, 10th Main, Jeevan Bima Nagar, Indira Nagar, , Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 28,
+        "address": "36\/1, 80 Ft Road, Hennur Road, Opp Bts, 10th Depopt, Kalyannagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 29,
+        "address": "N R Road Branch Premises, ,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 30,
+        "address": "M\/s Fabritx Exports Pvt Ltd, Bannerghatta Road,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 31,
+        "address": "46-7, Katriguppa Main Road, Vidyapeeth Centre, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 32,
+        "address": "7Th. Cross, Kaggadasapura Main Road, C.V.Raman Nagar, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 33,
+        "address": "Bapatla, ,",
+        "city": "Bapatla",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 34,
+        "address": "12-8-11, , Bapatla,",
+        "city": "Bapatla",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 35,
+        "address": "Plot M 14, Housing Board Colony, Baramunda 751 003,",
+        "city": "Baramunda",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 36,
+        "address": "Bellampally, ,",
+        "city": "Bellampalli",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 37,
+        "address": "Opp Old Bus Stand, Berhampur,",
+        "city": "Berhampur",
+        "district": "Ganjam",
+        "state": "Orissa"
+    },
+    {
+        "id": 38,
+        "address": "Tata Benz Square, ,",
+        "city": "Berhampur",
+        "district": "Ganjam",
+        "state": "Orissa"
+    },
+    {
+        "id": 39,
+        "address": "Hotel Jakkam Paradise, Opp Rtc Bus Stand, Bhadrachalam",
+        "city": "Bhadrachalam",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 40,
+        "address": "Bdl Township, Bhanur,",
+        "city": "Bhanur",
+        "district": "Medak",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 41,
+        "address": "Bhilai, ,",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 42,
+        "address": "Sgs Avadhutha Pitham, Bhimavaram,",
+        "city": "Bhimavaram",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 43,
+        "address": "D No 16-2-191, Hotel Raj Residency, P P Road, Opposite Annapurna Theatre, Bhimavaram",
+        "city": "Bhimavaram",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 44,
+        "address": "Gunj, Bhongir,",
+        "city": "Bhongir",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 45,
+        "address": "66, Kalpana Square, Bhubaneswar,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 46,
+        "address": "Plot No 10, Bhoumanagar, , M S Nagar, , Bhubaneswar",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 47,
+        "address": "108, Suryanagar, Bhubaneswar,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 48,
+        "address": "D No 4-2-255\/2, Opp Sbh, Main Road, Bodhan",
+        "city": "Bodhan",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 49,
+        "address": "Kerala Transport Company Building, Ymca Road, Calicut",
+        "city": "Calicut",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 50,
+        "address": "D No.2-190\/1, Main Road, Chagallu",
+        "city": "Chagallu",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 51,
+        "address": "Sector 17 C, Sco 202-3-204, Chandigarh-17",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 52,
+        "address": "Sco-24, Sec 26, Mandhya Marg, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 53,
+        "address": "468-b Sec 35, Chandigarh,",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 54,
+        "address": "Mogappair",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 55,
+        "address": "Old Washermanpet, ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 56,
+        "address": "18, Iii Cross Street, Sagarika Towers, Kasturba Nagar, Adyar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 57,
+        "address": "995-ja, New 170, Ii Avenue Annanagar, Chennai 600 040",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 58,
+        "address": "47, Ist Avenue, Ashok Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 59,
+        "address": "No 653 Cth Road, Avadi, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 60,
+        "address": "34 & 36, 7th Avenue, Besant Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 61,
+        "address": "Chennai Main Branch, ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 62,
+        "address": "30, Main Road, ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 63,
+        "address": "Keelakattalai, ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 64,
+        "address": "314, Ttk Road, Chennai,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 65,
+        "address": "443, Guna Complex, Anna Salai, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 66,
+        "address": "115, Arcot Road, Valasaravakkam,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 67,
+        "address": "Villivakkam, ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 68,
+        "address": "T V R Hotels, Chilakaluripet,",
+        "city": "Chilakaluripet",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 69,
+        "address": "H No 13-3-42, Dharbar Road, Chirala,",
+        "city": "Chirala",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 70,
+        "address": "Near Msr Junction, # 18, High Road, Chittoor, Chittoor",
+        "city": "Chittoor",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 71,
+        "address": "Opp Vinayaka Temple, Chodavaram,",
+        "city": "Chodavaram (vzg",
+        "district": "Vishakapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 72,
+        "address": "Cross Cut Road, Gandhipuram, Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 73,
+        "address": "D No 6\/1445-2, Ground Floor, 4th Shop, P N Reddy Complex, Chinna Chowk Area, Cuddapah",
+        "city": "Cuddapah",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 74,
+        "address": "Hind Talkies, Cuttack,",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 75,
+        "address": "Main Road, Devarakonda",
+        "city": "Devarakonda",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 76,
+        "address": "D No.16-137\/1, Main Road, Girls High School, Dowleswaram",
+        "city": "Dowleswaram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 77,
+        "address": "W G Dt Marketing Federation, Opp Fire Station, N R Pet, Eluru",
+        "city": "Eluru",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 78,
+        "address": "Main Road, Ramachandra Rao Pet, Eluru,",
+        "city": "Eluru",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 79,
+        "address": "D.No.22\/b\/1\/29, Ground Floor, , G N T Road, , Eluru",
+        "city": "Eluru",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 80,
+        "address": "Khaleel House, Ernakulam,",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 81,
+        "address": "Om Shubham Towers, Niit, Farid, Shop No 6, Of Above Towers, Faridabad, Haryana",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 82,
+        "address": "Booth No.177, , Commercial Complex, , Sec 17, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 83,
+        "address": "Plot No 1, Rajeev Marg Circle, Opp Ttd Kalyanamandapam, Gadwal",
+        "city": "Gadwal",
+        "district": "Mehboobnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 84,
+        "address": "Gannavaram, ,",
+        "city": "Gannavaram",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 85,
+        "address": "Main Road, ,",
+        "city": "Godavarikhani",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 86,
+        "address": "Vidyanagar, Godavarikhani,",
+        "city": "Godavarikhani",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 87,
+        "address": "Godavarikhani, ,",
+        "city": "Godavarikhani",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 88,
+        "address": "Vani Vidya Junior College, Ramesh Nagar,",
+        "city": "Godavarikhani",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 89,
+        "address": "Shop No 11, Lakshmi Complex, Nehru Chowk, Gudiwada",
+        "city": "Gudivada",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 90,
+        "address": "Vsr Residency, Near Railway Station, Gudur",
+        "city": "Gudur",
+        "district": "Nellore",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 91,
+        "address": "D No 4-14-107, Smt Thaya Nagaraja Kumari, Near Sri Anjaneyaswamy Temple, Amaravathi Road, Guntur",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 92,
+        "address": "D No 6-4-71, 4\/1, Besides Geetha Cafe, Arundelpet",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 93,
+        "address": "D No 05-87-43, Main Road, Brindavan Gardens, Near Bus Stop",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 94,
+        "address": "26-1-135, Main Road, , Nagaram- Palem, , Kannavarithota, Guntur",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 95,
+        "address": "Koretipadu Branch, ,",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 96,
+        "address": "D No 13-8-210 K V Reddy Complex, Guntur,",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 97,
+        "address": "Opp Sankar Vilas, Brodipet, Guntur",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 98,
+        "address": "Ring Road, Pattabhipuram,",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 99,
+        "address": "D No.4-20-23, Opp H\/o, Rayapati Srinivasa Rao, Ring Road, Sidhartha Nagar",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 100,
+        "address": "12-25-58, Vasu Complex, Kothapet, Guntur",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 101,
+        "address": "Shop No.107, Sec-14, , Main Market, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 102,
+        "address": "West End Plaza, Near Bata Show Room, Palam Gugaon Road, Kapashera",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 103,
+        "address": "Shop A-14, Vyapar Kendra, Palam Vihar, New Delhi",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 104,
+        "address": "East Nada, ,",
+        "city": "Guruvayur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 105,
+        "address": "Hanamkonda, ,",
+        "city": "Hanamkonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 106,
+        "address": "4-7-152, Nrr Bhavan Kummarapalli, Hanamkonda",
+        "city": "Hanamkonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 107,
+        "address": "Karimnagar Road, Hanamkonda,",
+        "city": "Hanamkonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 108,
+        "address": "Opp Sub Post Office, Nakkalagutta, Hanamkonda",
+        "city": "Hanumakonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 109,
+        "address": "H No.14-1--139, M G Road, L B Nagar, Warangal",
+        "city": "Hanumakonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 110,
+        "address": "Nakkalagutta, ,",
+        "city": "Hanumakonda",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 111,
+        "address": "Hanuman Junction, ,",
+        "city": "Hanuman Junction",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 112,
+        "address": "2-3-25 A, Penukonda Road, Hindupur",
+        "city": "Hindupur",
+        "district": "Anantpur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 113,
+        "address": "Opp Deccan Chronicle, Sarojini Devi Road, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 114,
+        "address": "1-1-1 To 8, Prakasam Nagar, Beumpet Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 115,
+        "address": "12-13-1237, Moulaali Road Tarnaka Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 116,
+        "address": "40, Hig Phase Iv , Vanastalipura",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 117,
+        "address": "Abids, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 118,
+        "address": "6-3-867, Opp Green Lands, Ameerpet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 119,
+        "address": "Near Central Canteen, Rajendranagar, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 120,
+        "address": "Shop No 1, 25-105, Ashok Nagar, Ramachandrapuram, (rc Puram, Hyd)",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 121,
+        "address": "4-6-69\/1\/5, Attapur Ring Road, , Rajendranagar Main Road",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 122,
+        "address": "B D L, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 123,
+        "address": "B D L Campus Branch, Kanchanbagh,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 124,
+        "address": "D No.1-8-1\/b, Shop No 46, Aphb, Adjacent To Ambedkar College, Baghlingampally",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 125,
+        "address": "1-90\/7, Balaji Sqaure, , Madhapur, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 126,
+        "address": "Opp: I D P L Colony, Balanagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 127,
+        "address": "Balanagar, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 128,
+        "address": "Plot No.26, Balapur X Road, Meerpet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 129,
+        "address": "8-9-626\/5, Reliance Classic, Road No 1, Banjara Hills",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 130,
+        "address": "Shop No 4, 9-131\/1, , Bapuji Nagar, Nacharam",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 131,
+        "address": "D No 2-3\/1 Satyanarayanapuram, Chaitanyapuri Adjacent To Foodland Super Market,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 132,
+        "address": "Shop No.3 (1-7-234\/c), Chandra Lok Complex, M G Road, Paradise",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 133,
+        "address": "H No.1-1-230\/34, Chikkadpally,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 134,
+        "address": "Cyber Gateway, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 135,
+        "address": "D No 7-1-77\/d\/1\/1\/8\/1, Dharam Karam Road, Ameerpet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 136,
+        "address": "Dilsukhnagar, Nh - 9, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 137,
+        "address": "Entrance Of Dm & Hs Office, Adjacent To Kendriya Sadan Building, Koti",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 138,
+        "address": "Pattabhi Bhavan Branch, Andhra Bank Head Office Premises, Secretariat Road, Saifabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 139,
+        "address": "10-2-198, East Maredpalli, Opp Andhra Bank, Maredpalli",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 140,
+        "address": "B1, Sai Ratna Complex, Ecil X Roads,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 141,
+        "address": "D No.8-3-166\/5\/2\/s3, Rams Enclave, Erragadda, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 142,
+        "address": "Roshan Plaza, Engine Bowli, H No 19-3-1086\/10871-35, Falaknama, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 143,
+        "address": "Road No 1 Film Nagar, Jubilee Hills,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 144,
+        "address": "Opposite Govt Homeo, Medical College, , Ramanthapur",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 145,
+        "address": "43\/3 Rt, Sanjeevareddy Nagar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 146,
+        "address": "H No.1-1-651\/8, Gandhinagar, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 147,
+        "address": "Gautami Talent High School",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 148,
+        "address": "Shop No 4, Ground Floor, , Libra Madehalli Enclave, 1-1-1\/8 To 16",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 149,
+        "address": "4-44\/4\/a, St No.8, Habsiguda, Tarnaka",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 150,
+        "address": "Hayatnagar, Nh-9, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 151,
+        "address": "Main Road, Opp Telugu Academy, Himayaynagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 152,
+        "address": "Cyber Towers, D Quardrum, Madhapur, Hitech City",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 153,
+        "address": "Vigneswara Industrial Complex, , Shop No 5, Jeedimetla",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 154,
+        "address": "H No 42-2, Grama Parishramala Bhavan, Humayunnagar, Masab Tank",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 155,
+        "address": "H No 4-4-952, J P House, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 156,
+        "address": "1-1-379, 115\/a\/1, Chabda Towers, Jawaharnagar, Ashoknagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 157,
+        "address": "Ramrajnagar, Jeedimetla, Secunderabad -55,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 158,
+        "address": "Road No.36, Plot No.500, Jubilee Hills, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 159,
+        "address": "Jubilee Hills Branch, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 160,
+        "address": "Plot No 50, Anupuram, Kapra, Hyderabad 500 762",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 161,
+        "address": "Shop No 20, Sri Vishnu House, Bhagyanagar Colony, Karmanghat Chowrasta, Lingojiguda",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 162,
+        "address": "D No 1-8-31\/1, Ministers Road, Krishna Institute Of Medical Services(kims), Secunderabad -3",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 163,
+        "address": "8-72-3 & 4, Near Dilsukhnagar, Hyderabad 500 060",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 164,
+        "address": "H No 507, Mig Ii, Kphb Colony, Kukatpally",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 165,
+        "address": "D No.3-2-368, L B Nagar, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 166,
+        "address": "D No 23-6-903 & 904, Laldarwaja X Roads, Shaalibanda",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 167,
+        "address": "D No 3-6-110\/1, 2, 3, Shop No 3, Anand Arcade",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 168,
+        "address": "H No 1-13-16, Lothukunta, Tirumalagherry, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 169,
+        "address": "D No 1-2-739, Near Hanuman Temple, Kavadiguda, , Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 170,
+        "address": "M J Road, Hyderabad,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 171,
+        "address": "Malakpet Gunj",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 172,
+        "address": "Shop No.7, Peddapudi Towers, , Vi Phase, Kphb Colony, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 173,
+        "address": "Malkajgiri, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 174,
+        "address": "Shop No 7-1-670 A, Market Street, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 175,
+        "address": "Purana Haveli Road, Charminar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 176,
+        "address": "Shop No 5, Meraz Complex, Mainaz Complex, Mehdipatnam",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 177,
+        "address": "Anwar Manzil, Miyapur Bus Stop,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 178,
+        "address": "Mobile Atm, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 179,
+        "address": "D No.1-1-687\/2, Sri Rama Plaza, Gayatripuram Colony, Mohan Nagar, Main Road, Kothapet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 180,
+        "address": "Shop No 3, Ground Floor, , Swasthik Towers Borabanda, Mothinagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 181,
+        "address": "N I M S, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 182,
+        "address": "D No.6-3-349\/81, Road No.1, Banjara Hills,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 183,
+        "address": "2-3-100\/2\/5, Ring Road, Nagole, Nagole,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 184,
+        "address": "Home Needs, Nalgonda Cross Roa, Home Needs Super Market, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 185,
+        "address": "Beside Anmol Hotel, Opp Public Gardens, Nampally, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 186,
+        "address": "6-3-457, Near Nims, Punjagutta, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 187,
+        "address": "H No.37-89\/b, Defence Colony, Sainikpuri, Neredment Cross Road",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 188,
+        "address": "Secretariat Road, Saifabad, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 189,
+        "address": "Opp Chandana Brothers, Dilsukhnagar Main Road, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 190,
+        "address": "Shop No.3, 2-2-5, G F, Vidya Nagar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 191,
+        "address": "P&t Colony, Dilsukhnagar, D No 14-71\/f, Sri Sai Complex, Dilsukhnagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 192,
+        "address": "6-1-131, R Venkataramana Residential Complex, Padmarao Nagar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 193,
+        "address": "10-1\/3, Main Road, Prem Vijayanagar Colony, Malkajgiri",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 194,
+        "address": "-1-17 To 21, Rashtrapathi Road, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 195,
+        "address": "H No 3-2-849\/1, Kachiguda Main Road, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 196,
+        "address": "Plot No.11-12-154\/2, Main Road, Ramakrishnapuram, Dilsukhnagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 197,
+        "address": "Ramnagar, Gf-1, Srilakshmi Pl",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 198,
+        "address": "S R Nagar Branch, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 199,
+        "address": "Plot No 152, Sagar Highway, Bn Reddy Nagar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 200,
+        "address": "Musheerabad Road, Bakaram, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 201,
+        "address": "Sai Satya Commercial Complex, Bhagyanagar Colony, Opp Kphb",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 202,
+        "address": "Saifabad Branch, Hotel Sarovar Complex, Secretariat Road, Saifabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 203,
+        "address": "Sangamitra High School, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 204,
+        "address": "Shop No 3, Block A, Eshwar Towers, Near Santosh Nagr X Roads,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 205,
+        "address": "17-1-382\/0\/1\/4, Vaisalinagar, Vaisalinagar, Santoshnagar, Sagar Road, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 206,
+        "address": "A P Secretariat Branch, Saifabad, Hyderabad 500 004",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 207,
+        "address": "H No 12-10-112, Seetaphalmandi,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 208,
+        "address": "D No 16-11-16\/61\/3, Sripuram Colony, Malakpet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 209,
+        "address": "Recreation Club, Srinagar Colony, Hyderabad,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 210,
+        "address": "# 11\/4\/156, Srinivasa Colony, Saroor Nagar,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 211,
+        "address": "Shop No.19, Srinivasa Plaza, Rethi Bowli Chowrastha, Mehdipatnam",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 212,
+        "address": "Sanatnagar, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 213,
+        "address": "Sultan Bazar Branch, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 214,
+        "address": "H.No.2-2-1167\/11\/1, , Hyderabad,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 215,
+        "address": "Gayathri Apartments, Shop No 3, Opp To Bharat Petrol Pump, Rajiv Highway Road",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 216,
+        "address": "H No.8-1-364\/a\/6, Plot No 6, Gulshan Colony, Toli Chowk",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 217,
+        "address": "Besides Trinethra Super Market, Main Road, Saidabad Colony",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 218,
+        "address": "Plot No 15, Besides Uppal Bus Depot, Peerjadiguda, Ghatkesar Mandal",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 219,
+        "address": "Plot No.75.76.77, S No 16, 17, 19, Subhadra Nagar Bus Stop, Rajappa Nagar, Vanasthalipuram",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 220,
+        "address": "38\/2 Vasavi Nagar Karkhana, Secunderabad,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 221,
+        "address": "S R Nagr X Roads, Vengal Rao Nagar, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 222,
+        "address": "Vidyanagar, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 223,
+        "address": "10-3-772\/1, Vijayanagarcolony, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 224,
+        "address": "Vikas Nagar, ,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 225,
+        "address": "D No.8-3-167a\/24a, Vikaspuri Cultural & Welfare Society, Viakspuri",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 226,
+        "address": "Shop No 113, Plot No 5, , Kalyans Pulapally Balaiah Complex, Vinayaknagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 227,
+        "address": "H No 5-22, Vivekananda Nagar Colony, Kukatpally",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 228,
+        "address": "H No.12-11-293\/1, , Warasiguda, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 229,
+        "address": "Shop No 2\/gf, Chiranjeevi Apartments, West Maredpally, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 230,
+        "address": "Next To Archies, Ymca, Narayanguda, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 231,
+        "address": "Shop No.4, Vtps Shopping Complex, \"a\" Colony, Ibrahimpatnam",
+        "city": "Ibrahimpatnam",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 232,
+        "address": "12-1, Gubba Viswanatham Complex, , Adj.To Srinivasa Filling Station, Jadcherla",
+        "city": "Jadcherla",
+        "district": "Mehboobnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 233,
+        "address": "Main Road, Jaggayyapet,",
+        "city": "Jaggayyapet",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 234,
+        "address": "Manchala Ramesham Complex, Satyanarayana Lodge, Jagtial",
+        "city": "Jagtial",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 235,
+        "address": "Jammikunta, ,",
+        "city": "Jammikunta",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 236,
+        "address": "D No 14-5, Aswarao Pet Road, Jangareddy Gudem,",
+        "city": "Jangareddigudem",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 237,
+        "address": "Kakinada, ,",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 238,
+        "address": "Plot No 141, Karanamgari Junction, Kakinada,",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 239,
+        "address": "13-1-32 Main Road, Kakinada,",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 240,
+        "address": "D No 11-11-1, Sanjeevi Institute, Ramaraopet, Kakinada",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 241,
+        "address": "Sri Nagar Colony, ,",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 242,
+        "address": "Project Hospital, Rtpp, V V Reddy Nagar,",
+        "city": "Kalamella",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 243,
+        "address": "Near Andhra Bank, Kallur,",
+        "city": "Kallur",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 244,
+        "address": "Kalyankhani, ,",
+        "city": "Kalyankhani",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 245,
+        "address": "Kailasa Bhaskara Rao & Sons Complex, Nizam Sagar Road, Nh-7, Kamareddy",
+        "city": "Kamareddy",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 246,
+        "address": "Shop No.8, Ground Floor, Srikanth Complex, Opp Rtc Bus Stand, Kandukur",
+        "city": "Kandukuru",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 247,
+        "address": "Shop No 9, Police Welfare Shopping Complex, Karimnagar",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 248,
+        "address": "3-4-73, Dr Bhoomi Reddy Hospital, Civil Hospital Road, Karimnagar",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 249,
+        "address": "Bsc Karimnagar, ,",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 250,
+        "address": "D No.1-5-360, Kaman Chowrastha, Karimnagar",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 251,
+        "address": "Master Jr.College, Karimnagar",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 252,
+        "address": "Ambedkar Chowk, Karimnagar,",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 253,
+        "address": "St.Johns High School, Karimng, ,",
+        "city": "Karimnagar",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 254,
+        "address": "D No 13-2-173, K T Road, Kasibugga,",
+        "city": "Kasibugga",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 255,
+        "address": "H No 10-14-17\/a, Court Street, Kavali",
+        "city": "Kavali",
+        "district": "Nellore",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 256,
+        "address": "D No.1-3-139, , Adj To Post Office, Kazipet",
+        "city": "Kazipet",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 257,
+        "address": "Collectorate Complex, Wyra Road, Khammam",
+        "city": "Khammam",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 258,
+        "address": "Wyra Road, Khammam,",
+        "city": "Khammam",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 259,
+        "address": "Kinnerasani Theatre Road, Khammam,",
+        "city": "Khammam",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 260,
+        "address": "4-149\/1, Near Bus Stand, Kodad,",
+        "city": "Kodad",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 261,
+        "address": "Garihat Road, ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 262,
+        "address": "New Alipore, ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 263,
+        "address": "Koratla, ,",
+        "city": "Koratla",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 264,
+        "address": "Shop No 1, Dharmavaram G H Complex, Puttaparthi,",
+        "city": "Kothacheruvu",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 265,
+        "address": "D No 6-2-126, Main Bazar, M G Road, Kothagudem,",
+        "city": "Kothagudem",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 266,
+        "address": "D No 5-101, Kasi Viswanatham Complex, Main Road, Kothapeta,",
+        "city": "Kothapeta",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 267,
+        "address": "Shop No.14, Besides Sangameswara Grameen Bank, Nh-7, Main Road, Kothur",
+        "city": "Kothur",
+        "district": "Mehboobnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 268,
+        "address": "Kovvuru, ,",
+        "city": "Kovvuru",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 269,
+        "address": "Nandyal Road, Near Vijay Hospital, Kurnool",
+        "city": "Kurnool",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 270,
+        "address": "Shop No.G-3, Central Plaza, 46\/46-1k-f4, Budhwarpet",
+        "city": "Kurnool",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 271,
+        "address": "District Police Office, Kondareddy Fort, , Kurnool",
+        "city": "Kurnool",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 272,
+        "address": "Shop No 1 Anasuyamma Complex, S No 404\/a, Opp Rtc Bus Stand",
+        "city": "Kurnool",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 273,
+        "address": "D No 13-1-269\/4, Meghna Towers, Main Road, Macherla",
+        "city": "Macherla",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 274,
+        "address": "Opp Bus Stand, Machilipatnam,",
+        "city": "Machilipatnam",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 275,
+        "address": "Koneru Centre, ,",
+        "city": "Machilipatnam",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 276,
+        "address": "Door No.Iv 407, Ctm Road, Near Rtc Bus Stand",
+        "city": "Madanapalli",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 277,
+        "address": "Fci X Roads, M L Puram,",
+        "city": "Madepalli Lingapuram",
+        "district": "Karimnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 278,
+        "address": "New Town, Hyderabad Road, Mahboobnagar",
+        "city": "Mahabubnagar",
+        "district": "Mahabubnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 279,
+        "address": "D No.2-5-46\/4, Muncipal Office Road, Mahboobnagar",
+        "city": "Mahabubnagar",
+        "district": "Mahabubnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 280,
+        "address": "D No 8-1-180, Main Road, Manuguru",
+        "city": "Managur",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 281,
+        "address": "Bus Complex Road, Mancherial,",
+        "city": "Mancherial",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 282,
+        "address": "Mancherial, ,",
+        "city": "Mancherial",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 283,
+        "address": "Cinema Road, Mandapeta,",
+        "city": "Mandapeta",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 284,
+        "address": "Shopping Complex, Near Mandal Office, Mangalagiri",
+        "city": "Mangalagiri",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 285,
+        "address": "D No 1\/251, Velacherry Tambaram High Road, Medavakkam, Chennai",
+        "city": "Medavakkam",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 286,
+        "address": "Khadi Gram Udyog Prathistan Complex, Shop No 180, Main Road, Nh - 16 Metpally",
+        "city": "Metpalli",
+        "district": "Karim Naga",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 287,
+        "address": "Shop No 7-5-113\/9, Padmavathy Colony, Mahaboobnagar",
+        "city": "Mettuguda",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 288,
+        "address": "Shop No.19\/1-20, , Sagar Road, ,",
+        "city": "Miryalguda",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 289,
+        "address": "Shop No 1 & 2, 22 Shiva Apartments, Turner Road, Bandra (w) 400 050",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 290,
+        "address": "Shop No 13, Datta Pada Road, Opp Special Steels Ltd, Borivilli (east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 291,
+        "address": "70-j Central Avenue Road, Chembur, Mumbai 400 071",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 292,
+        "address": "Shop No.2, , Nad Shree Apartments, Phadke Cross, Dombivilli, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 293,
+        "address": "8a Damodar Park, L B S Marg, Beside Btra, Ghatkopar (w) Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 294,
+        "address": "G-2, Tiffany, Hiranandani Business Park, Off Godbunder Road, Thane (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 295,
+        "address": "Archard Avenue, Hiranandani Foundation School, , Powai, Mumbai-400076",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 296,
+        "address": "Evershine Millenium Paradise, Shop No 80 (emp 15), Satti Thakur Village",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 297,
+        "address": "Shop 16, 17, 18, Mamta B, Appasaheb Marathe Marg, Prabhadevi , Mumbai 400 025",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 298,
+        "address": "Shop No.8, Opp : Shoppers Stop, Mulund(west)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 299,
+        "address": "Midc-g-1\/33, Boisar, , Tarapur, Thane District",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 300,
+        "address": "Plot No 74, Sector 17, , Persepolis, Vashi",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 301,
+        "address": "Saivaibhav Building, , Shop No.1, Vikrant Circle, Ghatkopar East, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 302,
+        "address": "Shop No.1 Plot No 295, Swapril Sagar Building, North Bazar Road, Ramnagar, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 303,
+        "address": "Nalgonda, ,",
+        "city": "Nalgonda",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 304,
+        "address": "Shop No Ii Teja Complex, Bommala Satram, Nandyal",
+        "city": "Nandyal",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 305,
+        "address": "25\/512 B Shop 1, Srinivasanagar, Nandyal",
+        "city": "Nandyal",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 306,
+        "address": "Shop No 33, Abdulla Khan Estate, Kurnool",
+        "city": "Narasaraopet",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 307,
+        "address": "Nagasarapu Rama Rao Complex, Palnadu Road, Narasaraopet",
+        "city": "Narasaraopeta",
+        "district": "Narasaraopet",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 308,
+        "address": "6-12-18, Main Road, Narsapuram,",
+        "city": "Narsapur",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 309,
+        "address": "D No 24(a) D Type Quarters, Ccc Dispensary, Sccl, Ccc Naspur,",
+        "city": "Naspur",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 310,
+        "address": "24\/2084, Rajagopalapuram, Dargamitta",
+        "city": "Nellore",
+        "district": "Nellore",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 311,
+        "address": "D No.84, Pogathota, ,",
+        "city": "Nellore",
+        "district": "Nellore",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 312,
+        "address": "H No 15\/382, Subedarpet,",
+        "city": "Nellore",
+        "district": "Nellore",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 313,
+        "address": "Sonia Pvr Complex, Vikaspuri",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 314,
+        "address": "27\/1, Daksha Road, Viswasnagar, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 315,
+        "address": "G-15, Dist Centre, Plot No:7a, Dda Building, Janakpuri",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 316,
+        "address": "Shop No.G-2, Plot 14, Mlu, , Sec-10, Dwaraka, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 317,
+        "address": "B1, Community Centre, , Janakpuri, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 318,
+        "address": "15 A\/13, Wea, , Ajmalkhan Road, Karolbagh, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 319,
+        "address": "Lawrence Road, ,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 320,
+        "address": "64, Meher Chand Market, Lodhi Colony, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 321,
+        "address": "Shop No 7 & 8, G F, Rama Market, , Munikra, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 322,
+        "address": "# 6, Shopping Complex, , Phase Iii, Pockert B, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 323,
+        "address": "G F 7, Apsara Arcade, Pusa Road, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 324,
+        "address": "Shop 10, C S C, , Sec-6, R K Puram",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 325,
+        "address": "Plot 298, Road No 44, Rajadhani Enclave, Pitampura, New Delhi-34",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 326,
+        "address": "D No 4-5-16, Ganesh Chowk, Beside Hpcl Petrol Bunk, Nidadavole",
+        "city": "Nidadavole",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 327,
+        "address": "Nirmal Club Shopping Complex, Nh-7, Nirmal",
+        "city": "Nirmal",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 328,
+        "address": "H No 3-10-969\/18\/2, Badabazar,",
+        "city": "Nizamabad",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 329,
+        "address": "Dwacra Bazar, Lic X Roads, Nizamabad",
+        "city": "Nizamabad",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 330,
+        "address": "11-1-156, Armoor Road, Kanteshwar, Nizamabad",
+        "city": "Nizamabad",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 331,
+        "address": "A-778, Sector 19, Goutham Buddha Nagar, Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 332,
+        "address": "Siri Arcade, Main Road, Nuzivid,",
+        "city": "Nuzvid",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 333,
+        "address": "Opp Dist Court Building, Ongole,",
+        "city": "Ongole",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 334,
+        "address": "Near Bus Stand(ongole), Chakka Nageswara Raos House, D No 5-35(2), Kurnool Road",
+        "city": "Ongole",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 335,
+        "address": "337-1-350, Trunk Road, Ongole -1",
+        "city": "Ongole",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 336,
+        "address": "Hotel Charing Cross, Garden Road, Ooty,",
+        "city": "Ooty",
+        "district": "Nilgiri",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 337,
+        "address": "D No.10-23-24, Bharathi, Main Road, Pakala",
+        "city": "Pakala",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 338,
+        "address": "Shop 1, Tarakarama Complex, , Near Railway Gate, Palakole",
+        "city": "Palakol",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 339,
+        "address": "Shop No.1589, Palvancha,",
+        "city": "Palvancha",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 340,
+        "address": "Pamarru, ,",
+        "city": "Pamarru",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 341,
+        "address": "Parlakhemundi, Gajapathinagar Dist,",
+        "city": "Parlakimidi",
+        "district": "Gajapati",
+        "state": "Orissa"
+    },
+    {
+        "id": 342,
+        "address": "Sri Krishna Nursing Home, Near Rtc Complex, Main Road, , Parvathipuram",
+        "city": "Parvathipuram",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 343,
+        "address": "Jakotia Complex, , Main Road, Peddapalli",
+        "city": "Peddapali",
+        "district": "Karim Naga",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 344,
+        "address": "Talluri Sakuntala Rani, D No 19-1-272, Main Road, Peddapuram",
+        "city": "Peddapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 345,
+        "address": "D No 16-564, Main Road, Piduguralla,",
+        "city": "Piduguralla",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 346,
+        "address": "D No.2-1651, Ground Floor, Opp Gram Panchayat Office, L B S Road, Pileru",
+        "city": "Piler",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 347,
+        "address": "Island Centre, 14-2-38, , Ponnur",
+        "city": "Ponnur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 348,
+        "address": "H No 7\/3403, Sivalayam Road, Proddatur,",
+        "city": "Proddutur",
+        "district": "Kadapa",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 349,
+        "address": "197, Anna Salai, Pondicherry,",
+        "city": "Puducherry",
+        "district": "Pondicherry",
+        "state": "Pondicherry"
+    },
+    {
+        "id": 350,
+        "address": "Shop No 26, , Parmar Plaza, Pune 411 040",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 351,
+        "address": "S No 1187\/23, Krishna Kunj, Ghole Road, Sivajinagar, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 352,
+        "address": "Vishrantwadi, ,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 353,
+        "address": "H.No: 4-6-16, Alcot Gardens, , Rajahmundry,",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 354,
+        "address": "Danavaipeta, ,",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 355,
+        "address": "D No 31-1-1, Ground Floor, J P Road, Fort Gate, Rajahmundry",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 356,
+        "address": "D No.36-10-15, Stadium Road, Innispeta, Rajahmundry",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 357,
+        "address": "Swatantra Hospitals Pvt.Ltd., , Kamalacheruvu, Rajahmudry",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 358,
+        "address": "18-278, A V Subbarao Road, Opp Syamala Nagar, Rajahmundry",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 359,
+        "address": "Gmr Engineering College, Gmr Nagar, Rajam",
+        "city": "Rajam",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 360,
+        "address": "H No 4-273, Infront Of State Bank Of India, Srikakulam Road",
+        "city": "Rajam",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 361,
+        "address": "D No.6\/399-a, , Railway Station Road, Rajampet",
+        "city": "Rajampet",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 362,
+        "address": "D No.10-2-47\/4, Main Road, Ramachandrapuram,",
+        "city": "Ramachandrapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 363,
+        "address": "Shutter No 2\/7, H No 5-17, Kvr Reddy Complex, Chandanagar",
+        "city": "Ramachandrapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 364,
+        "address": "Shutter No 2\/7, H No 5-17, Kvr Reddy Complex, Chandanagar",
+        "city": "Ramachandrapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 365,
+        "address": "Nh-5, Main Road, , G Floor, Hotel Maruthi Residency,",
+        "city": "Ravulapalem",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 366,
+        "address": "Ashoka Talkies Complex, Opp Railway Station, Jaykay Road, Rayagada",
+        "city": "Rayagada",
+        "district": "Rayagada",
+        "state": "Orissa"
+    },
+    {
+        "id": 367,
+        "address": "Razole, ,",
+        "city": "Razole",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 368,
+        "address": "10-14-116\/3, Myneni Sitaramayya Kalyana Mandapam, Railpet, Repalle",
+        "city": "Repalle",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 369,
+        "address": "Rourkela, ,",
+        "city": "Rourkela",
+        "district": "Sundergarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 370,
+        "address": "Ark Point Building, Budharaja, Sambalpur",
+        "city": "Sambalpur",
+        "district": "Sambalpur",
+        "state": "Orissa"
+    },
+    {
+        "id": 371,
+        "address": "3\/5\/33\/2, Sri Mallikharjuna Complex, Opp Nataraj Theatre, New Bus Stand, Sangareddy",
+        "city": "Sangareddy",
+        "district": "Medak",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 372,
+        "address": "Sattupally, ,",
+        "city": "Sattupally",
+        "district": "Khammam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 373,
+        "address": "Opp: Railway Station, Secunder",
+        "city": "Secunderabad",
+        "district": "Secunderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 374,
+        "address": "Patel & Co., East Anandbagh, M",
+        "city": "Secunderabad",
+        "district": "Secunderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 375,
+        "address": "D No 19-78, Nh-7, Near Rtc Bus Stand, Shadnagar",
+        "city": "Shadnagar",
+        "district": "Mahbubnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 376,
+        "address": "Shop No 2 Saish Hotel Complex, Pimpalwadi Road, Shirdi",
+        "city": "Shirdi",
+        "district": "Ahmednagar",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 377,
+        "address": "Shop No.16, Baldev Bhavan, , Old Bus Stand, Siddipet",
+        "city": "Siddipet",
+        "district": "Medak",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 378,
+        "address": "D No 1-1-32 Rajendra Prasad Road, Sirpur Kagaznagar, Karimnagar",
+        "city": "Sirpur Kagaznagar",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 379,
+        "address": "Srikakulam, ,",
+        "city": "Srikakulam",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 380,
+        "address": "Sankar Muni Complex, , Car Street, Srikalahasti",
+        "city": "Srikalahasti",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 381,
+        "address": "Swati Apartments, Ward1 Timalaiwad, Nanpura, Surat",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 382,
+        "address": "1040249\/154\/3, M G Road, , Suryapet,",
+        "city": "Suryapet",
+        "district": "Nalgonda",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 383,
+        "address": "Opp Nandi Statue, Tadepalligudem,",
+        "city": "Tadepalligudem",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 384,
+        "address": "Sajjapuram, ,",
+        "city": "Tanuku",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 385,
+        "address": "Tanuku, ,",
+        "city": "Tanuku",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 386,
+        "address": "Smt Addala Kanakaratnam, Kacheri Street, Nh-5, Opp Rtc Complex",
+        "city": "Tekkali",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 387,
+        "address": "Gandhi Chowk, Tenali,",
+        "city": "Tenali",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 388,
+        "address": "D No.7-5-43, Opp Andhra Bank, Asn Degree College, Prakasam Road",
+        "city": "Tenali",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 389,
+        "address": "O H M, ,",
+        "city": "Thrissur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 390,
+        "address": "Tirumala, ,",
+        "city": "Tirumala",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 391,
+        "address": "M R Palli, Tirupathi,",
+        "city": "Tirupathi",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 392,
+        "address": "Near Rtc Bus Depot, Tirupathi,",
+        "city": "Tirupathi",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 393,
+        "address": "D No 564, Balaji Colony, Prakasam Road, Tirupathi,",
+        "city": "Tirupathi",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 394,
+        "address": "H No 6-2-83, K T Road, Tirupathi,",
+        "city": "Tirupathi",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 395,
+        "address": "Opposite Muncipal Office, 575\/1a, Pmr Complex, Tilak Road, Tirupathi",
+        "city": "Tirupathi",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 396,
+        "address": "D No 58\/5a, Gandhi Road, Anuparpalayam Pudur Road, Tiruppur",
+        "city": "Tiruppur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 397,
+        "address": "Hotel Chaithram, Trivendrum,",
+        "city": "Tiruvanantapuram",
+        "district": "Tiruvanantapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 398,
+        "address": "D No 4-1-26, Opp Railway Station, Main Road, Tuni,",
+        "city": "Tuni",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 399,
+        "address": "Near Srr Devasthanam, Reception Counter, Vemulawada",
+        "city": "Vemulawada",
+        "district": "Karim Nagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 400,
+        "address": "Ajit Singh Nagar, ,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 401,
+        "address": "Bpcl Outlet, M G Road, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 402,
+        "address": "29-1-66, Near Family Hospital, , Vijayawada,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 403,
+        "address": "D No 28-137\/3, Eluru Road, Governorpet, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 404,
+        "address": "Gandhinagar (vijayawada)",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 405,
+        "address": "Moghalrajapuram, Vijayawada,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 406,
+        "address": "41-1\/11-1, Krishnalanka, Nehru Nagar, Krishna Lanka, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 407,
+        "address": "D No 11-62-162, Rahima Complex, Saraikhana Street, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 408,
+        "address": "Dharmaraju Complex, Bhavanipura, 76-15-28, Bhavanipuram, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 409,
+        "address": "Patamata, Bandar Road, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 410,
+        "address": "Platform No.1, Towards East(second) Entrance-2, South Central Railway Station",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 411,
+        "address": "Maruthi Nagar, , Eluru Road, Vijayawada,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 412,
+        "address": "D No.48-11-6, Ramavarappadu Circle, , Currency Nagar, Vijayawada",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 413,
+        "address": "Near Benz Circle, Vijayawada,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 414,
+        "address": "D No 23-2-22, Door No 29-2-22 Bhagath Singh Road, Govt Press Road, Lakshminagar",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 415,
+        "address": "Tadigadapa, ,",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 416,
+        "address": "Vikarabad, ,",
+        "city": "Vikarabad",
+        "district": "Ranga Reddy",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 417,
+        "address": "D No.30-289, Vinukonda Nursing Home, Abm Compound, Narasaraopet Road, Vinukonda",
+        "city": "Vinukonda",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 418,
+        "address": "Sports & Cultural Complex, Of Port Stadium, Nh-5, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 419,
+        "address": "A U Campus, Siripuram Junction,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 420,
+        "address": "Opp Masjid, , D No.7-1-63\/1, China Waltair Junction,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 421,
+        "address": "Railway Station Road, Dwarakanagar, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 422,
+        "address": "Gajuwaka",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 423,
+        "address": "Gajuwaka",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 424,
+        "address": "Opp Mourya Theatre, D No 11-136, , Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 425,
+        "address": "D No.15-12-15, Gokhale Road, Krishna Nagar, Near Zp Junction",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 426,
+        "address": "D No 4-45-40 Ground Floor, Aarvee Arcade, Lawsons Bay Colony",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 427,
+        "address": "Maharani Pet Branch, K G H Down,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 428,
+        "address": "D No.61-1-54, Ramakrishna Puram, Malkapuram, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 429,
+        "address": "Mig-1 B\/6 Sector -6, M V P Colony, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 430,
+        "address": "H No.9-1-48\/a, Resapuvanipalem, Main Road, Visakhapatnam 530003",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 431,
+        "address": "Visakhapatnam Port, ,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 432,
+        "address": "D No.31\/8\/3, Kurmannapalem, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 433,
+        "address": "Seethammadhara Branch, Andhra Bank Building Beside Eenadu, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 434,
+        "address": "Shop No.2.Opposite Andhra Bank, Simhachalam,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 435,
+        "address": "Rinl Area, ,",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 436,
+        "address": "Shantinagar, Visakhapatnam",
+        "city": "Vizag (visakhapatnam)",
+        "district": "Visakhapatnam",
+        "state": "Delhi"
+    },
+    {
+        "id": 437,
+        "address": "P S R Complex, Vizianagaram,",
+        "city": "Vizianagaram",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 438,
+        "address": "Lakshmi Talkies Center, Vuyyur",
+        "city": "Vuyyuru",
+        "district": "Krishna",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 439,
+        "address": "Bus Stand Centre, D No 42-249, Kurnool Road, Wanaparthy",
+        "city": "Wanaparthi",
+        "district": "Mehboobnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 440,
+        "address": "Collectorate, ,",
+        "city": "Warangal",
+        "district": "Warangal",
+        "state": "Andhra Pradesh"
+    }
+]

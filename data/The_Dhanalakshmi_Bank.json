@@ -1,0 +1,492 @@
+[
+    {
+        "id": 1,
+        "address": "26\/1006 Palace Road, Alappuzha",
+        "city": "Alappuzha",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 2,
+        "address": "Win Towers, Room No.14\/263(5), Hospital Junction, Chengannur",
+        "city": "Alappuzha",
+        "district": "Alappuzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 3,
+        "address": "WIII\/202,National Highway 47, Desom, Aluva",
+        "city": "Aluva",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 4,
+        "address": "1 A,Nitesh Broadway, M.G. Road, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 5,
+        "address": "100,18th Main, 6th Block, Koramangala, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 6,
+        "address": "Ground Floor, No.92, Shivaji Towers, J.C. Road, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 7,
+        "address": "Amritha School Of Engineering, No.26&27, Kasavanahally, Ballandur(PO), Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 8,
+        "address": "Y-219,2nd Avenue, Near Ayyappan Temple, Anna Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 9,
+        "address": "104 & 107 Om Shakthi Towers, Anna Salai, Mount Road, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 10,
+        "address": "34,CSM Plaza, Venkata Krishna Road,Mandaveli, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 11,
+        "address": "New Road No.5,Old No.3,1st Avenue, Sri Goudham Buildings, Ashok Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 12,
+        "address": "Door No.128, Thambu Chetty Street,George Town, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 13,
+        "address": "Welcare Hospital, S.A.Road, Vyttila, Cochin",
+        "city": "Cochin",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 14,
+        "address": "AITS,Amritha Institute of Technology & Sciences, Ettimadai, Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 15,
+        "address": "Door No.758,Radhika Buildings, Crosscut Road, Gandhipuram,Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 16,
+        "address": "Standard Towers, 286,Avinashi Road, Peelamedu, Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 17,
+        "address": "23 A-3-28,Ground Floor,Dr.G.S.Prasad Nursing Home, R.R.Pet, Eluru",
+        "city": "Eluru",
+        "district": "Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "MES Cultural Complex Building,Ground Floor Kaloor, Ernakulam",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 19,
+        "address": "Amritha Institute of Medical Sciences (AIMS), Edapally, Ernakulam",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 20,
+        "address": "GCDA Extension Counter, Gandhi Nagar, Ernakulam",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 21,
+        "address": "1st Floor,K.V.Varkey Memorial Complex, Angamaly, Ernakulam",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 22,
+        "address": "Door No.2383A-1,K.M.M. Buildings Opp: KSEB, Palarivattom",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 23,
+        "address": "4-12-40,P.S. Complex, Opp. Harihara Mahal, Guntur",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 24,
+        "address": "Sreepadmam Bldg.,South Nada,Guruvayoor",
+        "city": "Guruvayoor",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 25,
+        "address": "Trendset Towers,Ground Floor,8-2-289\/10, Road No.2, Banjara Hills, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 26,
+        "address": "686,Vivekanand Nagar Colony, Kukatpally, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 27,
+        "address": "Door.No.26-1-12, Temple Street, Kakinada",
+        "city": "Kakinada",
+        "district": "East Godhavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 28,
+        "address": "Door No.02\/1044,Covai Road,Karur, Tamilnadu",
+        "city": "Karur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 29,
+        "address": "6-1-50, Opp. Dwacra Bazar, Wyra Road, Khammam",
+        "city": "Khammam",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 30,
+        "address": "Door No:243\/A,T.S. Marar Building,South Nada,Kodungallur",
+        "city": "Kodungallur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 31,
+        "address": "Ideal Plaza, Ground Floor, 11\/1,Sarat Bose Road,Kolkatta",
+        "city": "Kolkatta",
+        "district": null,
+        "state": "West Bengal"
+    },
+    {
+        "id": 32,
+        "address": "Shanker's Hospital,7\/618, Kollam-Shenkottai Road(QS Road),Kollam",
+        "city": "Kollam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 33,
+        "address": "Annexe Excllency Building, Karunagapally, Kollam",
+        "city": "Kollam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 34,
+        "address": "MC Road, Perunna, Kottayam",
+        "city": "Kottayam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 35,
+        "address": "BPCL Outlet, K.K. Road, Kottayam",
+        "city": "Kottayam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 36,
+        "address": "MIMS-Extn.Counter Malabar Institute of Medical Sciences(MIMS),Govindapuram,Kozhikode",
+        "city": "Kozhikode",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 37,
+        "address": "Ground Floor,Bava's Arcade, Opp : HDFC, Palakkad-Kozhikode Highway,Malappuram",
+        "city": "Malappuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 38,
+        "address": "Kozhikode-Thrissur (NH) Road, Valanchery, Malappuram",
+        "city": "Malappuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 39,
+        "address": "Door No: PM\/5\/148\/13, City Centre, Pattambi Road, Perinthalmanna, Malappuram",
+        "city": "Malappuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 40,
+        "address": "Dhindra Chambers,G.Floor,No.5-5-301\/3, M.G.Road,Opp.SDM College,Kodiliabail,Mangalore",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 41,
+        "address": "Thirumalai House, Ground Floor , Road No.29 Near Sion Hill Fort, Sion (E) Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 42,
+        "address": "Puthan Bunglow Road, East of Tower Junction, Nagercoil",
+        "city": "Nagercoil",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 43,
+        "address": "Plot No.1-C,Ground Floor, Nashanth Millenium,Next to Oriental Bank Of Commerce,Sector-28, Navi Mumbai",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 44,
+        "address": "Door No.1,2,3,Ground Floor, Urmila Complex, 32 Station Avenue Rd, Chembur, Mumbai",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 45,
+        "address": "15\/345, Brindavanam, Behind Vijaya Diary, Nellore",
+        "city": "Nellore",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 46,
+        "address": "A-II\/44,Central Market, Lajpath Nagar,New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 47,
+        "address": "H-17, Gobind Mansion Bldg., Outer Circle, Connaught Place,New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 48,
+        "address": "11-1-1623\/2&3, Singidi Complex, Opp.Indur Traders, Kanteshwar, Armoor Road",
+        "city": "Nizamabad",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 49,
+        "address": "Ground Floor, Lakshmi Plaza, Coimbatore Rd, Sultanpet, Palakkad",
+        "city": "Palakkad",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 50,
+        "address": "Sannidhanam,Sabarimala, Pathanamthitta",
+        "city": "Pathanamthitta",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 51,
+        "address": "Triveni,Pamba,Pathanamthitta",
+        "city": "Pathanamthitta",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 52,
+        "address": "PB No.54, Changayil Building, College Road, Pathanamthitta",
+        "city": "Pathanamthitta",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 53,
+        "address": "84\/73,Coimbatore Road, Pollachi",
+        "city": "Pollachi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 54,
+        "address": "TMC-XXVI\/232 (2)Thattakunnel Building, Ramanchira, Thiruvalla",
+        "city": "Thiruvalla",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 55,
+        "address": "Balakrishna Building,TC No ix\/767 (1),Sasthamangalam, Thiruvananthapuram",
+        "city": "Thiruvananthapuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 56,
+        "address": "Sree Gokulam Medical College&Research Foundation,Venjaramoodu,Thiruvanathapuram",
+        "city": "Thiruvananthapuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 57,
+        "address": "BPCL Outlet, Killipalam, Karamana, Thiruvananthapuram",
+        "city": "Thiruvananthapuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 58,
+        "address": "Main Branch Naickanal Junction,The Round",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 59,
+        "address": "Pushpagiri, Dhanalakshmi Complex, Punkunnam",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 60,
+        "address": "Near Alukkas Jewellery,Kunnamkulam - Thrissur Road,Kunnamkulam",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 61,
+        "address": "Vaidyarathnam Oushadhasala, Ollur,Thaikkattussery(P.O),",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 62,
+        "address": "Door.No:19\/546-A, Opp. Town Hall, Nada, Irinjalakuda",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 63,
+        "address": "VIII\/1023, Thrissur-Shornur Road, Kumaranellur-Ottuppara, Wadakkanchery",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 64,
+        "address": "Govt. Medical College, Mulankunnathukavu, Thrissur",
+        "city": "Thrissur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 65,
+        "address": "Plot No.3 TUDA Layout, R.C. Road, Tirupati",
+        "city": "Tirupati",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 66,
+        "address": "474, Gandhi Nilayam, P N Road, Tirupur",
+        "city": "Tirupur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 67,
+        "address": "Mata Amrithanandamayi Math:Door No.44B(1),Ward No.1, Sugunananda Buildings,Clappana(P.O),Jetti Road, Vallikkavu",
+        "city": "Vallikkavu",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 68,
+        "address": "59\/14\/8,Ground Floor,Shilpa Arcade,Ramachandra Nagar, Ring Road, Vijayawada",
+        "city": "Vijayawada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 69,
+        "address": "NRI Medical College(Extn.Counter-Ring Road Branch),NRI Academy of Sciences, Chinakakani, Mangalagiri Mandal",
+        "city": "Vijayawada",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 70,
+        "address": "VIP Road, CBM Compound, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    }
+]

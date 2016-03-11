@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "address": "Amritsar, 143001",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 2,
+        "address": "Lawrence Road, Civil Lines, Amritsar 12",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 3,
+        "address": "University, Campus, Amritsar, 143001",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 4,
+        "address": "Sco-33, Distt.Shoping Centre Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 5,
+        "address": "Sector 17-b, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 6,
+        "address": "Neelam Cinema Chowk, N I T Faridabad 121001",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 7,
+        "address": "195-b, Lohia Nagar New Ghaziabad-201009",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "12 A Jaipuria Sunrise Green, Ahinsa Khand, Indira Puram Ghaziabad-201010",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "Hoshiarpur 146001",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 10,
+        "address": "Tanda Urmar Distt Hoshiarpur 144204",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 11,
+        "address": "B55 Gautam Marg, Hanuman Nagar, Jaipur - 302 021",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 12,
+        "address": "Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 13,
+        "address": "Urban Estate Garah Road, Jalandhar Punjab",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 14,
+        "address": "80\/19-20\/1 Gurdwara Road, Naka Hindola, Char Bagh, Lucknow - 226 006",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "3 \/ 536, Vivek Khand, Gomti Nagar, Lucknow - 226 010",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 16,
+        "address": "Sunet Ludhiana Opp Milk Plant, Ferozepur Road, Ludhiana, 141001",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 17,
+        "address": "Civil Lines, Ludhiana-141001",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 18,
+        "address": "Ludhiana, Punjab, 141002",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 19,
+        "address": "Scf 24-25-26 Sas Nagar, Phase-v Mohali, Punjab",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 20,
+        "address": "Mohar Apartment, L.T.Road, Borivili(w), Bombay - 400 091",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 21,
+        "address": "Fitwel House, L B S Marg, Vikhroli (west), Mumbai, Mumbai, 400083.",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 22,
+        "address": "Linking Road, Khar Bombay-400052",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 23,
+        "address": "M.G.Road Naupada, Thane 400601",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 24,
+        "address": "Plot No.14 Sector 26-a Palm Beach Road Kopri Colony, Vashi Navi Mumbai 400705",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 25,
+        "address": "B-136, Preet Vihar New Delhi-110092",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 26,
+        "address": "B-2\/17, New Delhi 110063",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 27,
+        "address": "Pira Garhi, Delhi, 110041",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 28,
+        "address": "Community Centre, , Safdarjang Enclave, New Delhi, 110029",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 29,
+        "address": "Delhi Bc - 88 (west), Shalimar Bagh, Delhi, 110088",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 30,
+        "address": "New Delhi, New Delhi, 110016",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 31,
+        "address": "21, Bank House, Rajendra Place, New Delhi, 110008",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 32,
+        "address": "M-14 , New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 33,
+        "address": "Ashram Chowk, New Delhi, 110014",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 34,
+        "address": "E-16, New Delhi - 110027",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 35,
+        "address": "D-6 Shopping Centre 11, Vasant Vihar, New Delhi, 110029",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 36,
+        "address": "Chandnichowk, Fountain, Delhi, 110006",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 37,
+        "address": "C.S.C Market, A-block, Delhi, 110009",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 38,
+        "address": "5\/1 D.B.Road, Pahar Ganj, New Delhi, 110055",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 39,
+        "address": "Plot No.10, Pocket - H, Shopping Centre Madanpur Khadar, New Delhi, 110044",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 40,
+        "address": "D-31, Acharyan Niketan, Mayur Vihar New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    }
+]

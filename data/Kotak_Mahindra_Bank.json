@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "address": "8-9, Raghunath Nagar, M G Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Ground Floor, Ghantakarna Market, Near New Cloth Market, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "Ground Floor, Chandan House, Opp.Abhijeet Iii, Near Mithakali Six Roads, Navrangpura",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "Shop No.6 & 7, Shidhivinayak Complex, Shivranjini Char Rasta, Satellite",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Tobhan Smruti, Block No 565, Sarkhej Bavla, Nh 8a, Changodar, Taluka Sanand",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Ground Floor, Prime Plaza, Opp.Ravji Bhai Tower, Maninagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "Shop No.21 & 22, Akshar Complex, Mandal Road, At & Post.Viramgam",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "Ground Floor, Ishwar Complex, Opp.Gurukul Towers, Drive In Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "Shop No 32, 33, 34 Upper Level, Advance Plaza Shahibaug",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "(cd#) Suvidha Shopping Centre, Near Purimal Railway Crossing, Paldi",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 11,
+        "address": "(cd#) Shayona Arcade, Artex Compound, Opp Dinesh Chembers, Bapu Nagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 12,
+        "address": "Ground Floor Shop No.8, Goyal Terrace, Judges Bungalow Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 13,
+        "address": "12, Samarpan Bungalows, Ambli Bopal",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "(worksite*) Ashima Ltd, Texcellance Complex, Khokra, Mehmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 15,
+        "address": "(cd#) Vodafone House, Off.S.G.Highway, Bh.Divya Bhaskar, Prahladnagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "Ground Floor, Hotel Oberoi, Nagar Manmad Road, Savedi",
+        "city": "Ahmednagar",
+        "district": "Ahmednagar",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 17,
+        "address": "2, Sardar Patel Marg, Civil Lines, Allahabad - 211001",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "24\/52, Byepass Road",
+        "city": "Amloh",
+        "district": "Fatehgarh Sahib",
+        "state": "Punjab"
+    },
+    {
+        "id": 19,
+        "address": "Eminent Mall, 10 Kennedy Avenue, Mall Road",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 20,
+        "address": "(cd#) Fortis Escorts Hospital, Majitha Verka Bypass",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 21,
+        "address": "Shop No.93, Kesri Baug, Opp.Dharam Sing Market",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 22,
+        "address": "Shop No 19 & 25 On Ground Floor & Office On The First Floor, Block A - 1, Sangam Super Market Complex, Diamond Harbour Road, Amtala, P.O & P.S Bishnupur",
+        "city": "Amtala",
+        "district": "South 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 23,
+        "address": "Shop # 11, 12, 12 A Narmada Arcade, Old National Highway No 8",
+        "city": "Ankleshwar",
+        "district": "Bharuch",
+        "state": "Gujarat"
+    },
+    {
+        "id": 24,
+        "address": "Khata No.385\/386, Khatouni No.680\/681, Banga Road (tehsil Phillaur)",
+        "city": "Apra",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 25,
+        "address": "Kandi Tower, Cts No 12995, Jalna Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 26,
+        "address": "(cd#) The Chennai Silks S.F No.38\/1-5, N.G.Palayam Pirivu Thekkalur",
+        "city": "Avinashi",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 27,
+        "address": "Corporation Ward No.5, 18th Cross, West Park Road, Malleswaram",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 28,
+        "address": "Ground Floor, Municipal Corporation No.60, Old No.62, Gandhi Bazar, Basavangudi",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 29,
+        "address": "The Pinnacle, Ground Floor, No.8, 5th Block, Koramangala",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 30,
+        "address": "Heera Paradise, 487, 9th Main Road, 4th Block Jaynagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    }
+]

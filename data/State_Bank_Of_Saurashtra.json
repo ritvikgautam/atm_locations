@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "address": "Sbs-abu Road, Near Old Check Post, United India Insurance",
+        "city": "Abu Road",
+        "district": "Sirohi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 2,
+        "address": "Sbs - Drive In, Ahmedabad, Iocl Manav Petrol Pump, 132 Ft Ring Road Memnagar, Drive In Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "Sbs - Gokul Ext., Bangalore, 361\/1089 \"gokul\", H.M.T.1st Main Road, Ii Phase",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 4,
+        "address": "Sbs - Mission Road, Bangalore, Rajaram Memorial Bldg., 70 Mission Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 5,
+        "address": "Sbs - Kalanala, Shop No-12 Ground Floor, Opp.Dadasaheb Jain Mandir",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Sbs - Kavibid, Bhavnagar, Rammantra Mandir, Kalvibid, Ring Road",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "Sbs - Nirmalnagar, Bhavnagar, Madhav Ratna Building, Nirmal Nagar",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "Sbs - Vadava, Bhavnagar, Sun & Shine Hotel, Panwadi Chowk",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "Sbs - Bhopal, Royal Market, Sultaniya Road",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "Sbs - Bhubaneswar, 474 Sahid Nagar, Sahid Nagar",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 11,
+        "address": "Sbs -adambakkam, Chennai, 1st Floor No.6 (w), Bellalar Street, Adambakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 12,
+        "address": "Sbs - Mount Rd, Chennai, Mount Road, B.R.Complex, 27\/28 Woods Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 13,
+        "address": "Sbs - Coimbatore, 133 New Scheme Rd, Dr.N.L.N.Layout, P.N.Palayam",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 14,
+        "address": "Sbs - Dehradun, 2 New Cantt.Road",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "Sbs - Gurgoan, 19 Housing Board Colony, Sector 15, Jhansa Road",
+        "city": "Gurgoan",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 16,
+        "address": "Sbs - Sripuram, Hyderabad, 16-11-20\/ S \/ 9, Saleemnagar, Malakpet",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 17,
+        "address": "Sbs - Rnt Marg, Indore, No.4 Srivardhan Complex, Rnt Marg",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "Sbs - Siyaganj, Indore, 458, Saifi Hotel Square , Jawahar Marg",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "Sbs - Mansarovar, Jaipur, 101\/13, Mansarovar, Patel Road",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 20,
+        "address": "Sbs - Karachikhana, Kanpur, 25\/41 Naraini Plaza, Karachikhana",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "Sbs - Lucknow, \"saubhagya Bhavan\", 19\/c Vidhansabha Marg",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "Sbs Vasai Road Branch, Viswakarma Paradise, Ambadi Road West",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 23,
+        "address": "Sbs - Vashi, New Mumbai, A.P.S.C.Groma Market, Central Fecilit Bldg., Phase - Ii Market Ii",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 24,
+        "address": "Sbs - Nagpur, M\/s Lamba Traders, Hpcl Retail Outlet, Near Rto",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 25,
+        "address": "Sbs-nasik Branch, Crown Complex, Opp.Rajiv Gandhi Bhavan",
+        "city": "Nasik",
+        "district": "Nasik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 26,
+        "address": "Sbs - Kasturbanagar Branch, New Delhi, D-31 Kasturba Nagar Branch, South Ex-1",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 27,
+        "address": "Sbs - Nehru Place, Delhi, \"deepak\" Bldg.No.13, Nehru Place",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 28,
+        "address": "Sbs - Delhi, Patpargunj, 1st Floor A-16, Acharya Niketan, Patparganj Mayur Vihar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 29,
+        "address": "Sbs - Punjabibaug, Delhi, 28\/12.East Punjabi Baug, Main Niit Bldg., Ring Road",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 30,
+        "address": "Sbs - Sidharth Ext., New Delhi, 136 Bhagwan Nagar, Opp.Jivan Nursing Home",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 31,
+        "address": "Sbs - Raipur, Agrasen Chowk, Opp.Deshbandhu Press, Ramsagar Para",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 32,
+        "address": "Sbs - Opal Plaza, Rajkot, Shop No.8, Opal Plaza Amin Marg, Aksar Marg Corner",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 33,
+        "address": "Sbs - Gaikwadiplot, Rajkot, Shop No.1 D H Chambers, Near Gita Petrol Pump Kuvadva Road",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 34,
+        "address": "Sbs - Karanpara, Rajkot, Kunj Complex, Karanpara",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 35,
+        "address": "Sbs - Raiya Road, Apoorvacomplex, Shop No 4 Near Manali Optic",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 36,
+        "address": "Sbs - University Rd., Bhavnagar, University Road, Bhavnagar University",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 37,
+        "address": "Sbs - Secunderabad Branch, Celina Plaza1-8-12-142\/a\/2, Pender Ghast Road",
+        "city": "Secunderabad",
+        "district": "Secunderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 38,
+        "address": "Sbs - Gotri Road, Vadodara, Sun & Shine Complex, Gorwa Road",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 39,
+        "address": "Sbs- Gotri Raod, Vadodara, Gotri Road, Pratham Bldg.Opp.Iscon Temple",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "id": 40,
+        "address": "Sbs - Makarpura, Vadodara, Shop No.G\/8 Mangalmurti Complex, Opp.Novino Batteries Makarpura",
+        "city": "Vadodara",
+        "district": "Vadodara",
+        "state": "Gujarat"
+    }
+]

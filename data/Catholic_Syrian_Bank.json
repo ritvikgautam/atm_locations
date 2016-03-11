@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "address": "S S Building Opposite Nayanam Theatre M C Road Adoor",
+        "city": "Adoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 2,
+        "address": "Akkarakalam Building, Boat Jetty Road, Near K.S.R.T.C Bus Station, Alappuzha",
+        "city": "Alappuzha",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 3,
+        "address": "Noor Point Opposite Federal Bank Head Office Bank Junction, Aluva",
+        "city": "Aluva",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 4,
+        "address": "Sree Krishna Buildings Alagappanagar Post Amballur Junction",
+        "city": "Amballur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 5,
+        "address": "5-22, Vivekananda Nagar Colony Near Vivekananda Statue Kukatpally Hyderabad 500 072",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Door No.Iv\/254f, P.B.No.28, Kooran\ufffds Avenue, Angamaly - 683 572",
+        "city": "Angamaly",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 7,
+        "address": "Oberoi Chambers Jalna Road Aurangabad, 431 001 Maharashtra",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 8,
+        "address": "St.Patricks Shopping, Arcade, Brigade Road, P.B.No.25161, Bangalore, Karnataka- 560 025",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 9,
+        "address": "R V Road Jayanagar Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 10,
+        "address": "78\/5, Sms Building, Madiwala Hosur Main Road, Bangalore-68",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 11,
+        "address": "Srinidhi Towers, Nh-4, T-dasarahalli Bangalore 560097",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 12,
+        "address": "Kiadb Building, Bommasandra Industrial Area Complex, Hosur Road, Bommasandra Bangalore 560 099",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 13,
+        "address": "Plot No.45, Ashok Nagar, Janpath, Bhubaneswar - 9, Orrisa",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 14,
+        "address": "Kaitharath Buildings Main Road Chalakudy",
+        "city": "Chalakudy",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 15,
+        "address": "Sco 114-115 (ground Floor) Sector-34a Chandigarh - 160 022 Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 16,
+        "address": "Door No\/ 395\/ak\/xxii Bushara Complex North By-pass Road Chavakkad - 680 506 Thrissur District",
+        "city": "Chavakkad",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 17,
+        "address": "Xvi\/346(2) Vellavoor Junction, M C Road, Chengannur",
+        "city": "Chengannur",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 18,
+        "address": "B 13, 2nd Main Road Anna Nagar East Chennai - 600 102",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 19,
+        "address": "No.65, Nehru Bazar, Old Market Avadi Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 20,
+        "address": "7\/21, St.Patricks Complex, Indira Gandhi Road, Pallavaram, Chennai - 600 043",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 21,
+        "address": "7 Th Avenue, Besant Nagar, Chennai 600 090",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 22,
+        "address": "Vega Service Station 362, Arcot Road Chennai 600 024",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 23,
+        "address": "146, Nelson Manickam Road Near Mehta Nagar Bus Stop Chennai - 600 029",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 24,
+        "address": "Vadakay Nada, Cherthala Temple, Near Muncipal Shopping Complex, Cherthala Kerala",
+        "city": "Cherthala",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 25,
+        "address": "1st Floor, Priyadharshini Towers, East Car Street, Avanashi 641654, Coimbatore Dt., Tamil Nadu",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 26,
+        "address": "P.B.No.2929, Ist Floor Sree Ganesha Complex, No 12 10th Street Gandhipuram Coimbatore-641 012 Tamilnadu",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 27,
+        "address": "513, Db Road R.S.Puram Coimbatore - 641 002.",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 28,
+        "address": "No.41, Race Course Road Coimbatore 641 018",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 29,
+        "address": "Kamaraj Road, Uppilipalayanm, P.B.No.3306, Singanellur, Coimbatore T N- 641 015",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 30,
+        "address": "Ayar Ambrose Rural Self Employment, Institute Bldgs., Avanashi Rd., Karumathampatty, Coimbatore, T N- 641 659",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 31,
+        "address": "Sahodaran Ayyappa Road Kadavanthara Kochi",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 32,
+        "address": "Cc-40\/9688 A-3 Emgee Square Ground Floor, M G Road Ernakulam Kochi - 682 035",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 33,
+        "address": "P.B.No.1015, Market Road, Kochi-682011, Ernakulam Dt.Kerala",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 34,
+        "address": "Aruns Chambers National Highway Palarivattom Kochi - 25",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 35,
+        "address": "Door No.16\/1551\/j, P.T.Jacob Road Thoppumpady, P.B.No.813, Kochi-682 025, Ernakulam Dt., Kerala",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 36,
+        "address": "25, Cutcherry Street Erode - 638 001 Tamil Nadu",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 37,
+        "address": "Vettoor House Near Ksrtc M.C.Road Ettumanoor",
+        "city": "Ettumanoor",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 38,
+        "address": "Mangalam Educational Society Building, Vettimukal , Ettumanoor Post",
+        "city": "Ettumanoor",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 39,
+        "address": "A-2\/b, N.H.-1, Neelam Bata Road N.I.T.Faridabad - 121 001",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 40,
+        "address": "Sco-4, Sector - 14 Near Payal Cinema Gurgaon - 122 001",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 41,
+        "address": "Arunodhayam Tourist Home, East Nada, Guruvayur",
+        "city": "Guruvayur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 42,
+        "address": "164, Citi Sqare, Krishnagiri Bye Pass Road, Hosur, Tamil Nadu 635109",
+        "city": "Hosur",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 43,
+        "address": "Plot No.11 Motilal Atal Road Emerald Plaza Opposite Ganpati Plaza Jaipur - 302001",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 44,
+        "address": "32, G T Road Amardeep Building Jalandhar City Punjab",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 45,
+        "address": "Shiv, P.N.Marg, Opp.Dhanvantry University Of Ayurveda, Jamnagar--361 008 Gujarat",
+        "city": "Jamnagar",
+        "district": "Jamnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 46,
+        "address": "Kozhipatt Estate, Kunnumpuram, Kakkanad Ernakulam 682 030",
+        "city": "Kakkanad",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 47,
+        "address": "Potekkatu Tourist Home, Near Premier Ground, Kalamasserry",
+        "city": "Kalamassery",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 48,
+        "address": "Nishant Ii, Vaidyawadi, Rambaugh Main Road, Kalyan (w), Thane Dt, Maharashtra",
+        "city": "Kalyan",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 49,
+        "address": "1\/12, Sannathi Street Kanyakumari 629 702",
+        "city": "Kanyakumari",
+        "district": "Kanniyakumari",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 50,
+        "address": "Sree Valsam Building, Nh -47 Bye Pass, Vyttila Kochi-19",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 51,
+        "address": "11\/46 A, Neethirajan Complex, Woodwill Road, Opp.State Bus Stand, Kodaikanal 624101",
+        "city": "Kodaikanal",
+        "district": "Kodaikanal",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 52,
+        "address": "Poddar Court 18, Rabindra Sarani Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 53,
+        "address": "No.Bf\/25, Salt Lake City, Sector-1, Kolkata 700 064",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 54,
+        "address": "Vp\/iv\/705 Katcherry Junction Polayathode Kollam",
+        "city": "Kollam",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 55,
+        "address": "Sheeba Building Pulamon Junction Kottarakkara",
+        "city": "Kottarakkara",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 56,
+        "address": "Noya Plaza, K K Road, Kalathipadi, Kottayam - 686 010",
+        "city": "Kottayam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 57,
+        "address": "St Thomas Centre, Sastri Road, Kottayam - 1",
+        "city": "Kottayam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 58,
+        "address": "Swagath Holiday Resort, Kovalam",
+        "city": "Kovalam",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 59,
+        "address": "Sona Tower Near Medical College Devagiri Road Kovoor, Kozhikode",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 60,
+        "address": "Vandhana Building Mavoor Road Kozhikode 673004",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 61,
+        "address": "Jyothi Bhavan, Kumarakom North, Kottayam",
+        "city": "Kumarakom",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 62,
+        "address": "Tc1\/1992(2) Medical College Post Kumarapuram Thiruvananthapuram",
+        "city": "Kumarapuram",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 63,
+        "address": "No.32, Nageswaran Koil Sannathi Street, Kumbakonam 612 001",
+        "city": "Kumbakonam",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 64,
+        "address": "Green Field, Near Sarabha Nagar Chowk Ludhiana - 141 002 Punjab",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 65,
+        "address": "44 A, Netaji Road, Madurai 625 001",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 66,
+        "address": "Kuzhimannil Building Post Office Junction Thiruvalla Road, Mallappally",
+        "city": "Mallappally",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 67,
+        "address": "16-11-618\/2, Malabar Hill, Falnir Road, Mangalore 575 001",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 68,
+        "address": "Renato Building Fr.Miranda Road Margao - 403 601",
+        "city": "Margao",
+        "district": "South Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 69,
+        "address": "Thayyil Shopping Complex A.V.J Junction Mavelikara Alappuzha Dt",
+        "city": "Mavelikkara",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 70,
+        "address": "Plot No.238, Gama Grandeur, Central Avenue Road, Mumbai-400071, Maharashtra",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 71,
+        "address": "Anu Apartments, Govardhan Nagar, Lbs Marg, Mulund West, Mumbai 400 082, Maharashtra.",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 72,
+        "address": "53, East & West Building, Mumbai Samachar Marg, Opp : Mumbai Stock Exchange, Fort Mumbai 400 023",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 73,
+        "address": "M.U.Arcade Baptista Road Vile Parle (w) Mumbai - 400 056",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 74,
+        "address": "Divine Retreat Centre, Muringoor Chalakudy 680 316",
+        "city": "Muringur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 75,
+        "address": "Vallamattam Estate, Post Office Jn.Muvattupuzha Ernakulam Dt.Kerala- 686 661",
+        "city": "Muvattupuzha",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 76,
+        "address": "Malayil Arcade 987, K P Road Tamilnadu",
+        "city": "Nagercoil",
+        "district": "Kanniyakumari",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 77,
+        "address": "Rushiraj Avenue, Canada Corner, Sharanpur Trimbak Link Road, Nasik 422 002",
+        "city": "Nasik",
+        "district": "Nasik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 78,
+        "address": "Door No.11\/370, Opposite Nattika Service Co-operative Bank, Nh-17, Triprayar, P.O.Nattika",
+        "city": "Nattika",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 79,
+        "address": "Shop No.9, H Block Market Phase 1 Ashok Vihar 52 Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 80,
+        "address": "B-3\/7 Opposite Deep Cinema Ashok Vihar Phase - Ii Delhi - 110 052",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 81,
+        "address": "M-17, Main Market Greater Kailash - Ii New Delhi - 110 048",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 82,
+        "address": "G-36, 1st Floor, Connaught Circus, New Delhi - 110 001",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 83,
+        "address": "Sha Complex, T.B.Junction Neyyattinkara",
+        "city": "Neyyattinkara",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 84,
+        "address": "C-60, Sector-2 Noida Gautham Budh Nagar Uthar Pradesh -201 301",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 85,
+        "address": "M R K Agencies Nungambakkam High Road Chennai",
+        "city": "Nungambakkom",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 86,
+        "address": "P.B No.3 Malampuzha Road Olavakkot Palakkad Kerala - 678 002",
+        "city": "Olavakkode",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 87,
+        "address": "Moosa Sait Shopping Complex Commercial Road, Ootacamund, Nilgiris 643001",
+        "city": "Ooty",
+        "district": "Nilgiri",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 88,
+        "address": "Imperial Buildings T.B.Road, P.N.No.341 Palakkad Dist., Kerala - 678 014",
+        "city": "Palakkad",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 89,
+        "address": "P.B No.402 Menezez Braganza Rd.Ground Floor Hotel Summit Building Panaji Goa - 403 001.",
+        "city": "Panaji",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 90,
+        "address": "Ameer Building, M.C.Road, Pandalam",
+        "city": "Pandalam",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 91,
+        "address": "Thellireth Plaza K.P.Road Pathanamthitta-689645",
+        "city": "Pathanamthitta",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 92,
+        "address": "Main Road, P.B.No.7, P.O.Pavaratty, Thrissur Dt., Kerala - 680 507",
+        "city": "Pavartty",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 93,
+        "address": "Opp.Municipal Office, Near New Bus Stand, Main Road, Payyannur 670 307",
+        "city": "Payyannur",
+        "district": "Kannur",
+        "state": "Kerala"
+    },
+    {
+        "id": 94,
+        "address": "Don Bosco Matriculation Higher Secondary School 6, Paper Mills Road Peravallur, Chennai 600 082",
+        "city": "Peravallur",
+        "district": "Na",
+        "state": "Kerala"
+    },
+    {
+        "id": 95,
+        "address": "Km Shopping Centre, Hospital Road, Perintalmanna",
+        "city": "Perintalmanna",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 96,
+        "address": "Christuraj Shopping Complex M.C.Road Perumbavoor 638542",
+        "city": "Perumbavoor",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 97,
+        "address": "Milap Towers, G.T.Road, Phagwara 144 401",
+        "city": "Phagwara",
+        "district": "Kapurthala",
+        "state": "Punjab"
+    },
+    {
+        "id": 98,
+        "address": "Door No.474\/476\/478 M G Road Pondicherry - 605 001",
+        "city": "Pondicherry",
+        "district": "Pondicherry",
+        "state": "Pondicherry"
+    },
+    {
+        "id": 99,
+        "address": "Balakrishna Building, Main Road, Ponnani 679 577",
+        "city": "Ponnani",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 100,
+        "address": "Ground Floor Pannivelil Building Opposite I.T.I Nh 47 Kanjikode West-678623",
+        "city": "Pudusserywest",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 101,
+        "address": "Thrissur - Punkunnam Main Road Near Over Bridge Thrissur",
+        "city": "Punkunnam",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 102,
+        "address": "Ground Floor, Kmc Iii\/408, Opp.M S M College, Kayamkulam 690 502",
+        "city": "Puthuppally(portion)",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 103,
+        "address": "34, Opp.Pookoodai Complex, Kamarajar Nagar, Four Road Junction, Omalur Main Road, Salem 636 007",
+        "city": "Salem",
+        "district": "Salem",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 104,
+        "address": "Vijay Millenium, Sadar Bazar Satara 415 001 Maharashtra",
+        "city": "Satara",
+        "district": "Satara",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 105,
+        "address": "7\/b, Royale Road, Opp.St Johns Vestry Anglo Indian Higher Secondary School, Cantonment, Thiruchirappalli--620 001",
+        "city": "Thiruchirappalli",
+        "district": "Na",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 106,
+        "address": "Prasad Hotel Complex, Nh 47, Near Kachery Junction, Attingal Thiruvananthapuram 695 101",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 107,
+        "address": "Vaishnavam, Tc 5\/1922-2, Temple Road, Ambalamukku Junction, Kowdiar Post, Thiruvananthapuram 695003",
+        "city": "Thiruvananthapuram",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 108,
+        "address": "Jaya Buildings, Bye Pass Road, Near Chakkai Junction And International Airport, Thiruvananthapuram",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 109,
+        "address": "P.K.C.Towers, Opposite M.L.A.Hostel, Palayam, Thiruvananthapuram 695 034",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 110,
+        "address": "Airport Road, Near Pattoor Junction, Vanchiyoor P.O, Thiruvananthapuram - 35",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 111,
+        "address": "St.Mary\ufffds Higher Secondary School Building, Pattom, Thiruvananthapuram 695 004, Kerala",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 112,
+        "address": "Rohini Buildings Thirumala Thiruvananthapuram Pin - 695 006",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 113,
+        "address": "Ulloor, P.B.No.2404, Medicalcollege P.O., Thiruvananthapuram, Kerala 695 011, Medical College",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 114,
+        "address": "Banerji Memorial Club Round North Thrissur",
+        "city": "Thrissur",
+        "district": "Thrissur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 115,
+        "address": "Post Box No.502 College View Head Office Building St Marys College Road Thrissur, Kerala - 680 020",
+        "city": "Thrissur",
+        "district": "Thrissur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 116,
+        "address": "P.B.No.83, Panamkuttuchira, P.O.Ollur, Thrissur Dt., Kerala - 680 306",
+        "city": "Thrissur",
+        "district": "Thrissur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 117,
+        "address": "Seetha\ufffds Arcade, P.B.No.25, 141, Kumaran Road, Tirupur, T N - 641 601",
+        "city": "Tirupur",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 118,
+        "address": "Malayil Building M.C.Road Ramanchira Tiruvalla",
+        "city": "Tiruvalla",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 119,
+        "address": "\ufffdpindis Arcade\ufffd Hill Palace Road, Tripunithura 682 301",
+        "city": "Trippunithura",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 120,
+        "address": "Chittur Road Ernakulam South Kochi 682016",
+        "city": "Valanjambalam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    }
+]

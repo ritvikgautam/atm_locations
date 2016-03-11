@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "address": "A-2 Ground Floor, Aurangabad Business Center, Adalat Road, Dr.Rajendra Prasad Marg, Aurangabad - 431005.Opp.District Court, Adalat Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 2,
+        "address": "Raheja Tower, P.B.No.- 5002, 26 - 27, M.G.Road, Bangalore - 560001",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 3,
+        "address": "Shop No.- 6, Lakshmi Venkateshwara Complex, Door No.- 76 - 11 \/ 1, Elephant Rock Road, 3rd Block, Jaya Nagar, Bangalore - 560011",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 4,
+        "address": "2, Vellankani Tech Park, 43, Electronic City, Phase - 2, Hosur Road, Bangalore - 560100",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 5,
+        "address": "Diamond District \"a\", Tower 150, Ward No.- 73, Kodihalli Airport Road, Bangalore - 560008 Diamond District",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 6,
+        "address": "Shop No.- 24, 80ft Road, K.H.B.Colony, 5th Block, Koramangala, Bangalore - 560095",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 7,
+        "address": "Shop No.1, Spar Hypermarket Mall, 39 \/ 3 And 44, Bysandra Village, Uttarahalli Hobli, South Taluk, Banerghatta Road, Bangalore - 560029",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 8,
+        "address": "Manyata Embassy Business Park, Ibm \ufffdbeech\ufffd Block No.- E 1, \ufffda\ufffd Wing, Outer Ring Road, Krishnarajpuram, Junction - Hebbal, Nagavara, Bangalore - 560071",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 9,
+        "address": "Ground Floor, Kothari Building, Nungambakkam High Road, 114, M.G.Road, Chennai - 600034 Opposite Taj Coromandel",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 10,
+        "address": "553, East Coast Center, Mount Road, Near Cee Bras Center, Chennai - 600018 Near Cee Bras Center",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 11,
+        "address": "Y - 233, Ii Avenue, Anna Nagar, Chennai - 600040",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 12,
+        "address": "222 \/ 44, Empire Plaza, Nsc Bose Road, Parrys Corner, Chennai - 600002 Empire Plaza",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 13,
+        "address": "Infinity Tower, Tower A, Ground Floor, Sector - 25a, Dlf Phase Ii, Dlf City, Gurgaon, Haryana Opposite Ericcson Building (near Dlf Gateway Tower On Nh-8)",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 14,
+        "address": "Deutsche Bank Centre, 221b\/1b, E Ward, Tarabai Park, Kolhapur - 416 003.Near Tarabai Garden",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 15,
+        "address": "Brooke House, Ground Floor, 9, Shakespeare Sarani, Kolkata - 700071 Brooke House",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 16,
+        "address": "City Center (dc Block) (a), Block - G, Shop No.001, Sector - 1, Salt Lake, Kolkata - 700064 City Center Mall",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 17,
+        "address": "Vidhya Apartment, Shop No.4, 168 Veer Savarkar Marg, Mahim, Mumbai - 400016 Near Hinduja Hospital",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 18,
+        "address": "Glacis, Plot No.391, Jupiter, Linking Road, Khar, Mumbai - 400052",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 19,
+        "address": "222, Kodak House, Ground Floor, Dr.D.N.Road, Fort, Mumbai - 400001 Near Khadi Bhandar",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 20,
+        "address": "Club Peninsula, Behind The Food Court, Peninsula Corporate Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai - 400013 Club Peninsula",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    }
+]

@@ -1,0 +1,5322 @@
+[
+    {
+        "id": 1,
+        "address": "Raghu Shopping Arcade, T M.G.Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "22, Ada Market Jaipur House",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "3\/9\/6-7 Jewel Palace Compound, Pratapura, M.G.Road",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Shop No.3, Balaji Shanta Bazaaopp.Kargil Petrol Pumpt Sikandara Bodla Roadt Sr",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Shop No.9, Ajanta Commercial Cgandhi Square, Ashram Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Hpcl Coco Pump, Sattadhar Char Rasta, T Ssola Road, Bhuyangdev, T",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "B-1, Ghantakaran Mahavir Marke Near New Cloth Market, Tsarangpur",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "Shop No.2, Upper Level, Parth",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "El 2, Maruti Tower, Sattelite Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "Hitek Bldg.Opp.Museum, Paladi, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 11,
+        "address": "Idbi Complex, Lal Bungalow, Off C G Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 12,
+        "address": "Ground Floor, Block No.19, Udyog Bhavan, Sector 11, Gandhi Nagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 13,
+        "address": "Aishwarya Complex, =yash Kunj Society, =prabhat Chowk, Ghatlodia",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "Hpcl Petrol Pump Sadguru Filling Stationt Bopal Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 15,
+        "address": "Satya Complex, Opp: Ioc Petrol 132 Feet Ring Road, Near Shivranjani Cross Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "C-21, Yash-4 Shops & Apartment Nr Ananya Flat, Mangleswar Mah Isanpur, Ghodasar, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 17,
+        "address": "No.A-7, Shalin Complex, Groun Krishna Baug Char Rasta, Maninagar Station Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 18,
+        "address": "Idbi Ltd., Krishna Avenue, Subhash Circle Memnagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 19,
+        "address": "Gf\/ 18, Prathana Complex, India Colony Cross Road, Bapunagar, Ahmedabadt Sr",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 20,
+        "address": "20 Satyam Complex, =science City Road, =ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 21,
+        "address": "Advance Plaza, Opp.Swaminarayan Temple Shahi Bagh",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 22,
+        "address": "M\/s Deepak Fuel World Bpcl Savedi=h Ahmednagar",
+        "city": "Ahmednagar",
+        "district": "Ahmednagar",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 23,
+        "address": "Pu.Vaivenga Building, T Tuikhuahtlang",
+        "city": "Aizawl",
+        "district": "Aizawl",
+        "state": "Mizoram"
+    },
+    {
+        "id": 24,
+        "address": "Hotel Karishma, B-1-s, T Haribhau Upadhay Nagar, T Opp Vishram Sthali",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 25,
+        "address": "Opp.City Power House, T Jaipur Road",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 26,
+        "address": "Nasirabad Road, Madhav Kunj, nagra, Ajmer",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 27,
+        "address": "Radhakishan Toshniwal Ayurvedi Kedia Plots, Jathar Peth , Akola",
+        "city": "Akola",
+        "district": "Akola",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 28,
+        "address": "Old Income Tax Square, T Gorakshan Road, Akola",
+        "city": "Akola",
+        "district": "Akola",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 29,
+        "address": "Jeevan Prakash Buildingt M G Marg Civil Lines",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 30,
+        "address": "Hotel Twin Building 53, Leader Road, Allahabad",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 31,
+        "address": "27, Old Katra, Allahabad",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 32,
+        "address": "Kamala Tower, Hospital Junction, M.C.Road Chengannur",
+        "city": "Allepey",
+        "district": "Alapuzzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 33,
+        "address": "13, Uti Shopping Complex, Bus Stand, Alwar, =h Rajasthan",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 34,
+        "address": "Shri Shivaji Commercial Comple Dashara Maidan Road, Sharada N Amravati",
+        "city": "Amravati",
+        "district": "Amravati",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 35,
+        "address": "Tank Plaza , Ambadevi Road , Amravati",
+        "city": "Amravati",
+        "district": "Amravati",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 36,
+        "address": "9, Deep Complex, Court Road",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 37,
+        "address": "103, Kesri Bagh, Opposite Dharam Singh Market",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 38,
+        "address": "Booth No 16, Distt.Shopping C Ranjit Avenue, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 39,
+        "address": "Shop No.15, Near Kali Mata Mandir, Shakti",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 40,
+        "address": "Nana Bazar, Vallabh Vidyanagar",
+        "city": "Anand",
+        "district": "Anand",
+        "state": "Punjab"
+    },
+    {
+        "id": 41,
+        "address": "15\/543 & 544, Saptagiri Circle, =h Anantpur",
+        "city": "Anantpur",
+        "district": "Na",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 42,
+        "address": "Plot No 07, Raghbir Chamber, vidya Nagar, Jalna Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 43,
+        "address": "Apulki Building, Aurangpura, p.B.No.104, Aurangabad",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 44,
+        "address": "Sunder Plaza, N-1, Cidco, Off.Jalgaon Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 45,
+        "address": "Shop No.11, Anand Plaza, P.N.7, Cts No.15847- 199, A Garkheda, Aurangabadt Sr",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 46,
+        "address": "Annapurna, Kushal-niwas, T Jalna Road, Aurangabad",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 47,
+        "address": "New Osmanpura, Pralhad Sankul, Sant Eknath Rang Mandir Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 48,
+        "address": "Shop No 9 Renuka, Tv Center=h Jalgaon Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 49,
+        "address": "Plot No X-323, Meena Thackeray Maharana Pratap Chowk, Bajaj N Midc Industrial Area, Waluj",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 50,
+        "address": "Fauji Complex Main Sai Road Baddi The.Nalagarh",
+        "city": "Baddi",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 51,
+        "address": "Sco No-1, Kalgidhar Enclave Baltana, Zirakpur",
+        "city": "Baltana",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 52,
+        "address": "11, First Cross Gandhinagar P.B.9931t Sr Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 53,
+        "address": "No.58, Mission Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 54,
+        "address": "No.311\/45, Shanthi Krupa 59th Cross, Iii Block, T Bashyam Circle, Rajajinagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 55,
+        "address": "115\/a, Ii Stage, Btm, T S Bilekahalli, Dollars Scheme La Bannerghatta Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 56,
+        "address": "Canara Durg House, Jayanagar 651\/6, 11th Main, 30th Cross, 4 Jayanaga",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 57,
+        "address": "128, Wheeler Road Cox Town",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 58,
+        "address": "14, 17th Cross Domlur Layout Airport Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 59,
+        "address": "Hpcl Outlet, ( H P Autocare Ce C\/o Hpcl Lpg Bottling Plant Mahadevapura, Whitefield Main",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 60,
+        "address": "Vishal Complex, 326 6th Main, 80\ufffd Road Indira Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 61,
+        "address": "No.58 Mission Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 62,
+        "address": "Idbi Ltd 26\/1, Sowbhagya Complex 24th Main, 5th Phase, J P Naga",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 63,
+        "address": "Tech Mahindra No 9\/7, Hosur Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 64,
+        "address": "Opp M G Hospital Saraf Natwarlal Complex Banswara",
+        "city": "Banswara",
+        "district": "Banswara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 65,
+        "address": "Udaipur Khas D.D Puram Chouraha Bareilly",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 66,
+        "address": "Concorde Building R.C.Dutt Road Alkapuri",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 67,
+        "address": "Jai Ranchhod Complex, T S 58, Ambalal Park Society Water Tank Road, Karelibaug",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 68,
+        "address": "Silver Coin Building, Shop No Opp.Bharatiya Vidya Bhavan Sc Ongc Circle, Makarpura",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 69,
+        "address": "Jay Complex Opp.Deluxe Society, T Sr Nizampura",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 70,
+        "address": "G-9.Siddhi Vinayak Complex Opp.Panchratna Complex Subhanpura",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 71,
+        "address": "3493\/1b, College Road",
+        "city": "Belgaum",
+        "district": "Belgaum",
+        "state": "Karnataka"
+    },
+    {
+        "id": 72,
+        "address": "Girija Juction Berhampur",
+        "city": "Berhampur",
+        "district": "Ganjam",
+        "state": "Orissa"
+    },
+    {
+        "id": 73,
+        "address": "Shop No.5, Akshardeep Complex, Sanskar Mandal",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 74,
+        "address": "Vithalwadi Road , =h Shop No.11, Hardik Complex, Vi Bhavnagar Rajkot Highway",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 75,
+        "address": "Radheshyam Complex, Waghawadi Road",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 76,
+        "address": "Don, Shop No.-3, Shree, Crescent Circle, =h",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 77,
+        "address": "19, Priyadarshini Parisar, T Nehru Nagar Square",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 78,
+        "address": "Near Bti Fencing, =h Ispat Bhavan Chowk, Bsp Township, Sector 1, T",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 79,
+        "address": "19 Priyadarshini Parisar, Nehru Nagar Square",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 80,
+        "address": "Laxmi Complex, Maitri Nagar, risali",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 81,
+        "address": "Alka Medical Hall, Plot No 70, Contractor Colony=h Supela",
+        "city": "Bhilai",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 82,
+        "address": "4, Om Tower, Opp Sandeep Bajaj Showroom, Pur Road, Bhilwara",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 83,
+        "address": "Shop No.4, Vijaya Complex, 10 No.Market, E 4\/28, Arera Colony",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 84,
+        "address": "Vijay Market, Berkhera, Bhel",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 85,
+        "address": "43, New Market, T.T.Nagar, Opp.Rangmahal Cinema,",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 86,
+        "address": "Shop No.13, Nadra Complex, Sultania Road, S.B.I.Square,",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 87,
+        "address": "Shop No.3, Gyan Complex, Plot No.6, M.P.Nagar Zone- Ii, T Sr",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 88,
+        "address": "Joy Auto Centre, Bpcl Pump, Kalpana Square",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 89,
+        "address": "Hotel Crystal Complex, T Plot No.D, Baramunda Housing Board Colony",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 90,
+        "address": "Idbi House, Janpath, Unit-ix, =h",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 91,
+        "address": "Hotel Urmee, 424 Rasulgarh, Bhubaneshwar, Orissa",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 92,
+        "address": "Vassudeva Arcade, =hopp.Chhatrapati Shivaji Maida Bicholim",
+        "city": "Bicholim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 93,
+        "address": "Shop No.20., Ranbankura Shopp Key Location Plan Area, T Army Cantonment",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 94,
+        "address": "Modern Market, Opp.Drm Office, Near Tulsi Circle,",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 95,
+        "address": "City Plaza, Ganga Sahar, Bikaner",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 96,
+        "address": "Jarhabhata Mandir Chowk, Near Apollo Pharmacy, T S Bilaspur",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 97,
+        "address": "A1\/2, City Centre=h Sector 4 Bokaro Steel City=h",
+        "city": "Bokaro",
+        "district": "Bokaro",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 98,
+        "address": "Bhakti Pooja Bhandar, T S Chouraha Ansari Raod, T S Bulandshahr",
+        "city": "Bulandshehar",
+        "district": "Bulandshehar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 99,
+        "address": "H.No.4\/256, C.M.Complex Porbavaddo",
+        "city": "Calangaute",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 100,
+        "address": "City Plaza Ymca Cross Road",
+        "city": "Calicut",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 101,
+        "address": "Sco 55-56-57, Sector 8-c, Madhya Marg",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 102,
+        "address": "Booth No 34, Sec-22 D",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 103,
+        "address": "Booth No-381, Sector - 32 C & D",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 104,
+        "address": "Booth No.116, Sector-37-c",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 105,
+        "address": "Idbi Ltd, Sco 72-73, T Sr Sector 17b, Bank Square",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 106,
+        "address": "Booth No.3, Sector 7- C",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 107,
+        "address": "Shri.V.T.Shrigiriwart Sr Building Saraf Lane Warora",
+        "city": "Chandrapur",
+        "district": "Chandrapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 108,
+        "address": "Doraiswami Suseeladevi, Old No 3rd Cross Street, =h Kasturbha Nagar, Adyar, T",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 109,
+        "address": "37, Sona Building C.P.Ramaswamy Road, T S Alwarpet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 110,
+        "address": "50, Armenian Street, T Sr George Town, Chennai, T S",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 111,
+        "address": "44\/86, 4th Avenue, Ashok Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 112,
+        "address": "Shop No.3, Door No.25, Hig Flats, T Jawahar Vidhalaya, Ashok Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 113,
+        "address": "35, Audiappa Naicken Street Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 114,
+        "address": "L\/40 - B, 7th Avenue, T S Besant Nagar Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 115,
+        "address": "Old No.2, New No.7, T Sr Mount Poonamallee Road, Nandam Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 116,
+        "address": "C\/o, Cms Securitas Ltd The Citadel, 40, Venkatraman Street, T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 117,
+        "address": "Spurtank Road Filling Station Iocl Outlet Spurtank-casa Mayor Road Junct",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 118,
+        "address": "No.37, P.M.Tower Greams Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 119,
+        "address": "Hcl Technologies Ltd., T No 184 To 188, 190, 192& 196 Nsk Road(arcot Road), Vadapal",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 120,
+        "address": "Hcl 3 Technologes Ltd., T D11\/d12 Sidco Estate, T S Ambattur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 121,
+        "address": "Hcl Technologies Ltd., T D11\/ D12 Sidco Estate, T Ambattur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 122,
+        "address": "Hexaware Towers 51\/3, G.N.Chetty Road, T T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 123,
+        "address": "Hexaware Technologies Ltd.Hexaware Towers, 51\/3, T G.N.Chetty Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 124,
+        "address": "A \/ 1, Door No.33, Munuswamy Salai K.K.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 125,
+        "address": "G\/1a, Annai Apartments, T 33, Nachiappan Street, T Mahalingapuram",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 126,
+        "address": "M\/s Santhi Service Station, (indian Oil Corp.Petrol Pump)meenambakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 127,
+        "address": "No.144, Royapettah High Road, T S Mylapore",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 128,
+        "address": "51, Nelson Towers Nelson Manickam Road, T S",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 129,
+        "address": "C\/o Vivek & Co.North Usman Road T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 130,
+        "address": "No.37, P.M.Tower, Greams Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 131,
+        "address": "Old No.7\/8, New No.10, Dr.Radhakrishnan Nagar, P.H.Arumbakam, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 132,
+        "address": "Senthil Service Station, Hpcl Pump, No.11 Gst Road, Pallavaram, T S",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 133,
+        "address": "No.G-2, Prince Manor , T 114, Purasawalkam High Road,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 134,
+        "address": "Rahat Plaza, 172 Arcot Road, Opp.Vijaya Hospital , T Vadapalani",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 135,
+        "address": "161, S R P Colony Opp Periyar Nagar Bus Terminus Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 136,
+        "address": "115, Anna Salai, Saidapet, Post",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 137,
+        "address": "Ab 104\/105, Shanti Colony, 4th Avenue, Anna Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 138,
+        "address": "C\/o Vivek & Co., Rajaji Salai, Tambaram (west)",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 139,
+        "address": "Guna Complex, 443\/304, Annasalai Teynampet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 140,
+        "address": "Rajparis Deepak Apartments, 141, Kalki Krishnamorrthy Sala L.B.Road, Thiruvanmiyur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 141,
+        "address": "1, Sahas Lakshmi Apartments, 87, Thirumangalam Road, T Villivakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 142,
+        "address": "New No.70, Old No.64, Arya Gowda Road, West Mamabalam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 143,
+        "address": "B-1, Meera Market",
+        "city": "Chittorgarh",
+        "district": "Chittorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 144,
+        "address": "Bpcl Petrol Pump, Rathnam Agen 469, Sathy Road, Ramakrishnapuram Post, Ganapath",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 145,
+        "address": "1078, Viscose Towers, Avinashi Road",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 146,
+        "address": "Cpc (p) Ltd.207, Mettupalayam Roadt Cheran Nagar",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 147,
+        "address": "Sree Annamar Enterprises, D.B.Road, Rs Puram,",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 148,
+        "address": "Psg Institute Of Technology Peelamedu",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 149,
+        "address": "61, V.R.G.Complex, Jain S.R.Road Saibaba Colony",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 150,
+        "address": "Hpcl Outlet, Theja Filling Sta Near Rtc Bus Stand, Arvind Nagar, Cuddapaht",
+        "city": "Cuddapah",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 151,
+        "address": "6\/1445-4, Shankarpuram, Cuddapah",
+        "city": "Cuddapah",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 152,
+        "address": "Ground Floor, Kavita Bhawan College Road College Square",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 153,
+        "address": "L.I.C Of India Cuttack Branch Office No.1, C.D.A, Sector-6, Bidanasi",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 154,
+        "address": "L.I.C Of India, D.B.O Compound, Jeevan Jyoti Complex, Link Road, Cuttack",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 155,
+        "address": "61, Chakrata Road",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 156,
+        "address": "765, Chakrata Road Ballupur, Dehradun, Uttaranchalt S",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 157,
+        "address": "59\/4, , International Trade Centre, Rajpur Road",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 158,
+        "address": "464, Hardwar Road Dharampur",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 159,
+        "address": "48\/11 Arhat Bazar Saharanpur Chowk",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 160,
+        "address": "Skylark Complex, Bank More",
+        "city": "Dhanbad",
+        "district": "Dhanbad",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 161,
+        "address": "Shamim Akhtar Gaddi, T Sr Gaddi Mansion, Jharia Main Road",
+        "city": "Dhanbad",
+        "district": "Dhanbad",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 162,
+        "address": "Steel Gate, Main Roadt S Seraidhella Near Madan Medical",
+        "city": "Dhanbad",
+        "district": "Dhanbad",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 163,
+        "address": "2078, Dayama Building, T S Galli No.6, Dhule",
+        "city": "Dhule",
+        "district": "Dhule",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 164,
+        "address": "Leirauki, 1st Floor Khermahal Junction P.O.173",
+        "city": "Dimapur",
+        "district": "Dimapur",
+        "state": "Nagaland"
+    },
+    {
+        "id": 165,
+        "address": "Ground Floor, Jai Neelkant C.H Babasaheb Joshi Marg, T S Off Phadke Road",
+        "city": "Dombivali",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 166,
+        "address": "588, Cauvery Road Erode",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 167,
+        "address": "101, E.V.K Sampath Nagar, T S",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 168,
+        "address": "66, Aanoor Amman Complex, Sathy Main Road",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 169,
+        "address": "140, Poondurai Road, T Sr Erode",
+        "city": "Erode",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 170,
+        "address": "S.C.O.99, Sector 16",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 171,
+        "address": "Sector-29, Huda Market Farida Shop No-46, Sector-29, T Huda Market",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 172,
+        "address": "Shop No.19, Ramneek Shopping C Nh 1, Nit 1",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 173,
+        "address": "S.C.O.99, Sector 16",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 174,
+        "address": "Sector-29, Huda Market Farida Shop No-46, Sector-29, T Huda Market",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 175,
+        "address": "Shop No.19, Ramneek Shopping C Nh 1, Nit 1",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 176,
+        "address": "F\/2 Vaishali Tower, Complex, 31 A, National Highway",
+        "city": "Gangtok",
+        "district": "Gangtok",
+        "state": "Sikkim"
+    },
+    {
+        "id": 177,
+        "address": "Dr.Shanti Complex, Ranipol, Gangtok",
+        "city": "Gangtok",
+        "district": "Gangtok",
+        "state": "Sikkim"
+    },
+    {
+        "id": 178,
+        "address": "Shop No 32 & 33, Chiranjiv Plaza I, Chiranjiv V Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 179,
+        "address": "C-78, Sudesh Plaza, Raj Nagar District Centre Raj Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 180,
+        "address": "187, New Gandhi Nagar Market, Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 181,
+        "address": "Shop- No.G1b, G Block, Main Market, Opp.St Shastri Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 182,
+        "address": "Mahalaxmi Plaza Vc-2, Sector Iii Adjoining Ansal Plaza, Vaishal",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 183,
+        "address": "Shop No 32 & 33, Chiranjiv Plaza I, Chiranjiv V Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 184,
+        "address": "C-78, Sudesh Plaza, Raj Nagar District Centre, Raj Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 185,
+        "address": "187, New Gandhi Nagar Market, Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 186,
+        "address": "Shop- No.G1b, G Block, Main Market, Opp.St Shastri Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 187,
+        "address": "Mahalaxmi Plaza Vc-2, Sector Iii Adjoining Ansal Plaza, Vaishal",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 188,
+        "address": "58, Khariya Pokhara, T Sr Basaratpur, Gorakhpur",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 189,
+        "address": "C4, Qutab Plaza, Phase 1, Dlf City",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 190,
+        "address": "Shop No.6 & 7, Orchid Square Sector Road, B-blockt Sr Sushant Lok - 1",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 191,
+        "address": "Shop No.103, (near Om Sweets), Huda Complex Sector 14 ,",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 192,
+        "address": "Shop No.8 (near Jay Cinema) , Huda Marke Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 193,
+        "address": "Raheja Square Manesar",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 194,
+        "address": "C4, Qutab Plaza, Phase 1, Dlf City",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 195,
+        "address": "Shop No.6 & 7, Orchid Square Sector Road, B-blockt Sr Sushant Lok - 1",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 196,
+        "address": "Shop No.103, (near Om Sweets), Huda Complex Sector 14",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 197,
+        "address": "Shop No.8 (near Jay Cinema) , Huda Marke Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 198,
+        "address": "Raheja Square Manesar",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 199,
+        "address": "Pal Tower, Mehrauli Gurgaon Road, T Sikanderpur",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Delhi"
+    },
+    {
+        "id": 200,
+        "address": "Pal Tower, Mehrauli Gurgaon Road, T Sikanderpur",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 201,
+        "address": "Satyen Niwas, Opp Sukleshwar M M.G.Road, Pan Bazar",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 202,
+        "address": "G.S.Road ,",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 203,
+        "address": "Silpukhri Mrd Road Guwahati",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 204,
+        "address": "Bindal House, 23 Gandhi Road",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 205,
+        "address": "Thorat Palace Naya Bazar Lashkar Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 206,
+        "address": "Chamber Bhawan, Sdm Road, Lashkar",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 207,
+        "address": "Hpcl Pump, Gwalior Service, Mlb Road, Near Phoolbagh Circle, T",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 208,
+        "address": "Madhav Institute Of Technology Gola Ka Mandir, Race Cource Roa Mela Ground",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 209,
+        "address": "Jagdamba Complex Mor Bazar",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 210,
+        "address": "25, M.H.Crossing Morar",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 211,
+        "address": "Ramkrishna Ashram Gwalior Rkvm Extn Counter R K Puri Th Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 212,
+        "address": "Suzuki Showroom, Main Road, City Centre, Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 213,
+        "address": "6\/1, Balaji Villa Near Lic Office, Tansen Road Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 214,
+        "address": "Shop No.M-69, Mohana Mini Market, Purbamedinipur",
+        "city": "Haldia",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 215,
+        "address": "Near Vaibhav Society, T S Khed Tasiya Road Mahavir Nagar, Himmat Nagar, G",
+        "city": "Himmat Nagar",
+        "district": "Na",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 216,
+        "address": "Akshay Center, Ajdacent To Big Bazaar, T Gokul Road, Hubli",
+        "city": "Hubli",
+        "district": "Hubli",
+        "state": "Karnataka"
+    },
+    {
+        "id": 217,
+        "address": "Giriraj Annexe T.B.Road",
+        "city": "Hubli",
+        "district": "Hubli",
+        "state": "Karnataka"
+    },
+    {
+        "id": 218,
+        "address": "Shop No- 5, Laxmi Bala Krishna Square, Station Road, Hubli, T Sr",
+        "city": "Hubli",
+        "district": "Hubli",
+        "state": "Karnataka"
+    },
+    {
+        "id": 219,
+        "address": "J.R.House, Plot No.9, Road No.2, T Banjara Hills",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 220,
+        "address": "3-4-526\/2, Anam Building, Barkatpura Womens College Roa Barkatpura",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 221,
+        "address": "Ground Floor, Cyber Pearl, Hitech City, Software Technology Layout",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 222,
+        "address": "Jnidb, Gachibowli Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 223,
+        "address": "H No: 101a, Vindhyachal Apartm 10- 435, Humayun Nagar, Near N Masab Tank, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 224,
+        "address": "Aptdc, Paryatak Bhavan, T Begumpet Road, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 225,
+        "address": "Gmr Hyderabad International Ai Airport Site Office Shamshabad (po) Mandal",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 226,
+        "address": "Mahavir House, Basheerbagh Square",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 227,
+        "address": "D.No.5-9-89\/1 & 2 Chapel Road P.B.No.370",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 228,
+        "address": "8-2-293\/82\/j\/b\/39, Plot No.B Colony, Jubilee Hills, T Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 229,
+        "address": "Kanbay Software(india) Pvt Ltd Madhapur",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 230,
+        "address": "Ghanshyam Super Market, T Krishnapuri, Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 231,
+        "address": "Shop No.22, Global Enclave Apa Aruna Co-op.Housing.Society, Kukatpally",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 232,
+        "address": "6-1-103\/113\/f2, Sri Sai Apartment Padma Rao Nagar, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 233,
+        "address": "Shop No 2b, Amrutha Ville, Raj Bhavan Road Somajiguda",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 234,
+        "address": "Plot No.15, Srikrishnadevaraya Nagar, Po, Srinagar Colony, T Sr",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 235,
+        "address": "House No.101 A Mch No.8- 3- 191\/9, T Sr Mch No.8- 3- 191\/9, T Sr",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 236,
+        "address": "Uwb Bldg.Ward No.9, H.No.167, Ichalkaranji",
+        "city": "Ichalkaranji",
+        "district": "Ichalkaranji",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 237,
+        "address": "Ichalkaranji Mahila Sahakari B Plot No.77, Industrial Estate Near Shahu Putala, Ichalkaranji",
+        "city": "Ichalkaranji",
+        "district": "Ichalkaranji",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 238,
+        "address": "Shop No 2 , Roop Towers , Opp Dashera Maid Annapoorna Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 239,
+        "address": "Shop No Ug - 3, Baphna Towers, Opp Taj Residency, Scheme No 5",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 240,
+        "address": "4 Ranawat Complex Bhawarkuan Chauraha, T Sr A.B.Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 241,
+        "address": "Century Point, 397\/398, Goyal Nagar, T S Main Ring Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 242,
+        "address": "Shop No.1, Sodani Complex, 39, A.B.Road, Dewas",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 243,
+        "address": "7-8, Indraprastha Towers, 6, M.G.Road, Indore",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 244,
+        "address": "Alankar Chambers Ratlam Kothi A.B.Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 245,
+        "address": "Paplal Tower, Upper Ground Floo A\/a 11 Commercial Scheme 54, Sa Vijay Nagar, Ab Roadt Sr",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 246,
+        "address": "Shop No.Ug-38, Indraprasth Tower 6, M..G.Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 247,
+        "address": "111, Jawahar Marg",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 248,
+        "address": "C\/o Ranbaxy Laboratories Ltd., Industrial Area 3, T Sr Dewas",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 249,
+        "address": "Ug- 4, Shekhar Corner , T 77, Srinagar Main Indore",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 250,
+        "address": "Shop No.3, Plot.118, T S Swastik Apt, Swastik Nagar, Ranjit Hanuman Road, Indore",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 251,
+        "address": "Jnk Building E\u00b4 Sector Nh 52a",
+        "city": "Itanagar",
+        "district": "Itanagar",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "id": 252,
+        "address": "1070, National Highway No.7 Opp.Kamala Bhandar, T Sr Adhartal, Jabalpur",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 253,
+        "address": "Office Of The Superintendent O Civil Lines",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 254,
+        "address": "1415, Wright",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 255,
+        "address": "Shop No.15, Ground Floor, Chopra Chamber, Katanga Crossi Main Road, Gorakhpur , T",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 256,
+        "address": "Ordnance Factory Khamaria, Jabalpur",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 257,
+        "address": "Verma Autos, Main Road, Ranjhi",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 258,
+        "address": "Plot No.6, Sant Santaji Samiti Ahimsa Chowk, Mr-4 Road, Vijaynagar, Jabalpurt Sr",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 259,
+        "address": "G-16, Alankar Plaza, Vidhyadhar Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 260,
+        "address": "Ac-4, Gayatri Sadan, T Sr Sawai Jai Singh Highway, Bani Park",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 261,
+        "address": "D-24, Durlabh Niwas, T Sr Prithviraj Road, C Scheme",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 262,
+        "address": "G-5 Jamuna Tower Govind Marg Adarsh Nagar, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 263,
+        "address": "54, Suraj Nagar, Kalwar Road, Jhotwara, T Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 264,
+        "address": "281, Main Johari Bazar Opp.Hotel Lmb",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 265,
+        "address": "Shop No 43\/s - 3\/2, Madhya Marg, Mansarovar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 266,
+        "address": "B-17, Pratap Plaza, Tonk Road, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 267,
+        "address": "C\/o Rajjas Travels, Ground Floor, Nehru Palace, Tonk Road",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 268,
+        "address": "F\/2 Vaishali Tower, Tagore Circle, Vaishali Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 269,
+        "address": "No.185 A, Football Chowk, Adarsh Nagar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 270,
+        "address": "New Railway Road Jalandhar City, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 271,
+        "address": "C\/o Bombay Palace 136, New Jawahar Nagar Cool Road",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 272,
+        "address": "New Cake House, Shop No-1, Model Town, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 273,
+        "address": "Near Pandurang Talkies P.U.Mah Jalgaon",
+        "city": "Jalgaon",
+        "district": "Bhusawal",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 274,
+        "address": "Khandesh Spg &wvg.Mills Shoppi Bldg No.7 Ground Floor P.B.No.Jalgaon",
+        "city": "Jalgaon",
+        "district": "Jalgaon",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 275,
+        "address": "Mohite Corner, Swatantra Chowk",
+        "city": "Jalgaon",
+        "district": "Jalgaon",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 276,
+        "address": "Shital Plaza, 1st Floor, Mahatma Gandhi Marg, Near Alank P.B.No.74, Jalna",
+        "city": "Jalna",
+        "district": "Jalna",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 277,
+        "address": "Idbi Ltd.Office Block No.O.B Grid Bhavan 1st Floor, Rail Head Complex",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 278,
+        "address": "Hpcl Petrol Pump Near Akash Deep Plaza Golmuri, Jamshedpur",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 279,
+        "address": "Shantiniketan, Sakchi-boulevard Road Bistupur",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 280,
+        "address": "Holding No.15, Shop Area, Kadma",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 281,
+        "address": "Main Road, Mango Chowk",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 282,
+        "address": "Basant Cinema Building, Sakchi Bazar",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 283,
+        "address": "K3\/ 51 & 52, Telco Town Premise Opp.Telco Club, Telco",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 284,
+        "address": "K3\/ 51 & 52 , Telco Town Premis Opp Telco Club Telco",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 285,
+        "address": "Gram Vikas Kendra Plaza Market Telco",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 286,
+        "address": "General Office, Tisco, Bistupur",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 287,
+        "address": "Shop No 5 Ground Floor District Center",
+        "city": "Janakpuri",
+        "district": "Na",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 288,
+        "address": "Shop No.18, Jmk Plaza, T S Subhash, Market, Sipri Bazar, Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 289,
+        "address": "Royal Gifts, Circuit House Road, Bhati Chau Ratanada",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 290,
+        "address": "Plot No.162, Kamala Nehru Nagar, Chopasani Road",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 291,
+        "address": "Dhanlakshmi Towers, Chopasani Road",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 292,
+        "address": "Shop No.63, Nai Sarak, Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 293,
+        "address": "Shop No.14, Mudit Mansion, Pal Link Road, Odhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 294,
+        "address": "Ujwal Niwas, Mandore Road, Paota",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 295,
+        "address": "Shop No.G1, Shastri Circle, Shastri Nagar",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 296,
+        "address": "Shop No.1, Vikram Complex, Bus Stand Road, Near Dr.Chikhaliya Hospital",
+        "city": "Junagarh",
+        "district": "Junagadh",
+        "state": "Gujarat"
+    },
+    {
+        "id": 297,
+        "address": "Bpcl Petrol Pump Police Lines Banugudi Junction",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 298,
+        "address": "43-1-28, Main Road",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 299,
+        "address": "Abha Building, Opp Kalyan Station, Kalyan(w)",
+        "city": "Kalyan",
+        "district": "Thane",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 300,
+        "address": "No.2\/4, West Raja Street Kanchipuram",
+        "city": "Kanchipuram",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 301,
+        "address": "212, Harjinder Nagar",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 302,
+        "address": "16\/98, Lic Building, T Sr Phool Bagh The Mall",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 303,
+        "address": "Panchwati, 133\/6m, Kidwai Nagar Crossing, T",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 304,
+        "address": "M\/s Radha Swamy Automobiles Near Madhav Nagar Gate, T Jabalpur Road, Katnit Sr",
+        "city": "Katni",
+        "district": "Katni",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 305,
+        "address": "15, B.T.Road Rathtala Crossing Kolkata",
+        "city": "Khardah",
+        "district": "North 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 306,
+        "address": "Kabra Sadan, Near Bus Stand Ajmer-jaipur Road",
+        "city": "Kishanagrh",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 307,
+        "address": "Sardar Motor Service, Jaipur Ind.Area, Madanganj, T S Kishangarh",
+        "city": "Kishangarh",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 308,
+        "address": "Kalathil Complex Palace Road Alwaye",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 309,
+        "address": "National Residency Commercial Nh-47, Edappally",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 310,
+        "address": "Dhanwantari Building, T S Padma Jn., M.G.Road, T Sr Ernakulam",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 311,
+        "address": "Panampilly Nagar Post Bag No.4253",
+        "city": "Kochi",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 312,
+        "address": "Gadge Patil Industries, T Uchgaon",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 313,
+        "address": "1014, A Ward, New Education Soc Khari Corner, New Mahadwar Roa Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 314,
+        "address": "S-3 To 7, Royal Heritage Build Opp.Basant Assembly",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 315,
+        "address": "1898, E Ward Saraswati Complex, 10 Th Lane Rajarampuri",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 316,
+        "address": "1763, E, Rajarampuri, 4th Lane, Rajarampurit Sr Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 317,
+        "address": "U.W.Bank Bldg P.B.No.39t Shivaji Chowk Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 318,
+        "address": "University Campus Main Bldg, Room No.107, T Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 319,
+        "address": "Prabhakar Plaza Dabholkar Corner New Shahupurit S Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 320,
+        "address": "\"apulaki Corner\", Menon Piston Pune-banglore Road, Post:-midc Kolhapur Toap",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 321,
+        "address": "Ground Floor, 55, Bangur Avenue Block D",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 322,
+        "address": "39, Grand Trunk Road Belur Math",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 323,
+        "address": "52, Bosepukur Road, P.S Kasba, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 324,
+        "address": "Mukherjee House 17 Brabourne Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 325,
+        "address": "25\/2\/1d Darga Road Near Don Bosco School, T Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 326,
+        "address": "39\/1a Post Office Road, T Dumdum Cantonment Gorabazar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 327,
+        "address": "Bibhuti, 23\/29\/1 Gariahat Road, T",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 328,
+        "address": "Meridian Plaza 209, Central Avenue",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 329,
+        "address": "Mohini Apartments 10 Dr.Abani Dutta Road Near Golabari More, T Sr",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 330,
+        "address": "65a, Jatindra Mohan Avenue Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 331,
+        "address": "Purbasha Ground Floor, T Kalyan Khardah",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 332,
+        "address": "44, Shakespeare Sarani Post Bag No.16102",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 333,
+        "address": "Manicktala 181\/1a Vivekananda Road Maniktola, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 334,
+        "address": "101, Park Street Ground Floor",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 335,
+        "address": "P-1, Cit Road Scheme Vi M, Phoolbagan",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 336,
+        "address": "311 \/ 6b, Prince Anwar Shah Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 337,
+        "address": "15, B.T.Road Rathtala Crossing Khardah",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 338,
+        "address": "D1, Salt Lake Electronic Compl Block Ep & Gp, Sector V (institute Of Engineering And",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 339,
+        "address": "75a, Santoshpur Avenue",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 340,
+        "address": "135 , Criper Road P.O.Konnagore",
+        "city": "Konnagore",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 341,
+        "address": "Lakshmi Diary, Main Road, Ntpc Gate, Gamnipali, T S Korba",
+        "city": "Korba",
+        "district": "Korba",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 342,
+        "address": "Salim Complex, Near.Abhinaya M.C.Road, Changanassery",
+        "city": "Kottayam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 343,
+        "address": "Thekkekarayan Towers, T S Kanjikuzhy",
+        "city": "Kottayam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 344,
+        "address": "Devans Tower Karaparamba Kozikhode",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 345,
+        "address": "N.V.Tower, 20\/ 265 (a) 8 Near Mangalam Press, Kallai Kozikhode",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 346,
+        "address": "Kundapura Town Municipality Co Municipality Council Road",
+        "city": "Kundapura",
+        "district": "Udipi",
+        "state": "Karnataka"
+    },
+    {
+        "id": 347,
+        "address": "Viswanath Plaza, D No.87\/986-2, Nandyal Road",
+        "city": "Kurnool",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 348,
+        "address": "Shop No.551 Jha\/ 32 (b), Alambagh Crossing Kanpur Road",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 349,
+        "address": "B 58\/ B, Aliganj Extension Opp.Madhuban Sweet Shop",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 350,
+        "address": "Shop No.Ugf-1, 19-e-2, T Ashoka Tower, Ashok Marg Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 351,
+        "address": "L.I.C.Building, Khunji",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 352,
+        "address": "1\/6, Vivek Khand Gomti Nagar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 353,
+        "address": "Hutch House Shahnajaf Road, Hazratganj",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 354,
+        "address": "B2\/k1-k2, Bhootnath Mandir Mar Sector-5, Indiranagar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 355,
+        "address": "Dhan Complex 15, Ashok Marg,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 356,
+        "address": "76\/13, Gurudwara Road Naka Hindola, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 357,
+        "address": "E-2175, Rajajipuram",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 358,
+        "address": "4\/764, Vikas Nagar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 359,
+        "address": "Shop No 3ca, Caliber Plaza, (a\/c Market)",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 360,
+        "address": "Sco 126-128, Kalinga Towers Ferozghandhi Market T S Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 361,
+        "address": "Gurdev Nagar, Opp.Welcome Palace, T Sr Ferozepur Road",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 362,
+        "address": "Gurmail Medical Hall, T S Brown Road, Opp.Christian Medical Hospital",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 363,
+        "address": "B-15\/295, Near Old Oswal Mills G.T.Road, Millerganjt S Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 364,
+        "address": "Shop No 2, City Tower, T Sharma Sweets Chowk, T Sr Model Town",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 365,
+        "address": "Madhura Textiles Ltd., T P.B.No.35 New Jail Road",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Punjab"
+    },
+    {
+        "id": 366,
+        "address": "1\/1karthik Raja Complex, Vinayaga Nagar, K.K.Nagar",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 367,
+        "address": "2\/290 A, Narayanapuram, T Natham Main Road Reserve Line Post",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 368,
+        "address": "Pc Complex, 182, Bye Pass Road",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 369,
+        "address": "Lakshmi Bhavan No.22-a, Thiruparamkundram Roa Vasantham Nagar",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 370,
+        "address": "Snav Building, Near Hill Fort Hotel, T S Up Hill Malapuram",
+        "city": "Malapuram",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 371,
+        "address": "383- B, Sector 3-b, Main Bazar",
+        "city": "Mandi Gobindgarh",
+        "district": "Fatehgarh",
+        "state": "Punjab"
+    },
+    {
+        "id": 372,
+        "address": "Shop No.Br3a Empire Mall M.G.Road",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 373,
+        "address": "Shop No.1, Near Reservation C Ksrtc Bus Station, Bejai Mangalore",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 374,
+        "address": "Metalco Plaza, Highland Road Falnir, Kankanady",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 375,
+        "address": "Shop No.S-14, S-15, S-16, G-7 \ufffdgarden Centre Complex\ufffd, Groun Phase I, Block a, Opp.Police",
+        "city": "Mapusa",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 376,
+        "address": "Jyoti Plaza, I.B.Road Margao",
+        "city": "Margao",
+        "district": "South Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 377,
+        "address": "Neel Kamal 366 Shivaji Road Eves Crossing",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 378,
+        "address": "Infantry School Campus Mhow",
+        "city": "Mhow",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 379,
+        "address": "Mercury Park Near Mcte Commandants Bungalow The Mall",
+        "city": "Mhow",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 380,
+        "address": "Red Cross Hospital Premises Plowden Road",
+        "city": "Mhow",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 381,
+        "address": "Final Plot No.84\/6, Shop No Abdul Karimkha Saheb Smarak Sa Shivaji Road, Miraj",
+        "city": "Miraj",
+        "district": "Sangli",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 382,
+        "address": "C\/o Fortis Heart Institute, Sector 62, Phase 8",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 383,
+        "address": "Booth No.134, Phase 10, Mohali (sas Nagar)",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 384,
+        "address": "Booth No.282, Phase 5, T Mohali (sas Nagar)",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 385,
+        "address": "Scf 58, Phase 3b2",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 386,
+        "address": "Ranbaxy Laboratories Ltd., A8 Industrial Area, T S Phase 3",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 387,
+        "address": "Ekta Complex Near Company Bagh Civil Lines",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 388,
+        "address": "32, New Cloth Market, T S Station Road Moradabad",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 389,
+        "address": "23rd Battalion Pac, Naveen Nagar Moradabad",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 390,
+        "address": "Shop No.7 Akshata Tilak Nagar",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 391,
+        "address": "Hpcl Petrol Pump Star Service Station, Lbs Marg Ghatkopar, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 392,
+        "address": "3&4 Vijay Apartment, T Sr Ceaser Road, Amboli Andheri(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 393,
+        "address": "Marigold House, Plot No.A-34 Cross Road No.2, Marol, T Midc , Andheri(east), T S",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 394,
+        "address": "Gopi Chamber, Opposite Citi Mall, New Link R Andheri (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 395,
+        "address": "Shop No.11 & 12 Guru Nanak Road(turner Road)bandra (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 396,
+        "address": "Utsahi Building, Ground Floor, R Near Mount Mary Stepst S Bandra(w)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 397,
+        "address": "Sashikant Nagar, Station Road, Bhayandar(w)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 398,
+        "address": "Shop No.9, Sai Leela Commercial Near Hotel Rasoie, Opp.Moksha S.V.Road, Borivali (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 399,
+        "address": "Kaustubh Park, Next To Bhagwat Mandpeshwar Road Borivali (west)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 400,
+        "address": "Ceat Ltd.Village Road Bhandup",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 401,
+        "address": "34, Chaman House Chs, T S Shop No 5, Sion Circle, T Sion (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 402,
+        "address": "Mahindra British Telecom, Ober Wing 1, Off Saki Vihar Road, N Andheri East",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 403,
+        "address": "\" Unit No.2, Corporate Park, Sion Trombay Road Chembur, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 404,
+        "address": "Sunny Estate Ii, Sion-trombay Road Chembur",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 405,
+        "address": "Hop No-12, Ashok Enclave, Chincholi Bunder & Link Road C Malad (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 406,
+        "address": "Shop No.10, Ground Floor, Chint Mohan Studio Compound, , Andhe Andheri (e)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 407,
+        "address": "Shop No -3, Sarita Co-op Hsg L V N Purav Marg, Opp.Jogani Ind Chuna Bhatti, Mumbait Sr",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 408,
+        "address": "I.D.B.I Bank Ltd.Mumbai, Central Processing Unit Central Road, Elemacch Buildin",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 409,
+        "address": "Shop No.9, Latif Building, Ambedkar Marg, Dadar (e), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 410,
+        "address": "Likhite Bldg.Phadke Road, Baji Prabhu Chowk Dombivali (e)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 411,
+        "address": "Ishan, Mahatma Phule Road, Near Dhanwantari Medical Dombivali(w)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 412,
+        "address": "Shop No 9, City Mallt Sr Midc Residential Areat S Dombivli(east)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 413,
+        "address": "Terminal 1-b Chhatrapati Shivaji Domestic T Santacruz(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 414,
+        "address": "2, Vallabh Vihar, M.G.Road, Ghatkopar (east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 415,
+        "address": "10, Jayprakashnagar Opp.Sonal A No.2 Goregaon(east)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 416,
+        "address": "Shop No.2, Raikar Chamber B.K.Devshi Marg, Govandi",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 417,
+        "address": "Hill Road, Opposite St Andrew Bandra (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 418,
+        "address": "Hpcl Petrol Pump R.B.Traders, Docyard Road Byculla",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 419,
+        "address": "Hpcl Petrol Pump Hind Auto, L J Road, Opposite Mahim",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 420,
+        "address": "Sector 14, Vashi Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 421,
+        "address": "Near Kopar Khairne Station Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 422,
+        "address": "Hpcl Petrol Pump R.B.Traders Ulhasnagar",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 423,
+        "address": "Auto Care, Hpcl Pump, T S Swami Vivekanand (s.V) Road Andheri (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 424,
+        "address": "Hpcl Petrol Pump Near Sanpada Stationt Sr Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 425,
+        "address": "El Plaza, Opp.Citizen Co.Op I.C.Colony, Borivali (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 426,
+        "address": "Idbi Tower, Ground Floor, Cuffe Parade",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 427,
+        "address": "Shop No.5, Capricorn C.H.S.Divya Park Jankalyan Nagar, Maladt",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 428,
+        "address": "Jaslok Hospital, Dr.G.Deshmukh Marg, T S",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 429,
+        "address": "Shop No21\/a, Ruturaj Apartment, , Juhu Road, Santacruz (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 430,
+        "address": "Tribhuvan Bldg., Vijay Vallabh Chowk, T Sr Pydhonie, 1\/3, Kalbadevi Road",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 431,
+        "address": "Diamond Estate, Unit No.1 & 2, B Wing, Ground Floor, Cst Road Kalina, Santracurz (e) T",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 432,
+        "address": "Shop No.5, House No.180, Kalina Market, Santacruz (e), Mumbait S",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 433,
+        "address": "Niwara Complex, Modak Lane, Opp.Mahalaxmi Mandir , Tilak Ch Kalyan Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 434,
+        "address": "Oasis Complex, Trade View Buil Kamala Mills, Lower Parel",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 435,
+        "address": "23, A\/3, Saraf Choudhari Nagar Thakur Complex, Kandivali(east)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 436,
+        "address": "Profit Center 90 Road, Mahavir Nagart Kandivali (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 437,
+        "address": "Plot No.77, Dharmi Nivas, Ramakrishna Mission Marg, Khar West",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 438,
+        "address": "Shop No.6 Ram Niwas, T Plot No.461 A, Matunga, Kings Circle, T",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 439,
+        "address": "Shop No 6 Krishna Apartments Near Thane Rly Station, T Thane(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 440,
+        "address": "Shop No.1, Bhaveshwar Plaza, Off Lbs Road, Opp.Shriyesh C Ghatkopar(west)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 441,
+        "address": "Plot No.2, Akurli Golden Palace Chs Ltd Akurli Road, Kandivali (e)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 442,
+        "address": "Shop No 15, Arihant Bldng, Mamlatawadi Road, Malad(w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 443,
+        "address": "Ground Floor, Mickey Heights Marve Road, Malad (west)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 444,
+        "address": "Ground Floor, 103 Mamlatdarwadi, Malad(west)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 445,
+        "address": "Plot No.1, Mukundnagart S Andheri Kurla Road, Marol(andheri)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 446,
+        "address": "Pooja Co-op Hsg.Society Station Road New Panvel",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 447,
+        "address": "Shop No 1, Millenium Business Mahape Village, Ttc Industrial Thane Belapur Road Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 448,
+        "address": "Shop No.4, Vasant Garden, Near Swapna Nagari, Mulund Wes",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 449,
+        "address": "\"shrirang Niwas\", B Wing, Gopal Krishna Gokhale Road, Ne Mulund (east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 450,
+        "address": "Dr.M.D.Purandare Hall, Maharash Off Jawaharlal Nehru Rd, Near A Mulund(west) Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 451,
+        "address": "Bodke Bhavan, N.S.Road, Near Mulund Railway Mulund ( W )",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 452,
+        "address": "Idbi Ltd, Ground Floort S Kailash Darshan Building, Shan Kennedy Bridge , Nana Chowk",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 453,
+        "address": "Mittal Tower, Ground Floor, C Wing, Nariman Point",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 454,
+        "address": "90\/b, First Floor Gokhale Road Naupadat Sr Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 455,
+        "address": "Shop No 5, Paradise Plaza Navrojee Lane Ghatkopar (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 456,
+        "address": "Paar Naka Vasai..Baburao Mar Niwas, Paar Naka Vasai (w), Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 457,
+        "address": "Shop No 8, Amet Anand Co-op Ho Gen Vaidya Road, Panchpakhadi, Thane (w), Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 458,
+        "address": "Shop No 3, Parthik Avenue, Nehr Opp Shiv Sagar, Ville Parle (e)mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 459,
+        "address": "Silver Apartment, Dr.Shankar G Prabhadevi, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 460,
+        "address": "Indu House, Veer Savarkar Marg, Prabhadevi",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 461,
+        "address": "Commerce Centre, Oppo.Parkar Sa Dattanagar Chowk Tandon Road Dombivali(e)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 462,
+        "address": "Rishikesh Appartment, T S Near S.T.Depot, Vasai (w)thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 463,
+        "address": "Shop No.2, Safal Ganga Comple Next To Nirankari Bhavan R.C.Marg, Opposite Collector",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 464,
+        "address": "Shop No 10, Ground Floor, Sai Plot No P\/24, Midc, Boisar Near Hotel Sarovar, Boisar Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 465,
+        "address": "Sidbi Bandra Kurla Complext Sr Bandra (e)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 466,
+        "address": "The Angels Education Trust 267, Sulochana Shetti Marg Sion (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 467,
+        "address": "Shop No 8, Surganga, Charkop Kandivali (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 468,
+        "address": "Shop No 5, Shiv Shakti Complex Plot No.5a, Sion-trombay Road Chembur",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 469,
+        "address": "Technova Imaging Systems Pvt.Plot No.E 1\/2\/3 Midc Taloja Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 470,
+        "address": "Vaidya Bldg.Veer Savarkar Road Jambhali Naka Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 471,
+        "address": "C-1 Yashwant Building, T Near Malhar Theatre, T Sr Naupada Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 472,
+        "address": "New Cosmos Chs Main Sai Road Juhu - Versova Link Road Andheri (west)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 473,
+        "address": "Shop No.1, Fantasy C.H.S.Prem 7 Bungalows , J.P Roadt Versova , Andheri(west)t",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 474,
+        "address": "185-a, Bhavna Apartments Opposite Golden Tobaco Factory Swami Vivekanand Road, Vile Par",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 475,
+        "address": "Tirupati Apartment, Bhulabhai Desai Road, T S",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 476,
+        "address": "Lbs Marg Mulund",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 477,
+        "address": "Zareena Co-op Hsg Society Ltd, Shop No.12, S V Ro Bandra West",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 478,
+        "address": "Majiwada, Shop No.4, T S Maitri Lotus, Maitri Gardens Pokhron Road No.2 Thane",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 479,
+        "address": "Bharat Petroleum M\/s Kalra Auto, Central Avenue Agrasen Square, Nagpur, T",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 480,
+        "address": "Nidhi Palace, Plot No.3 & 4, Khasra No.159 (new), 179 (old)dattawadi",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 481,
+        "address": "Impressions Plaza Gs -15, Dr.Munje Marg, Dhantoli T Poi Congress Nagar Square, Dhantol",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 482,
+        "address": "Hpcl Petrol Pump, Panchpaoli Rekhi Service Station, Bridge Panchpaoli, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 483,
+        "address": "Plot No.2, Ingle Layout Near Mankapur Bridge, T S Godhani",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 484,
+        "address": "Plot No.J-7, Aath Rasta Chowk, Laxminagar, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 485,
+        "address": "Junior Bhosala Palace, T Tulsibag Road, Mahal, T Sr Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 486,
+        "address": "Block No.Ug - 4 Rukhmini Complex, Nagpur Hingn Midc Chowk",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 487,
+        "address": "Gupta House, Rabindranath Tagore Marg, Civil Lines",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 488,
+        "address": "Anand Palace No.2 , Shop No.1, Plot No.235, Nandavan Main Road , T Sr",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 489,
+        "address": "Sanskrutik Sankul Jhashi Rani Chowk Sitabuldi Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 490,
+        "address": "169\/170 , Ring Road, T Sr Mauza Bhamti, Trimurtinagar, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 491,
+        "address": "1\/a\/1, Parijat Apartment, Near Saibaba Mandir, Wardha Ro Vikas Nagar",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 492,
+        "address": "Kolembekar Park, Shop No.4, Station Road, Naigaon (w)",
+        "city": "Naigaon",
+        "district": "Nanded",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 493,
+        "address": "Mehta Chambers, Shop No.12, Opp.Nallasopara Railway Stati Nallasopara(e)",
+        "city": "Nallasopara",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 494,
+        "address": "Lahoti Complex, Near Prabhat Ta Vazirabad, Pb 24 Nanded",
+        "city": "Nanded",
+        "district": "Nanded",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 495,
+        "address": "Prathamesh Apartment, T S Thattenagar, Gangapur",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 496,
+        "address": "Nbt Law College Bldg.Vidyanaga College Road Nasik",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 497,
+        "address": "Rajan Complex, Dattamandir Nasik Pune Highway, Nasik Road, Nasik",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 498,
+        "address": "\"shaktisagar\" Opp.Renuka Bag Station Road , Deolali Naka Nasik",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 499,
+        "address": "Mauli Palace, Patil Lane, Trimbakeshwar Nasik",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 500,
+        "address": "Ground Floor, Apollo Clinic, Suyojit Commercial Complex Mumbai Agra Road, Nasikt",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 501,
+        "address": "10, Arihant , Mahesh Nagar, Shivaji Statue , Malegaon , Nasik",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 502,
+        "address": "Shriram Wadi, Shop No 2, 430 J7, Shriram W M G Road",
+        "city": "Nashik",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 503,
+        "address": "Hpcl T&e Station, Plot 1a, Sector 6, Dronagiri, Nhava She Navi Mumbai",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 504,
+        "address": "Shop No.2, Sushil Pridet F\/p No.67\/2, Near Garden Hotel Panvel",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 505,
+        "address": "Shabi Complex, Sector No.12 Vashii, Navi Mumbai",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 506,
+        "address": "1-3, Hermes Centre Palm Beach Marg Sector 17, Vashi",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 507,
+        "address": "Shop No 5, Shiv Parvathi Compl Sector 21, Nerul (e)",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Gujarat"
+    },
+    {
+        "id": 508,
+        "address": "Idbi Building, Plot No.39\/40\/41, Sector 11 Cbd Belapur",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 509,
+        "address": "Shop No.19, Sai Sharan Co-op.H Sector 8, Khanda Colony, New Panvel",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 510,
+        "address": "Shop No.39, Crystal Plaza, Kharghar",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 511,
+        "address": "Om Chanakya Chs, Plot No.5, Sector 6, Cbd Belapur, T New Mumbai",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 512,
+        "address": "Sangam Chs Society, Shop No.2, Rajaji Path, Dombivali (e)",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 513,
+        "address": "Shop No 11, Shah Complex, Plot No 6, Sector 13, Palm Bea Sanpada",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 514,
+        "address": "Shop No.1, Siddarth, T S Plot No.183, Sector 12, Vashi",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 515,
+        "address": "Plot No.2, Hindalco Compound, Midc Industrial Area, T S Taloja A.V.",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 516,
+        "address": "B\/3\/10 0:3, Sector 2, T S Shop No.1, Opp.Sector 17, Vashi",
+        "city": "Navimumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 517,
+        "address": "Kishan Super Store , T Sr Gandevi Square Road, Opp.Geb Gandevi",
+        "city": "Navsari",
+        "district": "Navsari",
+        "state": "Gujarat"
+    },
+    {
+        "id": 518,
+        "address": "G-1, Hare Krishna Complex, Chimanabhai Road Near Vasant Talkies, T Sr",
+        "city": "Navsari",
+        "district": "Navsari",
+        "state": "Gujarat"
+    },
+    {
+        "id": 519,
+        "address": "300-307 Mercantile Building, Main Fatehpuri Chowk, T S Chandni Chowk",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 520,
+        "address": "No 9 Netaji Subhash Marg Darya Ganj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 521,
+        "address": "B2, Mmtc\/stc Market, Rajendra 1, 117 A, Geetanjali Enclave",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 522,
+        "address": "Ifci Tower, 61, Nehru Place",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 523,
+        "address": "Surya Kiran Building, T S Ground Floor, 19, K.G.Marg",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 524,
+        "address": "Shop No G - 43, Aggarwal Cyber Plot No C-4, 5, 6 Netaji Subhash Place, T S",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 525,
+        "address": "Plot No.18, Sector 3",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 526,
+        "address": "E-29, Pvr Road, Saket",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 527,
+        "address": "1916, Fountain, Opp.Gurudwara Sis Ganj, Chandani Chowk",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 528,
+        "address": "Hpcl Petrol Pump Martin Motors Sector 20",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 529,
+        "address": "H-3, Gr.Floor, Alaknanda Commercial Complex Alaknanda",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 530,
+        "address": "B 3\/1 Ashok Vihar Phase Ii",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 531,
+        "address": "Shop No-5, Gh-10 Dda Market, Paschim Vihar, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 532,
+        "address": "G- 3, Plot No.6, Mantri Arcade, D.D.A.Main Market, Pocket b Dilshad Garden",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 533,
+        "address": "Dmrc Station Below New Delhi Rly Station, Pahargunj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 534,
+        "address": "Agarwal Mall, Plot No.3, Sect Ashirwad Chowk Dwarka",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 535,
+        "address": "11\/23\/2006, East Patel Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 536,
+        "address": "B \/ 45, Greater Kailash 1",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 537,
+        "address": "Hyatt Regency (asian Hotels Lt Ring Road, Bhikaji Cama Place",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 538,
+        "address": "Shop-no- G-3, Savitri Plaza -i Mandawli Fazalpur Patparganj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 539,
+        "address": "Shop No 69, Community Centre Janak Cinema Complex, T S Janakpuri",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 540,
+        "address": "B1 \/ 26-27 Community Centre Janakpuri",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 541,
+        "address": "Shop No.15, Krishna Market, Kalkaji",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 542,
+        "address": "Shop No.1, 13\/31, W.E.A., Main Arya Samaj Road, T S Karol Bagh",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 543,
+        "address": "Shop No 1, B-5, Tagore Market, Kirti Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 544,
+        "address": "D-1, Krishna Nagar, T Sr Lal Quarters, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 545,
+        "address": "54 Ring Road Lajpat Nagar Iii",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 546,
+        "address": "Shop No.1 Agarwal Modern Bazar Plot No.C 33, Lawrence Road,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 547,
+        "address": "Shop No.2, B- 14 Laxmi Nagar, Main Vikas Marg,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 548,
+        "address": "37, D.D.A.Local Shopping Comp Opposite Jeevan Anmol Hospital Mayur Vihar Phase1",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 549,
+        "address": "F 14 \/ 16, Model Town,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 550,
+        "address": "Shop No.8, Wing-b, Phase Ii , D.D.A.Complex, Munirka,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 551,
+        "address": "Shop No 3, Local Shopping Cent A Block, Ring Road, Naraina,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 552,
+        "address": "Cgh Building Main Road, D - 823 New Friends Colony",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 553,
+        "address": "Shop No.G-2, 13 Community Cen 13 Community Centre, T Sr New Friends Colony",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 554,
+        "address": "60\/ 17, Old Rajinder Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 555,
+        "address": "Vijay Enclave Palam Dabri Road",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 556,
+        "address": "Shop No 13, Block A-6, T C.S.C, Paschim Vihar,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 557,
+        "address": "B 2\/3 Paschim Vihar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 558,
+        "address": "Aggarwal Chambers Local Shoping Centre, Cd Block Pitampura",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 559,
+        "address": "Vikas Marg, 11 New Rajdhani Enclavet Sr Preet Vihar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 560,
+        "address": "Shop No 1, Plot No3, T Sr Club Road Market, North West A Punjabi Bagh,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 561,
+        "address": "J 13\/37, Rajouri Garden",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 562,
+        "address": "Shop A- 7, N.N.Tower, T Plot 23 a, Community Centre Pitampura,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 563,
+        "address": "Shop No.3, Dda Market, T Block - H, Plot No.10, T Sarita Vihar,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 564,
+        "address": "Shop G 5, Plot 1, R.G.Compl Community Centre , Sector 8 Rohini",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 565,
+        "address": "Shop No.1, Csc 2 Dda Market, Sector 9, T S Rohini",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 566,
+        "address": "Shop No.5, Brahmaputra Shoppin Sec 29, Noida,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 567,
+        "address": "Agarwal Plaza, Plot No.4, Dda Shopping Centre, Block Bn, Shalimar Bagh,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 568,
+        "address": "Shop No.G-52, Triveni Shopping Complex, Sheikh Sarai Phase-i, T",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 569,
+        "address": "1\/6, Sirifort Institutional Are Khel Gaon Marg,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 570,
+        "address": "Shop No.25, Gr.Floor, Lsc Se Pocket- 7, Plot No.11, T Nelson Mandela Road, Vasant K",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 571,
+        "address": "Shop No G-10c, Aez Square, Sonia Cinema Complex, T S Vikaspuri,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 572,
+        "address": "Shop No.G- 2, Plot No.12, Arihant Tower, D- Block, , Main Vivek Vihar,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 573,
+        "address": "Saran Motors, Hpcl Pump, Bhikaji Cama Place,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 574,
+        "address": "Shop No 7, Da Block, Dda Marke Near Clock Tower Hari Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 575,
+        "address": "Hpcl Petrol Pump Mehrauli Road M\/s Evergreen Service Station",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 576,
+        "address": "G.F.Ocean Complex P-6, Sector-18,",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 577,
+        "address": "Ag-3, Tot Mall Market, Sector 62, Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 578,
+        "address": "Shop No 12, Block 13, T S Sector 34, Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 579,
+        "address": "Shop No 22, C Block Market Sector 41, Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 580,
+        "address": "H 1a\/30 Sector 63",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 581,
+        "address": "64 Trichy Road Opp Dsp Office",
+        "city": "Palladam",
+        "district": "Palladam",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 582,
+        "address": "Sco 65, Sector 11,",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 583,
+        "address": "S.C.O.10 & 11 Swastik Vihar Sector 5, Mdc",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 584,
+        "address": "175-l, Model Town Assandh Road, Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 585,
+        "address": "Opp.Hotel Mid-town, T Sr G.T.Road, Near Sanjay Chowk",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 586,
+        "address": "Alfran Plaza, M G Road,",
+        "city": "Panjim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 587,
+        "address": "Alcon Chambers, Dr.Bandodkar Marg Panjim",
+        "city": "Panjim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 588,
+        "address": "3, Balaji Apartments, T Sr Sector -19, Panvel-matheran Road, T S",
+        "city": "Panvel",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 589,
+        "address": "Moreshwar Sadan Plot No.35, Mcch Soc.Ltd",
+        "city": "Panvel",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 590,
+        "address": "Pooja Co-op Hsg.Society Station Road New Panvel",
+        "city": "Panvel",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 591,
+        "address": "Paonta Sahib Village Ganguwala",
+        "city": "Paonta Sahib",
+        "district": "Sirmour",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 592,
+        "address": "Icrisat, Patancheru",
+        "city": "Patancheru",
+        "district": "Medak",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 593,
+        "address": "10, Chotti Baradari, T Sr The Mall,",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 594,
+        "address": "Booth No.172, Phase Ii, Urban Estate, T Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 595,
+        "address": "Boring Road Crossing , T Shop No.21 Upper Ground Floor, Verma Centre ,",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 596,
+        "address": "Kankarbagh Main Road, T S Saraswati Apartment, T Sr Kankarbagh Main Road , T",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 597,
+        "address": "Birla Mandir Road Khetan Super Market, T Sr Birla Mandir Road ,",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 598,
+        "address": "Kashi Palace, New Dak Banglow Road, T S",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 599,
+        "address": "Maurya Centre, 1, Fraser Road,",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 600,
+        "address": "Ohri Tower, 14-a, Model Town, G T Road,",
+        "city": "Phagwara",
+        "district": "Phagwara",
+        "state": "Punjab"
+    },
+    {
+        "id": 601,
+        "address": "39\/a, Laxminagar Near Dr Deshpande Phaltan",
+        "city": "Phaltan",
+        "district": "Satara",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 602,
+        "address": "Shop No.5-6, Keshar Complex, Sector-1, Mhow-neemuch Road",
+        "city": "Pithampur",
+        "district": "Dhar",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 603,
+        "address": "Suraj Devi Shopping Mall Sagore Kuti Chourahat Sr Sector 3",
+        "city": "Pithampur",
+        "district": "Dhar",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 604,
+        "address": "Royal Chambers Opp.Ponda Municipal Council H Margao Ponda Road",
+        "city": "Ponda",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 605,
+        "address": "Shop No.21, Galleirat Sr Nova",
+        "city": "Porovorim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 606,
+        "address": "670 Nigdi.Shop No Ug - 9 Abc Junction, Near Akurdi Rail Nigdi, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 607,
+        "address": "Plot No.1, Anandnagart Sr S.No.28\/01-a\/1 Pune-sinhagarh Road Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 608,
+        "address": "Shop No.5, S.No.45a, Appaxi Mumbai Pune Road Near Photo Fast, Punet S",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 609,
+        "address": "421\/a, Gokhale Road, T Sr Near Symbiosis , Atur Centre Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 610,
+        "address": "Rajas Apartment, Off Baner Road, Aundh",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 611,
+        "address": "Beaver Granduer, Oppo.Baner Te Baner Road Baner Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 612,
+        "address": "26\/27-a, Ramgally Main Road Baramati",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 613,
+        "address": "B.O.Bhavan, Survey No.47\/1, Pa Adjacent To Bata Show Room, Pune Satara Road",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 614,
+        "address": "P.T.Gera Centre, Survey No.328\/b, Bund Garden R Opp.Wadia College",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 615,
+        "address": "Sahajanand Complex Shop No.1, 2 East Street General Thimayya Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 616,
+        "address": "108\/8\/1, Chaturshringi University Road Opp.M.S.E.B.Complaint Centre",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 617,
+        "address": "1233\/a, Sai Chhaya Apt., Apte Road, Deccan Gymkhana, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 618,
+        "address": "Dr.Ambedkar Road Pune Camp,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 619,
+        "address": "Eaton Industries Pvt.Ltd.145, Off Mumbai-pune Road, Pimpri,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 620,
+        "address": "Shop No.15, Excelsior Cinema 481, Elphinstone Road, T Khadki, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 621,
+        "address": "Yogeshwari Apartment, T S Near Mehandale Garage, T Erandwana Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 622,
+        "address": "Shop No 1, Gere Harmony, Next Kalyani Nagar, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 623,
+        "address": "G&g Tower, 153a\/1 Pune Solapur Road Hadapsar,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 624,
+        "address": "Plot No 128, Ground Floor, Blue Hills Avenue, Kalyani Nag Nagar Road, Yerawada, T S",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 625,
+        "address": "A-1, Pune Software Park, M.I.D.C., Talwade,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 626,
+        "address": "Survey No.16\/2(a+b), Amoli Apar Opp.\"\"karishma\", Off.Karve Road Sangam Press Road, Kothrud",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 627,
+        "address": "Plot No.9, Sargam Apartment Gujrat Colony, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 628,
+        "address": "Cummins Eng College Campus, Maharshi Karve Shtree Shikshan Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 629,
+        "address": "5, Laxmi Park, Lokmanyanagar Dr.Sabne Bungalow Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 630,
+        "address": "Mahindra British Telecom, Sharda Center, Off Karve Road",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 631,
+        "address": "Mahindra British Telecom Survey No.91, Cts No.11\/b\/1 Sharada Centre, Erandwane",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 632,
+        "address": "Shop No 16, Shrishti Center Nagar Road Opposite Weikfield",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 633,
+        "address": "1548 B, Saiprabha Sadashiv Peth , Off Tilak Road Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 634,
+        "address": "Ashiyana, Plot No.449, T S Sector No 27, Nigdi Pradhikara Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 635,
+        "address": "Sector 25, Pradhikaran, T Bhel Chowk, Nigdi,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 636,
+        "address": "Niyoshi Park, Bldg.No.4, Shop No.4, Sanghvi Nagar, Sanghvi Kesari Road, Aundh",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 637,
+        "address": "Shop No 3, Sheela Vihar Colony, Paud Road, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 638,
+        "address": "Hotel Kundan Bldg.Survey No.2 Chadha Mansion, Bombay-pune Road Pimpri",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 639,
+        "address": "Agarwal Bldg;127telco Road(pimpri)opp M.I.D.C.Quarters P.B.No.32",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 640,
+        "address": "Shop No.6 (near Mbt), T Prasun Plaza, Deepak Market Biman Nagar,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 641,
+        "address": "Idbi House, Dnayaneshwar Paduka Chowk, F.C.Road, Shivaji Nagar",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 642,
+        "address": "U.W.Bank Bldg 6\/1 Budhwar Peth, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 643,
+        "address": "Mitra-mandal Co-op Housing Hal 484\/1-31-32, Parvati Swargate Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 644,
+        "address": "Rmz Icon Project S\/no3\/8, Baner Road",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 645,
+        "address": "562, Sadashiv Peth Kumthekar Road, Chitrashala Bld Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 646,
+        "address": "S.No.1179\/3, Modern College Road, Shivajina Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 647,
+        "address": "Gaikwad Avenue, Off Iti Road, Aundh",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 648,
+        "address": "Gangavataran Behind Sp College Sadashiv Pet, Tilak Road Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 649,
+        "address": "Veritas Software India Pvt.Lt Symphony, S.No.210, T S Range Hills,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 650,
+        "address": "Veritas Software India Pvt.Lt Mayfair Tower, Mumbai Pune Roa Wakdewadi",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 651,
+        "address": "Siddheshvar Nagar, Mittal Tyag Tingare Nagar Road Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 652,
+        "address": "Fatima Memory Apartment, Ground Shivarkar Marg, Wanwadit Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 653,
+        "address": "Xansa A-28 To A-32 , T Sr Talawade Software Technology P Talawade,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 654,
+        "address": "Arora Plastic Co Sardar Bazar, Sirsa, T Sr",
+        "city": "Punjab",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 655,
+        "address": "Hpcl Petrol Pump, Pen, Raigad",
+        "city": "Raigad",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 656,
+        "address": "Mahesh Bhavan, Tapal Naka, Opp.Telephone Exchange, T Panvel",
+        "city": "Raigad",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 657,
+        "address": "Shop No.28 A, Guru Ghasidas Commercial Compl G.E.Road",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 658,
+        "address": "Padmavati Towers Near Digamber Jain Mandir Malviya Road",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 659,
+        "address": "Block B, Pujari Chambers, Panchpadinaka, Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 660,
+        "address": "27, Indira Vyavsaik Parisar, Pandri Market",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 661,
+        "address": "Singhania House, Civil Lines,",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 662,
+        "address": "Singhania House Civil Lines",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 663,
+        "address": "Hig- 32, Shankar Nagar, T Sector- 1, Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 664,
+        "address": "Hpcl Minocha Petrol Pump G E Road, Telibandha, T S Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 665,
+        "address": "Kotagumman Junction",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 666,
+        "address": "46-22-11, K.S.R.Complex, Danavaipeta",
+        "city": "Rajahmundry",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 667,
+        "address": "R.K Marbles Ltd, Morwad Mines",
+        "city": "Rajasmund",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 668,
+        "address": "D.H Chamber, Near Deluxe Cinem Kuvadava Main Road, Rajkot",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 669,
+        "address": "\"shivdarshan\", Near Kathiawad Gymkhana, Dr.Radhakrishnan Road, T",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 670,
+        "address": "Amrish Building Near Kkv Circle Kalawad Road",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 671,
+        "address": "3-a, Anand Complex, Nagrik Bank Chowk, Dhebar Road 80 Feet Road",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 672,
+        "address": "Shop No.9, Upper Level, Arpan Complex, Opp.Swaminaraya Kalawad Road",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 673,
+        "address": "Naya Road, In Front Of Obc Ban Nathdwara, Rajsamand",
+        "city": "Rajsamand",
+        "district": "Rajsamand",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 674,
+        "address": "Shreeji Kripa, Jalchakki Road,",
+        "city": "Rajsamand",
+        "district": "Rajsamand",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 675,
+        "address": "Ranchi.Shop No.4, Urmila Ray Circular Road, Lalpur, T Ranchi",
+        "city": "Ranchi",
+        "district": "Na",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 676,
+        "address": "Shop No G-1\/b , Gopal Complex, Kacheri Road",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 677,
+        "address": "A\/7, Rcp Complex Kadru Main Road Ranchi",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 678,
+        "address": "Arjan Palace, 5, Main Road, Near Overbridge",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 679,
+        "address": "Time Office, Hindalco Industries, T Sr",
+        "city": "Renukoot",
+        "district": "Renukoot",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 680,
+        "address": "Hpcl Petrol Pump, Renukoot Ser Main Road, Renukoot",
+        "city": "Renukoot",
+        "district": "Renukoot",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 681,
+        "address": "Birla Market,",
+        "city": "Renukoot",
+        "district": "Renukoot",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 682,
+        "address": "19, Civil Lines, Hardwar Road Roorkee",
+        "city": "Roorkee",
+        "district": "Roorkee",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 683,
+        "address": "Meher Eye Hospital Campus, Mai Udit Nagar, Rourkela",
+        "city": "Rourkela",
+        "district": "Sundergarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 684,
+        "address": "Shop No.14, Deepak Complex, Bijoria Road Saharanpur",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 685,
+        "address": "Old No.239, New No.359 Trichy Main Road Gugai, Salem",
+        "city": "Salem",
+        "district": "Salem",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 686,
+        "address": "2\/1\/1991 New Bus Stand Road Meyanoor, Salem",
+        "city": "Salem",
+        "district": "Salem",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 687,
+        "address": "\"shree Krupa\" , C.S.No.4158\/a Near Maidan Datta Mandir , Brah Sangli",
+        "city": "Sangli",
+        "district": "Sangli",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 688,
+        "address": "Shop No.2, Cs 306, Ghevare Icon, Relax Inn Lodge Near S T Stand, Sanglit S",
+        "city": "Sangli",
+        "district": "Sangli",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 689,
+        "address": "Venkatesh Embassy Oppo Zilla Parishad Sangli",
+        "city": "Sangli",
+        "district": "Sangli",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 690,
+        "address": "Nagarpalika Shopping Centre, Main Road Satara",
+        "city": "Satara",
+        "district": "Pachgani",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 691,
+        "address": "172\/4, Raviwar Peth, Uwb Bldg Shivaji Circle, Powai Naka Satara",
+        "city": "Satara",
+        "district": "Satara",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 692,
+        "address": "Chirmule Niketan, 143\/146, Bhavani Peth, Rajpath Satara City",
+        "city": "Satara",
+        "district": "Satara",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 693,
+        "address": "Goldi General Store, T Sr Kasumpati Chowk Kasumpati Shimla",
+        "city": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 694,
+        "address": "Jeevan Jyoti Lala Lajpatrai Chowkt Sr The Mall, P B No.52t Sr",
+        "city": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 695,
+        "address": "Nanak Complex Sevoke Road Siliguri",
+        "city": "Siliguri",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 696,
+        "address": "Alok Industries, Sayli Unit U.T Of Dadra & Nagar Haveli Silvassa",
+        "city": "Silvassa",
+        "district": "Dadra & Nagar Haveli",
+        "state": "Gujarat"
+    },
+    {
+        "id": 697,
+        "address": "Teesta (stage V) Hydroelectric Project, P.O.",
+        "city": "Singtam East",
+        "district": "Na",
+        "state": "Sikkim"
+    },
+    {
+        "id": 698,
+        "address": "Exotic Regency, Shop No.9, Opp.Supriya Deluxe Hotel, Sailachem Bhat, Siolimt S",
+        "city": "Siolim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 699,
+        "address": "Bansal Tvs Dabwali Road National Highway 10t S",
+        "city": "Sirsa",
+        "district": "Sirsa",
+        "state": "Haryana"
+    },
+    {
+        "id": 700,
+        "address": "Center For Advance Studies In Village Makhnumajra, Baddi, Po Tehsil Nalgarh, Solan",
+        "city": "Solan",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 701,
+        "address": "3 South Kasba Datta Chowk Solapur",
+        "city": "Solapur",
+        "district": "Solapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 702,
+        "address": "Saint Park, Shop No.G-1, Near Vishal Nagar Society Adajan Road",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 703,
+        "address": "24, Ayappa Complex, Udhna Main Pandesra, Surat",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 704,
+        "address": "Nav Nidhi Complex, Shop No.Lg\/4 6\/124 Mahidhar Pura, Near Del Delhi Gate",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 705,
+        "address": "Tulsi Market Near Udhana Darwaja, T Sr Ring Road",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 706,
+        "address": "Silver Point , Shop No.G 22 Opp.Vidhyabharathi School, Bhatar Road",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 707,
+        "address": "Essen House, Ghod Dod Road",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 708,
+        "address": "307, Upper Ground Floor, Poddar Arcade, Varachha Road Khandbazar",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 709,
+        "address": "Gopala Nand Chambers, Shop No.Kuntunath Derasar Chowk, New J Surendra Nagar",
+        "city": "Surendra Nagar",
+        "district": "Surendranagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 710,
+        "address": "Sashikant Nagar Station Road, Bhayandar(w)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 711,
+        "address": "Likhite Bldg.Phadke Road, Baji Prabhu Chowk Dombivali (e)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 712,
+        "address": "Ishan, Mahatma Phule Road, Near Dhanwantari Medical, Dombivali(w)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 713,
+        "address": "Shop No 9, City Mallt Sr Midc Residential Areat S Dombivli(east)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 714,
+        "address": "Niwara Complex, Modak Lane, Opp.Mahalaxmi Mandir , Tilak Ch Kalyan",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 715,
+        "address": "Shop No 6 Krishna Apartments Near Thane Rly Station, T Thane(w)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 716,
+        "address": "Shop No 1, Millenium Business Mahape Village, Ttc Industrial Thane Belapur Road",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 717,
+        "address": "90\/b, First Floor Gokhale Road Naupadat Sr Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 718,
+        "address": "Shop No 8, Amet Anand Co-op Ho Gen Vaidya Road, Panchpakhadi, Thane (w)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 719,
+        "address": "Commerce Centre, Oppo.Parkar Sa Dattanagar Chowk Tandon Road Dombivali(e)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 720,
+        "address": "Rishikesh Appartment, T S Near S.T.Depot, Vasai (w) Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 721,
+        "address": "Shop No 10, Ground Floor, Sai Plot No P\/24, Midc, Boisar Near Hotel Sarovar, Boisar, Ta",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 722,
+        "address": "Vaidya Bldg.Veer Savarkar Road Jambhali Naka, Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 723,
+        "address": "C-1 Yashwant Building, T Near Malhar Theatre, T Sr Naupada",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 724,
+        "address": "Majiwada, Shop No.4, T S Maitri Lotus, Maitri Gardens Pokhron Road No.2",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 725,
+        "address": "Tc 1\/397, Medical College P O , T S",
+        "city": "Thiruvananthapuram",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 726,
+        "address": "Bishop Heber Colleget Sr Vayalur Road, Tiruchirappalli",
+        "city": "Tiruchirapalli",
+        "district": "Tiruchirapalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 727,
+        "address": "341, B.S.Sundaram Road",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 728,
+        "address": "Kovai Departmental Stores, 27\/1, Main Annuparpalayam",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 729,
+        "address": "447, Palladam Road, Thennampalayam",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 730,
+        "address": "Balamurugan Complex, T Sr 266, Avinashi Road",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 731,
+        "address": "Balamurugan Complex Avinashi Road",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 732,
+        "address": "Warbha Centre, Ramanchira, M.C.Road",
+        "city": "Tiruvalla",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 733,
+        "address": "Dsm Anti Infective India Ltd., Bhai Mohan Singh Nagar, Toansa",
+        "city": "Toansa",
+        "district": "Nawanshar",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 734,
+        "address": "V.Duraiaraj& Sons (hpcl), Saalai Raod, Thillainagar",
+        "city": "Trichy",
+        "district": "Trichy",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 735,
+        "address": "Dukes Complex, 120, Bharathiar Salai, T Cantonment",
+        "city": "Trichy",
+        "district": "Trichy",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 736,
+        "address": "Narmada Building Enterprises P Narmada, Kowdiar Trivandrum",
+        "city": "Trivandrum",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 737,
+        "address": "Muthoottu Building Opp.A.G.S Office M.G.Road",
+        "city": "Trivandrum",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 738,
+        "address": "Shop No.9, Apeksha, T.Nagar Plot No.256, Hiran Magri Scheme Sector No.11, Opposite I.O.C.",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 739,
+        "address": "Secure Meters Ltd., Kallarwas, Udaipur",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 740,
+        "address": "Shop No.7, Bhupal Nobles Inst Main Airport Road, Opp.Dalal Near Sevashram Chauraha",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 741,
+        "address": "Shop No.3, Near Shiv Temple Main Chouraha, Sector 4, T Udaipur",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 742,
+        "address": "C\/o Radhika Dining Hall, City Station Road Outside Surajpole",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 743,
+        "address": "Mumal Towers, 16, Saheli Marg",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 744,
+        "address": "Manipal Centre Maruthi Veethika Chittaranjan Circle",
+        "city": "Udupi",
+        "district": "Udupi",
+        "state": "Karnataka"
+    },
+    {
+        "id": 745,
+        "address": "Sun-shine Tower(bhatwal Talkie)priyadarshani Indira Gandhi Ch Frigang Ujjain",
+        "city": "Ujjain",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 746,
+        "address": "Hotel Ashray, 77, Dewas Road",
+        "city": "Ujjain",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 747,
+        "address": "Idbi Ltd., Lalita Smruti Build Opp.Nalini Arts College, Nana Bazar",
+        "city": "V V Nagar",
+        "district": "Na",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 748,
+        "address": "Shop No.3, Royal Dreams Chala Daman Road Chala, Vapi",
+        "city": "Vapi",
+        "district": "Vapi",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 749,
+        "address": "Nalanda & Co., Bansphatak",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 750,
+        "address": "Shree Lodge, Bhelupura Crossing, Bhelupura",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 751,
+        "address": "Ground Floor, Arihant Complex Nagar Nigam Road, Sigra,",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 752,
+        "address": "Padmavati Grace Opp.Sunrise Supermarket Shree Krishna Complext S",
+        "city": "Vasai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 753,
+        "address": "E.M.Palace, Sai Nagar, Opp.Samt Off.Ambadi Road, Vasai Road(w)",
+        "city": "Vasai Road",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 754,
+        "address": "Suvarn Bandekar Building Swatantra Path",
+        "city": "Vasco Da Gama",
+        "district": "South Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 755,
+        "address": "H No.11-39-19, Beside I Town Polce Station Katurivari",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 756,
+        "address": "Bsr Plaza Near Maris Stella College Ring Road",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 757,
+        "address": "1st Floor, Padmavathi Complex 27-14-4 Rajagopalachari Street Governo",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 758,
+        "address": "Sri Renuka Complex, Eluru Road, Opp.Sri Rama Corp (ramcor)",
+        "city": "Vijaywada",
+        "district": "Vijaywada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 759,
+        "address": "Drm\ufffds Office, Dondaparthy, Railway Station Road, T S",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 760,
+        "address": "Balaji Mangalagiri Chambers, 9\/29\/6-1, Balaji Nagar, T Siripuram",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    }
+]

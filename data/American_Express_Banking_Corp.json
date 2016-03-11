@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "address": "G-2\/3, Prestige Poseidon, 139, Residency Road, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 2,
+        "address": "187, Mount Road, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 3,
+        "address": "510, 5th.Floor, Phase Ii, Spencer Plaza, 768\/769, Anna Salai, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 4,
+        "address": "301, 3rd Floor, Diamond Block, Lumbini Rockdale, Somajiguda, Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "21, Hemanta Basu Sarani, (old Court House Street), Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 6,
+        "address": "Oriental Building, 364 Dr.Dadabhai Naoroji Road, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "address": "Fort House, 1st Floor, 221, Dr.D.N.Road, Fort, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 8,
+        "address": "Hamilton House, A Block, Connaught Place, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 9,
+        "address": "No.413, Sorabh Hall, 4th Floor, Sasoon Road, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    }
+]

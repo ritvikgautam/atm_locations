@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "address": "Ammasandra, Birla Circle, Adithyapatna",
+        "city": "Ammasandra",
+        "district": "Tumkur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 2,
+        "address": "Arasikere, Hassan Road",
+        "city": "Arsikere",
+        "district": "Hassan",
+        "state": "Karnataka"
+    },
+    {
+        "id": 3,
+        "address": "Bala, Oil Refinary Complex, Bala Post, Kattipalla",
+        "city": "Bala",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka"
+    },
+    {
+        "id": 4,
+        "address": "Banashankari, 40 Th Cr Ii Main, 8th Block, Jayanagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 5,
+        "address": "Banashankari Ii Nd Stage, 21 St Main, Opp Bda Complex, 2470 Banashankari Ii Stage",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 6,
+        "address": "Bangalore, Sbm Head Office Compound, K G Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 7,
+        "address": "Bangalore (second), Sbm Head Office Compound, K G Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 8,
+        "address": "Basavanagudi, No 73, K R Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 9,
+        "address": "Benson Town, Basaveswara Road, Kadambanagar, Benson Town",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 10,
+        "address": "Bilekahally, Ii M Campus, Janardhana Towers, Bannerghatta Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    }
+]

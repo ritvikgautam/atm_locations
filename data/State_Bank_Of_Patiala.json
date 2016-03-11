@@ -1,0 +1,1472 @@
+[
+    {
+        "id": 1,
+        "address": "Chowk No 4 Main Road, Chowk No 4 Main Road, Taluk Ferozepur",
+        "city": "Abohar",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 2,
+        "address": "Near Market Committee, New Grain Market",
+        "city": "Adampur",
+        "district": "Hisar",
+        "state": "Haryana"
+    },
+    {
+        "id": 3,
+        "address": "Behind Anjana Cinema, Nehru Nagar",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Palace Cinema, 17\/33 Civil Lines, Mahatma Gandhi Marg",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Near Gurudwara, Main Road, Nabha Malerkotla Road",
+        "city": "Amargarh",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 6,
+        "address": "Sa Jain College, Sa Jani College, Circular Road",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 7,
+        "address": "Housing Board Colony, Housing Board Colony, 238 Ram Bagh Road",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 8,
+        "address": "Railway Road Football Chowk, Sadar Bazar, Ambala Cantt",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 9,
+        "address": "Bus Stand, Tehsil Nabha",
+        "city": "Amloh",
+        "district": "Fatehgarh Saheb",
+        "state": "Punjab"
+    },
+    {
+        "id": 10,
+        "address": "Jauanwala Bagh, Mukherji Marg",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 11,
+        "address": "Gurudwara Sahib C W G, Chati Wind Gate",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 12,
+        "address": "100 Ft Road, East Mohan Nagar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 13,
+        "address": "Bijli Chowk, Katra Jaimal Singh",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 14,
+        "address": "Pwd Complex, Amritsar Textles, Krishna Square - 1, Batala Road",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 15,
+        "address": "Gurdwara Keshgar Sahib, Gurdwara Takhat Sri Keshgarh Sahib",
+        "city": "Anandpur Sahib",
+        "district": "Rupnagar",
+        "state": "Punjab"
+    },
+    {
+        "id": 16,
+        "address": "Awaha Devi, State Bank Of Patiala, Ahwa Devi",
+        "city": "Awaha Devi",
+        "district": "Hamirpur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 17,
+        "address": "Sai Road, Tehsil Nalagarh",
+        "city": "Baddi",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "On Site-sbop, Nihalsingh Road, Moga",
+        "city": "Baghapurana",
+        "district": "Moga",
+        "state": "Punjab"
+    },
+    {
+        "id": 19,
+        "address": "Near Escorts Factory, Rajpura Road, Bahadurgarh",
+        "city": "Bahadurgarh",
+        "district": "Jhajjar",
+        "state": "Punjab"
+    },
+    {
+        "id": 20,
+        "address": "Bdpo Office, Sbop Balachaur, Near Main Chowk",
+        "city": "Balachaur",
+        "district": "Navansahar",
+        "state": "Punjab"
+    },
+    {
+        "id": 21,
+        "address": "N D R I, State Bank Of Patiala, Karnal Ndri",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Haryana"
+    },
+    {
+        "id": 22,
+        "address": "Krishna Sweets\/shanti Sagar Resturant, Indira Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "Garhshanker Chowk, Garhshanker Chowk",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Punjab"
+    },
+    {
+        "id": 24,
+        "address": "P S E B H O Building, Punjab State Electricity Board",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Punjab"
+    },
+    {
+        "id": 25,
+        "address": "Bilaspur Road, Tehsil Sadar",
+        "city": "Barmana",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 26,
+        "address": "Near Civil Hospital, State Bank Of Patiala, Hediaya Bazaar",
+        "city": "Barnala",
+        "district": "Barnala",
+        "state": "Punjab"
+    },
+    {
+        "id": 27,
+        "address": "Mayur Cinema, Tehsil Kasauli",
+        "city": "Baroti",
+        "district": "Mandi",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 28,
+        "address": "Bus Stand, State Bank Of Patiala",
+        "city": "Barsar",
+        "district": "Hamirpur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 29,
+        "address": "Iti Bassi Pathana, State Bank Of Patiala, Bassi Pathana",
+        "city": "Barsar",
+        "district": "Fatehgarh",
+        "state": "Punjab"
+    },
+    {
+        "id": 30,
+        "address": "Shastri Mkt, Hansi Bridge",
+        "city": "Batala",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 31,
+        "address": "Bus Stand, Begowal Vill.& Post Office",
+        "city": "Begowal",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 32,
+        "address": "On Site-sbop, Sardulgarh",
+        "city": "Belgaum",
+        "district": "Belgaum",
+        "state": "Punjab"
+    },
+    {
+        "id": 33,
+        "address": "Chhota Chowk, Tehsil Barnala",
+        "city": "Bhadaur",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 34,
+        "address": "Govt Sr Sec Sch, State Bank Of Patiala, Bhadson",
+        "city": "Bhadson",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 35,
+        "address": "On Site-sbop, State Bank Of Patiala, Bathinda Cantonment",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 36,
+        "address": "Kikar Bazar, Kikar Bazar, Adjacent To Branch",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 37,
+        "address": "Civil Hospital, State Bank Of Patiala, Civil Lines Bathinda",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 38,
+        "address": "Distt Admn Complex, District Administrative Complex",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 39,
+        "address": "Thermal Colony, State Bank Of Patiala, Bathinda Gndtp",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 40,
+        "address": "Bus Stand, State Bank Of Patiala",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 41,
+        "address": "On Site-sbop, Main Sangrur Road, State Bank Of Patiala",
+        "city": "Bhawanigarh",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 42,
+        "address": "Air Force Csd Canteen, Bhisiana Airforce Station, Affwa Complex",
+        "city": "Bhisiana",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 43,
+        "address": "Adarsh Mahila Mahavidyalya, Sbop Railway Rd",
+        "city": "Bhiwani",
+        "district": "Bhiwani",
+        "state": "Haryana"
+    },
+    {
+        "id": 44,
+        "address": "Main Market, State Bank Of Patiala, Main Market",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 45,
+        "address": "Rly Station, Sbop Grain Mkt Budhlada",
+        "city": "Budhlada",
+        "district": "Mansa",
+        "state": "Punjab"
+    },
+    {
+        "id": 46,
+        "address": "Gupta Hospital, Tehsil Tarantaran",
+        "city": "Chabhal",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 47,
+        "address": "Main Mkt, State Bank Of Patiala, Chamba",
+        "city": "Chamba",
+        "district": "Chamba",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 48,
+        "address": "Bela Road, State Bank Of Patiala, Chamkau Sahib",
+        "city": "Chamkaur Sahib",
+        "district": "Rupnagar",
+        "state": "Punjab"
+    },
+    {
+        "id": 49,
+        "address": "Sco -125-126, State Bank Of Patiala, Sco 125-126, Sector-17",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 50,
+        "address": "Kiran Cinema, State Bank Of Patiala, 22d Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 51,
+        "address": "Booth No-19, Booth No 19, Sector 48a",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 52,
+        "address": "Sco-280, Sco 280, Sector-35d",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 53,
+        "address": "Chd College Of Engg & Tech, Chandigarh College Of Engg., Sector 26",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 54,
+        "address": "Madhya Marg, Sco 99-102, Sector-8c, Madhya Marg",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 55,
+        "address": "General Hospital, State Bank Of Patiala, Sector-16",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 56,
+        "address": "Sco-60, Sector-34 Sbop Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 57,
+        "address": "Booth No-107, Booth No.107 38-c Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 58,
+        "address": "Vill Kazheri, Ut Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 59,
+        "address": "Satyam Theatre Juction, 27 - White Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 60,
+        "address": "Sirhand-chd Road, State Bank Of Patiala, Chunikalan",
+        "city": "Chunikalan",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 61,
+        "address": "Talab Road, G T Road",
+        "city": "Dasuya",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 62,
+        "address": "Talwara Road, State Bank Of Patiala, Daulatpur Chowk",
+        "city": "Daulatpur Chowk",
+        "district": "Na",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 63,
+        "address": "Lalru Mandi, State Bank Of Patiala",
+        "city": "Dehar",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 64,
+        "address": "Distt Courts, 58 Mahatma Gandhi Road",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 65,
+        "address": "Main Bazaar G T Road, State Bank Of Patiala, Gt Road",
+        "city": "Derabassi",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 66,
+        "address": "Opp Police Stn, National Highway, Kasauli Road Chowk",
+        "city": "Dharampur",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 67,
+        "address": "Lower Dharamshala, Red Cross Building",
+        "city": "Dharamshala",
+        "district": "Kangra",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 68,
+        "address": "Trident Complex Mansa Road, State Bank Of Patiala, Dhaula",
+        "city": "Dhaula",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 69,
+        "address": "Sharma Filling Stn, Sharma Filling Station, G T Road, Dhilwan Bus Stop",
+        "city": "Dhilwan",
+        "district": "Kapurthala",
+        "state": "Punjab"
+    },
+    {
+        "id": 70,
+        "address": "Near Bdpo Office, Opp.Branch Near Bdo Office, Dhuri Pind Road",
+        "city": "Dhuri",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 71,
+        "address": "On Site-sbop(in Mandi)",
+        "city": "Dirba",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 72,
+        "address": "Opp Bata Flyover, Plot No 11, Sector 2",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 73,
+        "address": "Sector-15 Mkt, 1047 Sector 15",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 74,
+        "address": "Sector-9mkt, Booth No 145, Sector 9",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 75,
+        "address": "Bus Stand, Circular Rd",
+        "city": "Faridkot",
+        "district": "Faridkot",
+        "state": "Punjab"
+    },
+    {
+        "id": 76,
+        "address": "Adarsh Institute Of Tech, Adarash Institute Of Tech, Faridkot Sadiq Road, Vill Machaki Mal Singh",
+        "city": "Faridkot",
+        "district": "Faridkot",
+        "state": "Punjab"
+    },
+    {
+        "id": 77,
+        "address": "Sirsa Road, State Bank Of Patiala",
+        "city": "Fatehbad",
+        "district": "Na",
+        "state": "Haryana"
+    },
+    {
+        "id": 78,
+        "address": "Fatehgarh Sahibcomplex, Inside Fateh Garh Sahib Complex, Fatehgarh Sahib",
+        "city": "Fatehgarh Sahib",
+        "district": "Fatehgarh Saheb",
+        "state": "Punjab"
+    },
+    {
+        "id": 79,
+        "address": "Gaushala Road Fazilka, Gaushala Road Fazilka",
+        "city": "Fazilka",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 80,
+        "address": "Hanuman Chowk, The Mall",
+        "city": "Ferozepur",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 81,
+        "address": "Shaheed Bhagat Singh Enggcollege, Saheed Bhagat Singh Engg College",
+        "city": "Ferozepur Cantt",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 82,
+        "address": "Daulatpur Road, Tehsil Amb",
+        "city": "Gagret",
+        "district": "Una",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 83,
+        "address": "Civil Court, Near Civil Court",
+        "city": "Garhshankar",
+        "district": "Garhshankar",
+        "state": "Punjab"
+    },
+    {
+        "id": 84,
+        "address": "Tulsi Dfass Petrol Pump G T Road, Ibp Petrol Pump, Gt Road, Tulsi Dass &sons Petrol Pump",
+        "city": "Gharaunda",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 85,
+        "address": "Khalsa College, Tehsil Dasuya",
+        "city": "Ghardiwala",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 86,
+        "address": "66 Swaraj Bhawan, 10 Navyug Mkt",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 87,
+        "address": "Malayagiri Apartments, Kaushambhi, Malayagiri Apartments",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 88,
+        "address": "Rajindra Filling Stn",
+        "city": "Ghumarwin",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 89,
+        "address": "On Site-sbop, Tehsil Gidderbaha",
+        "city": "Gidderbaha",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 90,
+        "address": "Police Station, Gt Road",
+        "city": "Gobindgarh",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 91,
+        "address": "Jind Road, Baroda Road",
+        "city": "Gohana",
+        "district": "Sonipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 92,
+        "address": "Bus Stand, Tehsil Phillour",
+        "city": "Goraya",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 93,
+        "address": "Hanuman Chowk",
+        "city": "Gurdaspur",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 94,
+        "address": "Beant Engg College",
+        "city": "Gurdaspur",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 95,
+        "address": "Bus Stand, Po Dhar Kalan",
+        "city": "Gurdaspur",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 96,
+        "address": "Dronacharya Govt College, Municipal Tower, Old Rly Rd, Dhobi Ghat",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 97,
+        "address": "Millenium Plaza, Sush.Lok Milleneum Plaza, Tower A Sector-27",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 98,
+        "address": "Mini Sectt, New Mini Sectt",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 99,
+        "address": "Pwd Rest House, Opp Pwd Rest House Nanital Rd",
+        "city": "Haldwani",
+        "district": "Haldwani",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 100,
+        "address": "Guard Room Afs, State Bank Of Patiala, Halwara Af Station",
+        "city": "Halwara",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 101,
+        "address": "Gandhi Chowk, State Bank Of Patiala, Hamirpur, Gandhi Chowk",
+        "city": "Hamirpur",
+        "district": "Hamirpur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 102,
+        "address": "Jind Gate, New Grain Mkt",
+        "city": "Hansi",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 103,
+        "address": "Isher Halwai Shop, Near Ishwer Halwai, Balmiki Chowk, Main Market",
+        "city": "Hanumangarh",
+        "district": "Hanumangarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 104,
+        "address": "Rishikul Ayurvedic College, Hardwar Station Road, Near Hotel Himgiri",
+        "city": "Haridwar",
+        "district": "Haridwar",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 105,
+        "address": "Near Rly Stn, Railway Road",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 106,
+        "address": "Grain Market, G T Road",
+        "city": "Hodal",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 107,
+        "address": "Mahavir Spinning Mill, State Bank Of Patiala",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 108,
+        "address": "Kanak Mandi, Kanak Mandi",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 109,
+        "address": "Rail Coach Factory, State Bank Of Patiala, Hussainpur (rcf)",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 110,
+        "address": "Ranjeet Hanuman Mandir, Usha Nagar",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 111,
+        "address": "Gurunanak Sr Sec Sch, Sgnk High School",
+        "city": "Jagadhari",
+        "district": "Na",
+        "state": "Haryana"
+    },
+    {
+        "id": 112,
+        "address": "Ssp Office, Tehsil Road",
+        "city": "Jagraon",
+        "district": "Jagraon",
+        "state": "Punjab"
+    },
+    {
+        "id": 113,
+        "address": "State Bank Of Patiala Branch, Bohandi Bazar",
+        "city": "Jaitu",
+        "district": "Faridkot",
+        "state": "Punjab"
+    },
+    {
+        "id": 114,
+        "address": "Old Bus Stand, Near Old Bus Stand, Ferozpur Road",
+        "city": "Jalalabad West",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 115,
+        "address": "Ambedkar Chowk, Ambedkar Chowk",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 116,
+        "address": "K M V College, Near Bye Pass, Aman Nagar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 117,
+        "address": "Bhai Jaitaji Mkt, Guru Tegh Bahadur Nagar, Bhai Jaitaji Market",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 118,
+        "address": "Kataria Ent Hospital, Sheed Udam Super Mkt",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 119,
+        "address": "Patel Chowk, State Bank Of Patiala, Patel Chowk",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 120,
+        "address": "Cool Road, 37 Cool Road",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 121,
+        "address": "Naz Cinema, Rainak Bazar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 122,
+        "address": "Shastri Mkt, Shastri Mkt",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 123,
+        "address": "Main Bazaaar, Mohala No-26, Near Bansal Diary, Old Phagwara Road",
+        "city": "Jalandhar Cantt",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 124,
+        "address": "Gole Market, Gandhi Nagar, Gole Market",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 125,
+        "address": "Sbop Jhajjar, Vpo Jhajhar",
+        "city": "Jhajhar",
+        "district": "Jhanjhar",
+        "state": "Haryana"
+    },
+    {
+        "id": 126,
+        "address": "Safidon Gate Opp Fire Stn, Saf Idon Gate",
+        "city": "Jind",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 127,
+        "address": "Drda Complex, State Bank Of Patiala, Near Jind Bus Stand",
+        "city": "Jind",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 128,
+        "address": "Mini Sectt, Mini Sect Area, 10 Housing Board Colony",
+        "city": "Jind",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 129,
+        "address": "Des Raj Petrol Pump, Sbop Jind (patiala Chowk)",
+        "city": "Jind",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 130,
+        "address": "Ghoomar Hotel (rtdc), Ghoomar Hotel (rtdc), Near High Court",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 131,
+        "address": "Anaj Mandi",
+        "city": "Julana",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 132,
+        "address": "Grain Market, Grain Mkt.",
+        "city": "Kalayat",
+        "district": "Kaithal",
+        "state": "Haryana"
+    },
+    {
+        "id": 133,
+        "address": "Near Rly Line Kalka Simla Road, State Bank Of Patiala, Near Rly Line Kalka, Simla Road",
+        "city": "Kalka",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 134,
+        "address": "Dharamshala Road, State Bank Of Patiala, Kangra",
+        "city": "Kangra",
+        "district": "Kangra",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 135,
+        "address": "Opp Police Stn, State Bank Of Patiala, Kanina Mandi",
+        "city": "Kanina Mandi",
+        "district": "Na",
+        "state": "Haryana"
+    },
+    {
+        "id": 136,
+        "address": "Mdsd Hr Sec School, The Mall, Mall Road",
+        "city": "Kapurthala",
+        "district": "Kapurthala",
+        "state": "Punjab"
+    },
+    {
+        "id": 137,
+        "address": "Liberty Shoe Factory, Railway Road, Liberty Shoe Factory",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 138,
+        "address": "Urban Estate Market Sec-13, Shop No.55, Sector-13, Urban Estate",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 139,
+        "address": "Dayal Singh College, Dayal Singh College",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 140,
+        "address": "Behind Grain Mkt, Nilokheri",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 141,
+        "address": "G T Road, G T Road",
+        "city": "Kartarpur",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 142,
+        "address": "Bus Stand, State Bank Of Patiala, Kasauli, Near Main Bus Stand",
+        "city": "Kasauli",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 143,
+        "address": "Satnam Filling Stn, Tehsil Sunam",
+        "city": "Khanauri",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 144,
+        "address": "Tehsil Office, State Bank Of Patiala, Kharar Highway",
+        "city": "Kharar",
+        "district": "Rupnagar",
+        "state": "Punjab"
+    },
+    {
+        "id": 145,
+        "address": "Grain Market, State Bank Of Patiala, Khumano",
+        "city": "Khumano",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 146,
+        "address": "Punjab Bus Stand, State Bank Of Patiala, Killianwali",
+        "city": "Killianwali",
+        "district": "Muktsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 147,
+        "address": "Shanti Niketan Building, Shanti Niketan Building",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 148,
+        "address": "Nizam Palace, Nizam Palace, A J C Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 149,
+        "address": "C A D Circle Dada Bari, Rawat Bhata Road, 290 Partap Nagar",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 150,
+        "address": "Rly Station, Near Branch, Satta Bazar",
+        "city": "Kotkapura",
+        "district": "Faridkot",
+        "state": "Punjab"
+    },
+    {
+        "id": 151,
+        "address": "Bus Stand, 667 Moga Road",
+        "city": "Kotkapura",
+        "district": "Faridkot",
+        "state": "Punjab"
+    },
+    {
+        "id": 152,
+        "address": "Hotel Dewan Regency, Nh No 8",
+        "city": "Kotputli",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 153,
+        "address": "Sarwari Bazaar, Akhara Bazar, House Of Col.Surinder Mohan Sood",
+        "city": "Kulu",
+        "district": "Kullu",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 154,
+        "address": "Jatti Road, Tehsil Sonepat",
+        "city": "Kundli",
+        "district": "Sonipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 155,
+        "address": "Main Bazaar, Tehsil Arki",
+        "city": "Kunihar",
+        "district": "Na",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 156,
+        "address": "Krishna Mkt, State Bank Of Patiala, Kurali, Morinda Road",
+        "city": "Kurali",
+        "district": "Rupnagar",
+        "state": "Punjab"
+    },
+    {
+        "id": 157,
+        "address": "Opp Uti Bank Rly Road, State Bank Of Patiala",
+        "city": "Kurukshetra",
+        "district": "Kurukshetra",
+        "state": "Haryana"
+    },
+    {
+        "id": 158,
+        "address": "Highway Service Stn, Pipli Highway Statiion, G T Road Pipli, B P Petrol Pump",
+        "city": "Kurukshetra",
+        "district": "Kurukshetra",
+        "state": "Haryana"
+    },
+    {
+        "id": 159,
+        "address": "Near Rly Stn, Near Railway Station",
+        "city": "Lehra Gaga",
+        "district": "Na",
+        "state": "Punjab"
+    },
+    {
+        "id": 160,
+        "address": "E S I Hospital, State Bank Of Patiala, Bnc Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 161,
+        "address": "Daresi Ground, State Bank Of Patiala, Daresi Road",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 162,
+        "address": "Dd Jain Memo College, Industrial Area",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 163,
+        "address": "Vardman Spinning Mills, Sco 15 Sect 32a, Urban Estate",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 164,
+        "address": "Gurunank Homeopathy College, G 1 - (opp) Petrol Pump, Kitchlu Nagar",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 165,
+        "address": "Vishkarma Chowk, State Bank Of Patiala, Miller Ganj",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 166,
+        "address": "Mobile Atm, Miller Ganj",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 167,
+        "address": "New Sabji Mandi, Salem Tabri, Gt Road",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 168,
+        "address": "Opp.Militry Camp, Near G.T.Road",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 169,
+        "address": "Laxmi Market Complex, Samrala Road Machhiwara",
+        "city": "Machhiwara",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 170,
+        "address": "Bus Stand, Sggs College",
+        "city": "Mahilpur",
+        "district": "Hosiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 171,
+        "address": "Talab Bazaar",
+        "city": "Malerkotla",
+        "district": "Malerkotla",
+        "state": "Punjab"
+    },
+    {
+        "id": 172,
+        "address": "Jhamb Guest House, Gurudwara Road, Near Jhamb Guest House, S S Jain Sabha",
+        "city": "Malout",
+        "district": "Malout",
+        "state": "Punjab"
+    },
+    {
+        "id": 173,
+        "address": "G T Road, Tehsil Amritsar",
+        "city": "Mananwala",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 174,
+        "address": "Indira Market, Near Beas Bridge",
+        "city": "Mandi",
+        "district": "Mandi",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 175,
+        "address": "Nac Market, Sco 838 Chd, Kalka Road",
+        "city": "Manimajra",
+        "district": "Manimajra",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 176,
+        "address": "Civil Hospital, Civil Hospital Mansa, Hospital Road",
+        "city": "Mansa",
+        "district": "Mansa",
+        "state": "Punjab"
+    },
+    {
+        "id": 177,
+        "address": "Bus Stand, State Bank Of Patiala, Ind Area Mansa",
+        "city": "Mansa",
+        "district": "Mansa",
+        "state": "Punjab"
+    },
+    {
+        "id": 178,
+        "address": "State Bank Of Patiala Branch, State Bank Of Patiala",
+        "city": "Maur",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 179,
+        "address": "Hanuman Murti, Bombay Bazar, Hanuman Murti",
+        "city": "Meerut Cantt",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 180,
+        "address": "Thana Road, Thana Road, Tehsil Meham",
+        "city": "Meham",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 181,
+        "address": "Una Road, State Bank Of Patiala",
+        "city": "Mehatpur",
+        "district": "Una",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 182,
+        "address": "Bus Stand, Civil Lines, G T Road",
+        "city": "Moga",
+        "district": "Moga",
+        "state": "Punjab"
+    },
+    {
+        "id": 183,
+        "address": "Akalsar Road, Akalsar Road, Near Rly Colony",
+        "city": "Moga",
+        "district": "Moga",
+        "state": "Punjab"
+    },
+    {
+        "id": 184,
+        "address": "Sco 63 Phase-7, S A S Nagar",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 185,
+        "address": "Niper Institute, Nipar Institute",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 186,
+        "address": "Sco-521, Sector-70",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 187,
+        "address": "Opp Police Stn",
+        "city": "Mohindergarh",
+        "district": "Na",
+        "state": "Haryana"
+    },
+    {
+        "id": 188,
+        "address": "Main Bazaar, Koinaur Road, Main Bazar",
+        "city": "Morinda",
+        "district": "Ludhiana (punjab)",
+        "state": "Punjab"
+    },
+    {
+        "id": 189,
+        "address": "Kotkapura Road, Kotkapura Road",
+        "city": "Mukatsar",
+        "district": "Muktsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 190,
+        "address": "New Sabji Mandi, Talwara Bye Pass",
+        "city": "Mukerian",
+        "district": "Hosiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 191,
+        "address": "Bpcl Refinery, Bpcl Refinery Mahul",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 192,
+        "address": "Zandu Pharmacy, Indra Tower Gokhla Road(south), Dadar",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 193,
+        "address": "Seepz Building No-3, Seepz++ Near Gate No 3, (opp) Block - 1, Andheri East",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 194,
+        "address": "G T Road, State Bank Of Patiala",
+        "city": "Murthal",
+        "district": "Sonipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 195,
+        "address": "Prakash Chowk, Court Road",
+        "city": "Muzaffarnagar",
+        "district": "Muzaffarnagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 196,
+        "address": "Patiala Gate Market, State Bank Of Patiala, Nabha, Patiala Gate",
+        "city": "Nabha",
+        "district": "Nabha",
+        "state": "Punjab"
+    },
+    {
+        "id": 197,
+        "address": "Glaxosmithkline Factory Complex, State Bank Of Patiala, Nabha Hmm",
+        "city": "Nabha",
+        "district": "Nabha",
+        "state": "Punjab"
+    },
+    {
+        "id": 198,
+        "address": "Central Avenue, Opp Chander Building, Central Avenue",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 199,
+        "address": "Main Bazaar, Tehsil Kangra",
+        "city": "Nagrota",
+        "district": "Na",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 200,
+        "address": "Opp Sbi Delhi Gate, Opp.State Bank Of India, Chaugan, House Of Mr.Partap Chauhan",
+        "city": "Nahan",
+        "district": "Sirmour",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 201,
+        "address": "Krm Davcollege For Girls, Post Office Road Nakodar, K R M D A V College",
+        "city": "Nakodar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 202,
+        "address": "Ropar Road, State Bank Of Patiala, Nalagarh",
+        "city": "Nalagarh",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 203,
+        "address": "Adda Market, Adda Market, Nangal Township",
+        "city": "Nangal",
+        "district": "Rupnagar",
+        "state": "Punjab"
+    },
+    {
+        "id": 204,
+        "address": "Opp D C Residence, State Bank Of Patiala, Narnaul",
+        "city": "Narnaul",
+        "district": "Mahendragarh",
+        "state": "Haryana"
+    },
+    {
+        "id": 205,
+        "address": "Aggarsain Chowk, Surejewala Bhawan, Railway Road",
+        "city": "Narwana",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 206,
+        "address": "Horticulture University, Y S Parmar Hortrticulture University",
+        "city": "Nauni",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 207,
+        "address": "Old Court Road, Court Road",
+        "city": "Nawanshahr",
+        "district": "Nawanshahr",
+        "state": "Punjab"
+    },
+    {
+        "id": 208,
+        "address": "Chadiar Complex",
+        "city": "Ner Chowk",
+        "district": "Mandi",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 209,
+        "address": "Raja Garden Chowk, Bali Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 210,
+        "address": "Netaji Subash Marg, Netaji Subhash Marg, 38 Darya Ganj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    }
+]

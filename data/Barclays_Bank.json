@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "address": "First Floor, Paramanna Layout, B.H.Road, Nelamangala, Bangalore 562123",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 2,
+        "address": "\"Barclays Bank PLC Unit No S - 037 Sahara Mall, M.G Road Gurgaon \ufffd 122001\"",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 3,
+        "address": "Ground Floor, Marigold - 2, Opposite Bahauddin College, College Road, Junagadh, Gujarat - 362001",
+        "city": "Junagadh",
+        "district": "Junagadh",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "20\/21 Kamarajar Salai, Kanchipuram - 631 501",
+        "city": "Kanchipuram",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 5,
+        "address": "601\/603 Cee Jay House, 6th Flor, Shivsagar Estate, Dr.Annie Besant Road, Worli Mumbai 400 18",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 6,
+        "address": "Barclays Bank Plc, Shop No.1-b, Swiss Palace, Sastri Nagar, Near.Lokhandwala, Off J.P Road, Andheri (west), Mumbai - 400058, ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "address": "Shop No.3\/41, Ashirwad, N.C.Kelkar Road, Opposite Shivaji Park Post Office, Dadar (west), Mumbai 400028",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 8,
+        "address": "\"Barclays Bank PLC Sunshine Building, Ground Floor Plot No 78 A Dr Annie Besant Road Worli, Mumbai \ufffd 400018\"",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 9,
+        "address": "First Floor, Eros Corporate Tower, Nehru Place, New Delhi 110019",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 10,
+        "address": "Shop No -1, Dda Community Center, New Friends Colony, New Delhi - 110065, ,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    }
+]

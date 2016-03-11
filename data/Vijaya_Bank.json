@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "address": "P B No.21, No.15\/30, Subhas Road",
+        "city": "Aanathpur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Opp.Police Station, Nirmala Talkies Road",
+        "city": "Adoni",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "No.1426, Jeoni Mandi",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "P B No.103, 49, Taj Road, Agra Cantt",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Opp Govt. Polytechnic, Dr Vikram sarabhai Road, Ambavadi",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "8-9-10,Dhananjay Towers, 100 FT Road, Satellite Road",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "143\/11, Suvas Bldg., Krishna Bagh, Maninagar",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "No.1119\/F-2, Near Priya Cinema & Krishna Tower, H N No.8, Krishnanagar",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "P B No.4065, 2, Neptune House, Navarangapura",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "Mithila Apartments, Judges Bungalow Cross Road, Bodakdev",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 11,
+        "address": "Navarang Complex, near Sattadar Circle, Sola Cross Road",
+        "city": "Ahemadabad",
+        "district": "Ahemadabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 12,
+        "address": "P B No.61 Cullen Rd, Mullackal",
+        "city": "Alapuzha",
+        "district": "Alapuzha",
+        "state": "Kerala"
+    },
+    {
+        "id": 13,
+        "address": "Motilal Nehru National Institue of Technology, Telliyarganj",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 14,
+        "address": "No.7, Beli Road, Mamfordganj, Naya Katra",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "Hotel Vasista Building, College Road",
+        "city": "Amalapuram",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 16,
+        "address": "Gurunanak Dev University Shopping Centre, Lahore G T Road",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 17,
+        "address": "Vijaya Chambers, Opp.Nagarpalika , Sardar Ganj Road",
+        "city": "Anand",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 18,
+        "address": "P B No.23, Dinakar Desai Marg",
+        "city": "Ankola",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 19,
+        "address": "P B No.42, Sainath Road",
+        "city": "Arsikere",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 20,
+        "address": "Arunachal University. Post Doimukh",
+        "city": "Arunachal Pradesh",
+        "district": "Papumapra",
+        "state": "Arunachal Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "No.8, Fauzi Complex, Sai Road Post Nalagarh",
+        "city": "Baddi",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "Hotel Anugraha Deluxe, Near Bus Stand,Railway Station Road",
+        "city": "Bagalkot",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "Parochial School Building, St.Joseph Church Compound",
+        "city": "Bajpe",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 24,
+        "address": "Church Compound, Hospital Road",
+        "city": "Balasore",
+        "district": "Balaeshwar",
+        "state": "Orissa"
+    },
+    {
+        "id": 25,
+        "address": "Shop No.918, Ward No,9, Main Road, Banga, Navanshar",
+        "city": "Banga",
+        "district": null,
+        "state": "Punjab"
+    },
+    {
+        "id": 26,
+        "address": "23\/24, Infantry Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 27,
+        "address": "South End Road, Basavanagudi",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 28,
+        "address": "No.98, Varthur Main Road, Varthur",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 29,
+        "address": "Bangalore International Airport, Terminal Building, Devanahalli",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 30,
+        "address": "P B No.8277, 29, Hosur Road, Adugodi",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    }
+]

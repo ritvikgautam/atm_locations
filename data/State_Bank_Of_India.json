@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "address": "Ferozepur",
+        "city": "Abohar",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 2,
+        "address": "Shantivan-abu Road, Shantivan",
+        "city": "Abu Road",
+        "district": "Sirohi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 3,
+        "address": "Alandur-adambakkam, No.9 D.No.6 , Secretariat Colony",
+        "city": "Adambakkam",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 4,
+        "address": "Afs Adampur",
+        "city": "Adampur",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 5,
+        "address": "D.No 9-155, Prasannanjaneya Complex, Nrt Main Road",
+        "city": "Addanki",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Shop No.1, Nalanda Complex, Opp Bus Station",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "Station Road",
+        "city": "Adoni",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "Crystal Plaza, Pathanamthitta",
+        "city": "Adoor",
+        "district": "Pathanamthitta",
+        "state": "Kerala"
+    },
+    {
+        "id": 9,
+        "address": "Mannarghat, Palakkad",
+        "city": "Agali",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 10,
+        "address": "Seo Ka Bazar, Seo Ka Bazar",
+        "city": "Agar",
+        "district": "Shajapur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Melar Math, Tripura",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 12,
+        "address": "Nagercoil, Pb No.1 14-b , Distillery Road",
+        "city": "Agastheeswaram",
+        "district": "Kanyakumari",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 13,
+        "address": "Agra Main Br, Agra Main Br",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 14,
+        "address": "Agra City, Agra City Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 15,
+        "address": "Heera Bagh, Heera Bagh",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 16,
+        "address": "Dayal Bagh, Heera Baugh Colony",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 17,
+        "address": "Pbb Kamla Ngr Agra, Spl Per Bkg Br Kamala Nagar Agr",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "Kosikalan, Koshikalan",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "Sanjay Palace, Zo-agra, Sanjay Palace",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 20,
+        "address": "Nagar Mahapalika-agra, Nagar Palika",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "Raja-ki-mandi, Raja-ki-mandi Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "S N M C Agra, S.N.Medical College And Hospita",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 23,
+        "address": "Sadar Bazar, Sadar Bazar",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 24,
+        "address": "Agra Cantt Rly Stn, Shoe Market",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 25,
+        "address": "Samshabad Rd, Tajganj",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 26,
+        "address": "Tajganj Agra, Tajganj Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 27,
+        "address": "Sikandara Agra, Sikandara",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 28,
+        "address": "Ahmedabad Cantt.Campus, A, Ahmedabad Cantt Branch Cantonment Campus Sadar Bazar Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 29,
+        "address": "Surya Complex Memnagar, Polytechnic [ahmedabad] Branch Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 30,
+        "address": "Narayan Nagar, Polytechnic [ahmedabad] Branch Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    }
+]

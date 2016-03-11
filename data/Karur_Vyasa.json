@@ -1,0 +1,2032 @@
+[
+    {
+        "id": 1,
+        "address": "D.No.3-2-24 Station Road Adilabad",
+        "city": "Adilabad",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "No. 20\/28-10, Railway Station Road, Beside Rajashri Hotel",
+        "city": "Adoni",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Cts No.2178, 2179 Manas Sarovar Karshethji Road Ramchandra Khunt",
+        "city": "Ahmed Nagar",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 4,
+        "address": "110, Motilal Centre, Ashram Road, Nr Vikram Chamber, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Ahmedabad Shop No.3 Shilp Complex Opp. Ratnamani Tower Satellite Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Divyang Co-op Housing Society, Jupiter House, Opp Rasna Hotel, Mani Nagar, Char Rasta, Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "City Mall, No. 4 Lawrence Road",
+        "city": "Amritsar",
+        "district": null,
+        "state": "Punjab"
+    },
+    {
+        "id": 8,
+        "address": "34, Palaniyandi Pillai Street, Anaimalai",
+        "city": "Anaimalai",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 9,
+        "address": "No.12-4-2, Near Mm Complex Opp. Dadi Viswanadham Complex, Pudimadaka Road",
+        "city": "Anakapalle",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 10,
+        "address": "No.11\/181 Meda Ramaiah Mansion Subhash Road",
+        "city": "Anantapur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "No.16 Srinivasan Street Landmark: Near Saradha Petrol Bunk",
+        "city": "Arni",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 12,
+        "address": "No.1027 Salem Cadaluru Main Road Saradha Petrol Bunk",
+        "city": "Attur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 13,
+        "address": "S.V.S.G.Complex Theni Main Road",
+        "city": "Aundipatti",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 14,
+        "address": "Flat No.1 & 2, Deepa Apartment Next To Spencer's Daily Samarth Nagar",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 15,
+        "address": "Malleswaram No.230\/2 Sampige Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 16,
+        "address": "No: 54, South End Road Basavangudi",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 17,
+        "address": "Isro No.253 3rd Main 8th Cross Isro Layout",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 18,
+        "address": "No.396\/85, 3rd Block, 11th Main, Jayanagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 19,
+        "address": "No.46 6 Th Block 6 Th Cross 100 Feet Road Koramangala",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 20,
+        "address": "549 Avenue Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 21,
+        "address": "No.869\/c 17th G Main Road V Block Rajaji Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 22,
+        "address": "\"sesha Sadan\" No.13, Cambridge Road Bangalore Pin: 560008 Karnataka Landmark: Next To East Wood High School",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "No.13-1-207 Main Road",
+        "city": "Batlagundu",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 24,
+        "address": "Sai Ganesh Plaza, Cts No: 1835, Huns Talkies Road",
+        "city": "Belgaum",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 25,
+        "address": "Bellary Kalamma Street Dr.S.K.P.Building No. 140 (1&2)",
+        "city": "Bellary",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 26,
+        "address": "Berhampur D.No.1920\/13, City High School Road",
+        "city": "Berhampur",
+        "district": "Ganjam",
+        "state": "Orissa"
+    },
+    {
+        "id": 27,
+        "address": "Bhavani No.932 Ananda Nilayam Main Road",
+        "city": "Bhavani",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 28,
+        "address": "Bhimavaram No. 22-15-91 Opp.To Mro Office",
+        "city": "Bhimavaram",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 29,
+        "address": "Bhubaneshwar Prasanthi, No.168-b, Bapuji Nagar",
+        "city": "Bhubaneshwar",
+        "district": null,
+        "state": "Orissa"
+    },
+    {
+        "id": 30,
+        "address": "Bodinayakanur No.22\/72-d Dhanam Complex Kamaraj Bazaar",
+        "city": "Bodinayakanur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 31,
+        "address": "Boduppal Plot No:2, East Hanuman Nagar Boduppal Main Road Hyderabad",
+        "city": "Boduppal",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 32,
+        "address": "Chandigarh Sco No.52 & 53 Kribhco Bhawan Sector 34-a",
+        "city": "Chandigarh",
+        "district": null,
+        "state": "Chandigarh"
+    },
+    {
+        "id": 33,
+        "address": "Chengannur Jonites Complex Ground Floor, Vellavoor Junction, Mc Road",
+        "city": "Chengannur",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 34,
+        "address": "Chennai Anna Nagar No 6 \"ac \" Block Ii Avenue Anna Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 35,
+        "address": "Chennai Arumbakkam 528, P H Road, Ssr Building, Arumbakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 36,
+        "address": "Chennai Ashok Nagar No.22-a, 7th Avenue, Ashok Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 37,
+        "address": "Chennai Kodambakkam No.1, Sakthi Nagar Main Road Kodambakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 38,
+        "address": "Chennai Sholinganallur No.52, I.T.High Way",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 39,
+        "address": "Chennai St Thomas Mount Defence Colony Road St.Thomas Mount Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 40,
+        "address": "Chennai T Nagar No.108 \/ 1, G.N.Chetty Road Near Raghavendra Temple T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 41,
+        "address": "Chennai Triplicane No.103\/1 Triplicane High Roa Tripllicane",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 42,
+        "address": "Chennai Valasaravakkam No.138, East Kamakodi Nagar Ext., Arcot Road, Valasaravakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 43,
+        "address": "Chennai Adayar No.154 Lattice Bridge Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 44,
+        "address": "Chennai Alandur No.269 M.K.N.Road Alandur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 45,
+        "address": "Ambattur Ambattur No.47, North Park Street Venkatapuram, Ambattur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 46,
+        "address": "Chennai Anna Nagar No.64, C-block, Annanagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 47,
+        "address": "Chennai Main No.46, Armenian Street",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 48,
+        "address": "Chennai Arumbakkam No.J 144 A, 50 Feet Road, Mmda Colony Arumbakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 49,
+        "address": "Chennai Ashok Nagar 22-a, 7th Avenue Ashok Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 50,
+        "address": "Chennai Chromepet No.144, Gst Road, Chrompet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 51,
+        "address": "Chennai Chromepet No.117, Statiion Road Chrompet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 52,
+        "address": "Chennai Chromepet No.8, Rajendra Prasad Road Nehru Nagar, Chrompet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 53,
+        "address": "Chennai Egmore D.No.44\/1 Pantheon Road Thiru Complex, Egmore",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 54,
+        "address": "Chennai Kodambakkam Plot No. 12, Malayappa Mudali Street, Kelambakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 55,
+        "address": "Chennai Kodambakkam 2, United India Colony Liberty Theatre Complex Kodambakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 56,
+        "address": "Chennai Main No.46, Armenian Street",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 57,
+        "address": "Chennai-mogappair No.50 Block 1 Amm Tower Thiruvallur Main Road, Moogappair",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 58,
+        "address": "Chennai Mylapore 85 Kutchery Road Mylapore Landmark: Near Head Post Office",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 59,
+        "address": "Chennai Nanganallur No.7, 48th Street, Nanganallur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 60,
+        "address": "Chennai-purasawalkam 51, Gangadeeshwar Koil Street Purasawalkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 61,
+        "address": "Chennai Royapuram No.212 (old No.105) G A Road Royapuram",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 62,
+        "address": "Chennai Velappanchavadi Saveetha Engg. College P.H.Road, Velappanchavadi",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 63,
+        "address": "Chennai Sriperumpudur Old No: 77 New No: 317 Gandhi Road Sriperumpudur",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 64,
+        "address": "Chennai St Thomas Mount 33\/26, Jawaharlal Nehru Road, Ekkatuthangal",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 65,
+        "address": "Chennai T Nagar 107 Usman Road T.Nagar Landmark: Opp The Chennai Silks And Next To G R Thangamaligai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 66,
+        "address": "Chennai Tambaram No.110 Mudichur Road Tambaram",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 67,
+        "address": "Chennai Teynampet 568, Annasalai Kvb Towers Teynampet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 68,
+        "address": "Chennai Tiruverkadu No.189, Sannathi Street, Tiruverkadu Landmark: Near Tiruverkadu Bus Terminus",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 69,
+        "address": "Urappakkam Old No 159 A I A Part, New S.No.193\/16 G.S.T.Road, Urappakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 70,
+        "address": "Chennai Valasaravakkam No.138 East Kamakodi Nagar Ext., Arcot Road Valasaravakkam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 71,
+        "address": "Chennai Velachery No.344\/11 & 12 Velachery Tamabaram Main Road Velacherry",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 72,
+        "address": "Chennai Whites Road 37 Whites Road Royapet",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 73,
+        "address": "Tiruvethipuram Cheyyar No: 7, Arcot Road, Anumandappettai",
+        "city": "Cheyyar",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 74,
+        "address": "Chidambaram Annamalai University, Annamalai Nagar",
+        "city": "Chidambaram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 75,
+        "address": "Chidambaram Gowtham Complex No.26, University Main Rd. Annamalianagar Chidambaram",
+        "city": "Chidambaram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 76,
+        "address": "Chidambaram No.93, South Car Street",
+        "city": "Chidambaram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 77,
+        "address": "Chinnalapatti D.No.11-3-36, Kamarajar Street",
+        "city": "Chinnalapatti",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 78,
+        "address": "Chinnamannur No.9-1-295, Main Road",
+        "city": "Chinnamanur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 79,
+        "address": "Chirala Banam Plaza, Vastra Nagar, Mumthavari Centre,",
+        "city": "Chirala",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 80,
+        "address": "Chittoor No.10\/243 Vcr Complex Seshapiran Street",
+        "city": "Chittor",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 81,
+        "address": "Coimbatore Main No.577, Oppanakar St.",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 82,
+        "address": "Coimbatore Nanjappa Road 483, Dr Nanjappa Road",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 83,
+        "address": "Coimbatore Ganapathy No.1391-a Vignesh Towers, Sathy Road Ganapathy",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 84,
+        "address": "Coimbatore Nanjappa Road No.332, Edayar Street Near Gandhi Park",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 85,
+        "address": "Coimbatore Main No.577, Oppanakar Street Landmark: Near Witco Corner",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 86,
+        "address": "Coimbatore Rs Puram No.249, T.V.Samy Road (east) R.S.Puram",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 87,
+        "address": "Coimbatore Saibaba Colony 399 &407, Nsr Road Saibaba Colony",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 88,
+        "address": "Coimbatore Vadavalli R.K Complex 3\/35- A, Maruthamalai Road, (opp To Town Panchayat Office) Vadavalli",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 89,
+        "address": "Coimbatore Ganapathy No.313, Ganga Hospital Campus, Mettupalayam Road",
+        "city": "Coimbatore",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 90,
+        "address": "Coimbatore Nanjappa Road Kumaraguru College Of Technology",
+        "city": "Coimbatore",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 91,
+        "address": "Coonoor No. 6, Mount Road",
+        "city": "Coonoor",
+        "district": "Nilagiri",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 92,
+        "address": "Cuddalore No.30 Car Street",
+        "city": "Cuddalore",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 93,
+        "address": "Cuddalore No.6, Bharathi Road",
+        "city": "Cuddalore",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 94,
+        "address": "Cuddapah No.13-476 Y.V.Street",
+        "city": "Cuddapah",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 95,
+        "address": "Cumbum No:35 A\/27 L.F.Road",
+        "city": "Cumbum",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 96,
+        "address": "Cuttack Plot No. 1250, Mayur Complex, Bajrakabati Road, Ranihat",
+        "city": "Cuttack",
+        "district": null,
+        "state": "Orissa"
+    },
+    {
+        "id": 97,
+        "address": "Dharapuram 251 Big Bazaar Street",
+        "city": "Dharapuram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 98,
+        "address": "Dharmavaram No.11\/495 K.P.T.Street",
+        "city": "Dharmavaram",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 99,
+        "address": "Dindigul No.7 Varadaraj Complex Main Road",
+        "city": "Dindigul",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 100,
+        "address": "Doddaballapur Municipal Shopping Complex, Doddaballapur Municiapality",
+        "city": "Doddaballapur",
+        "district": "Bangalore Rural",
+        "state": "Karnataka"
+    },
+    {
+        "id": 101,
+        "address": "Eluru No.23b-9-28\/2 R.R.Pet",
+        "city": "Eluru",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 102,
+        "address": "Erisanampatti 1\/175 Anaimalai Main Road",
+        "city": "Erisanampatti",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 103,
+        "address": "Ernakulam No.40\/1045-c I Floor Amritha Towers Congress House Jn Ernakulam - Kochin",
+        "city": "Ernakulam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 104,
+        "address": "Erode No:24 Muthurangam Street Landmark: Near Manikkoondu",
+        "city": "Erode",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 105,
+        "address": "Gajuwaka \ufffdravi Shankar Arcade\ufffd No:8-13-1, Old Gajuwaka, Nh 5, Vishakapattinam",
+        "city": "Gajuwaka",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 106,
+        "address": "Ganapathipalayam 4\/34, Naal Road Landmark: Naal Road Bus Stop",
+        "city": "Ganapathipalayam",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 107,
+        "address": "Gangavati Arikeri Rudrappa Comples, Veersavarkar Marg",
+        "city": "Gangavati",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 108,
+        "address": "Gobichettipalayam No.21 Cutchery Road Landmark: Near M G R Statue",
+        "city": "Gobichettipalayam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 109,
+        "address": "Gudivada No.66 A Eluru Road",
+        "city": "Gudivada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 110,
+        "address": "Gulbarga D.No.76 & 77 Super Market Area",
+        "city": "Gulbarga",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 111,
+        "address": "Guntur No.23-11-105 Eluru Bazar Landmark: Near Kvb Ltd Lalapeta Police Station",
+        "city": "Guntur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 112,
+        "address": "Guntur Lakshmipuram No.No.6-29-17 Matam Street Near Lakshmipuram Water Tank",
+        "city": "Guntur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 113,
+        "address": "Gurgaon Payil Cinema Complex, Sector-14",
+        "city": "Gurgaon",
+        "district": null,
+        "state": "Haryana"
+    },
+    {
+        "id": 114,
+        "address": "Hindupur No.16-1-25 T.T.Complex M.F.Road Landmark: Tt Complex",
+        "city": "Hindupur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 115,
+        "address": "Hosakote J.C.Circle K.R.Road",
+        "city": "Hosakote",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 116,
+        "address": "Hyd Nizampet Plot No: 21 & 22, Sy No: 254, Gokul Classic, Nizampet Village, Quthbullapur Mandal",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 117,
+        "address": "Hyderabad Kalyannagar Plot No.128-a Phase Iii Bus Stop Kalyan Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 118,
+        "address": "Hyderabad Main 5-2-972\/2, Nizamshahi Road, Osmangunu",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 119,
+        "address": "Hyderabad Malkajgiri D.No.25-40\/30\/3\/2, Plot No. 51, East Anand Bagh",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 120,
+        "address": "Hyderabad Manikonda Plot No.33, Near Seven Tombs, Behind Dream Valley, Puppalguda Manikonda",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 121,
+        "address": "Hyderabad Abids No.5-9-208 Anand Complex, Chirag Ali Lane Abids",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 122,
+        "address": "Hyderabad A S Rao Nagar Plot No:1 & 2, Prgathi Nagar, Dr.A.S.Rao Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 123,
+        "address": "Hyderabad Dilsukh Nagar Flat No.G-7, 8 & 9 Ground Floor, \ufffda\ufffd Block C.B.Eastern Homes, Srinagar Colony Dilsukh Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 124,
+        "address": "Hyderabad Jubilee Hills Priyadarshini House Plot No.227 Road No.1 Jubilee Hills",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 125,
+        "address": "Hyderabad Kukatpally Mig 190, Ist Phase, Kukatpally",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 126,
+        "address": "Hyderabad Nallakunta Pioneer Enclave Shivam Road Nallakunta Landmark: Near Shivam Temple",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 127,
+        "address": "Hyderabad Pragathi Nagar Satya Bhama's Srinilayam, Plot No.1256 & 1259 Lahari Estates, Pragathi Nagar, Opp. Jntu, K.P.H.B.Qutubullahpur",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 128,
+        "address": "Hyderabad Sr Nagar Shop No.1 Srt 150 Near Bk Guda Park S R Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 129,
+        "address": "Hyderabad Sr Nagar H.No:10\/a, Migh S.R.Nagar Hyderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 130,
+        "address": "Idappadi No.23 Bazaar Street",
+        "city": "Idappadi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 131,
+        "address": "Ilampillai 10-2, 83\/1, Thirumalai Gounder Street, Edappadi Road",
+        "city": "Ilampillai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 132,
+        "address": "Indore No.2-b, Rajgarh Kothi, A.B.Road",
+        "city": "Indore",
+        "district": null,
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 133,
+        "address": "Jaipur P-5\/2- M.I.Road Durga Business Centre Opp. Hotel Gangour",
+        "city": "Jaipur",
+        "district": null,
+        "state": "Rajasthan"
+    },
+    {
+        "id": 134,
+        "address": "Kadiyam Survey No.114\/3 High School Road",
+        "city": "Kadiyam",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 135,
+        "address": "Kakinada No.15-26-1-15 16 Temple Street",
+        "city": "Kakinada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 136,
+        "address": "Kallakurichi No.11, Kutcherry Raod Opp To Subtreasury Office",
+        "city": "Kallakurichi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 137,
+        "address": "Kancheepuram No.509, Gandhi Road",
+        "city": "Kancheepuram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 138,
+        "address": "Kangeyam No.716 Ground Floor Tirupur Road Landmark: Opp Kangayam Daily Market",
+        "city": "Kangeyam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 139,
+        "address": "Kankipadu Door No.2-104, Kankipadu Main Road",
+        "city": "Kankipadu",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 140,
+        "address": "Karaikal No. 56, Church Street",
+        "city": "Karaikal",
+        "district": null,
+        "state": "Pondicherry"
+    },
+    {
+        "id": 141,
+        "address": "Karaikudi No.167 Sekkalai Road",
+        "city": "Karaikudi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 142,
+        "address": "Karim Nagar No.2-6-283 & 284 C.V.R.N.Road",
+        "city": "Karim Nagar",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 143,
+        "address": "Karur Central Light House Corner No. 154, Avs & Avr Petrol Pump Dindigul Road",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 144,
+        "address": "Karur Gandhigramam No.B-3 Main Road Gandhigramam Landmark: Pks Complex",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 145,
+        "address": "Karur Main No.633-635 Jawahar Bazar",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 146,
+        "address": "A Karur Central No.65 Jawahar Bazaar",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 147,
+        "address": "Karur Central No.65, Jawahar Bazzar Landmark: Near Bus Stand",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 148,
+        "address": "Karur West Lns Erode Road Lns Post",
+        "city": "Karur",
+        "district": "Karur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 149,
+        "address": "Kavindapadi 122 Sathy Road",
+        "city": "Kavindapadi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 150,
+        "address": "Khammam V V C Complex Wyra Road",
+        "city": "Khammam",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 151,
+        "address": "Kodad Near Huzur Nagar Cross Road, Rajiv Chowk Survey No:1057, Block - 12",
+        "city": "Kodad",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 152,
+        "address": "Kolar Gold Fields No.997 B.M.Road Near Sooraj Circle",
+        "city": "Kolar Gold Fieldsm",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 153,
+        "address": "Kolkata Shakespeare Sarani No.37 Ground Floor S.B.Towers Shakespeare Sarani",
+        "city": "Kolkata",
+        "district": null,
+        "state": "West Bengal"
+    },
+    {
+        "id": 154,
+        "address": "Komarapalayam No.233 Salem Main Road",
+        "city": "Komarapalayam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 155,
+        "address": "Kottayam Xviii\/93 Baker Junction Lane",
+        "city": "Kottayam",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 156,
+        "address": "Kovaipudur Sf No.111 & 110\/1 B, Plot No: N10, Sundakkamuthur Village, Cbm College Road, Coimbatore",
+        "city": "Kovaipudur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 157,
+        "address": "Kovilpatti No.868 Main Road",
+        "city": "Kovilpatti",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 158,
+        "address": "Kozhikode No. 11\/128 Pramod Buildings 'g' Floor, Cherooty Road",
+        "city": "Kozhikode",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 159,
+        "address": "Krishnagiri S.P.Commercial Complex No.481",
+        "city": "Krishnagiri",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 160,
+        "address": "Kulithalai No.4 Andar Main Road",
+        "city": "Kulithalai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 161,
+        "address": "Kumbakonam 129 T.S.R. Big Street",
+        "city": "Kumbakonam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 162,
+        "address": "Kurnool No.42\/116 A Gowli Street Near Control Room",
+        "city": "Kurnool",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 163,
+        "address": "Lucknow No.4\/46, Vivek Khand, Opp Kendriya Vidyalaya",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 164,
+        "address": "Ludhiana Brar Complex Main Dugri Road Model Town",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 165,
+        "address": "Machilipatnam No.11\/304, Rajagiri Centre Beside Sri Venkat Theatre",
+        "city": "Machilipatnam",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 166,
+        "address": "Madurai Tallakulam No.148 Alagar Koil Street Tallakulam",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 167,
+        "address": "Madurai Annanagar Hig 42, 80 Feet Road, Anna Nagar",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 168,
+        "address": "Madurai Gnanaolivupuram 16, A A Road Kvb Gayathri Illam Gnanaolivupuram",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 169,
+        "address": "Madurai Main No.159 South Masi Street",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 170,
+        "address": "Madurai Main No:44 West Tower Street",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 171,
+        "address": "Madurai Tallakulam No:279\/36, Kamarajar Salai, Madurai",
+        "city": "Madurai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 172,
+        "address": "Mandapeta No.9-1-6 Kapileswarapuram Road Ratam Centre",
+        "city": "Mandapeta",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 173,
+        "address": "Hyderabad Manikonda Plot No.33, Near Seven Tombs Behind Dream Valley Puppalguda Manikonda",
+        "city": "Manikonda",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 174,
+        "address": "Mayiladuthurai No. 82 Town Extension Road (near Hotel Pams)",
+        "city": "Mayiladuthurai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 175,
+        "address": "Mettukadai No.69, Nall Road",
+        "city": "Mettukadai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 176,
+        "address": "Mettur Dam No.14-1\/77b-1 Emkeyes Complex Salem Main Road",
+        "city": "Mettur Dam R.s",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 177,
+        "address": "Mulanur 55 Karur Main Road",
+        "city": "Mulanur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 178,
+        "address": "Mumbai Andheri East No.1 & 2, Everest Grande Ground Floor, Plot No.34, Mahakali Caves Rd. Near Ahura Centre, Andheri East",
+        "city": "Mumbai",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 179,
+        "address": "Mumbai Borivaili Sunrise View Apartments Shop No.4 To 7, Opp:lt Road Eskar Village, Nr.Vaziara Naka Bus Stop Landmark: Baburao Paranjpe Marg",
+        "city": "Mumbai",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 180,
+        "address": "Mumbai Mulund No.6\/11, New Happy Life Chs R.H.B.Road, Muland (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 181,
+        "address": "Nerul Shop No 12, 13, 14 - Ambika Apartments, Plot No 10, Sector No 42-a, Nerul, Navi Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 182,
+        "address": "Mumbai Thane Shop No.1, 2, 3 - Vihang Vihar Co-op. Housing Society Ltd M.L. Dhingra Road, Panchpakhadi, Thane (w)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 183,
+        "address": "Mumbai Chembur Kashi Niketan, No.83 N.G.Acharya Marg Nr.Railway Station, Chembur(east)",
+        "city": "Mumbai Chembur",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 184,
+        "address": "Musiri No.59 Thuraiyur Road",
+        "city": "Musiri",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 185,
+        "address": "Nagapattinam No.9 Naduvar Keela Street Landmark: Nalukal Mandapam Bus Stop",
+        "city": "Nagappatinam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 186,
+        "address": "Nagari No.9\/160, Pallipet Road, Opposite To Girls High School, Near Bus Stand, Chittordis Satharwada",
+        "city": "Nagari",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 187,
+        "address": "Nagercoil No.75-a, Court Road",
+        "city": "Nagercoil",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 188,
+        "address": "Nagpur Plot No 740, Dalmia Sadan Central Avenue Road Near Seva Sadan Square",
+        "city": "Nagpur",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 189,
+        "address": "Namagiripet No. 75\/1 Attur Main Road",
+        "city": "Namagiripet",
+        "district": "Namakkal",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 190,
+        "address": "Namakkal Main Kanna Super Markets No.1 Paramathi Road",
+        "city": "Namakkal",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 191,
+        "address": "Namakkal West No.6\/68 Annanagar Paramathy Road Landmark: Kanna Super Markets",
+        "city": "Namakkal",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 192,
+        "address": "Nandyal B-41 Srinivasa Nagar - Main Road",
+        "city": "Nandyal",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 193,
+        "address": "Nasik Vishwanath Sankul College Road Opp. Vijan Hospital Near Big Bazaar",
+        "city": "Nasik",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 194,
+        "address": "Nellore No.15\/78 Brindavanam",
+        "city": "Nellore",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 195,
+        "address": "New Delhi Kashmere Gate Kashmere Gate No.1 \/ 776, Nicholson Road Kashemre Gate",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 196,
+        "address": "Delhi Ramesh Nagar No:b-97-sharadapuri Ramesh Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 197,
+        "address": "New Delhi East Of Kailash No.3 Sant Nagar East Of Kailash",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 198,
+        "address": "New Delhi Karolbagh No 882, Pritvi Nath Marg, Opp To Ajmal Khan Park, Karolbagh",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 199,
+        "address": "New Delhi Lawrence Road B-3 Keshavapuram M.S. Vidayala Campus Lawrence Road",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 200,
+        "address": "New Delhi Rohini No.C 3\/10 Prashant Vihar Sector - 14 Rohini",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "New Delhi"
+    },
+    {
+        "id": 201,
+        "address": "Neyveli Block No.16 Amaravathi Bazar Near Amaravathi Theater",
+        "city": "Neyveli",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 202,
+        "address": "Neyveli Plot No:44, P.T.R.Nagar, Indira Nagar, Vadakuthu Po",
+        "city": "Neyveli",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 203,
+        "address": "Nidadavolu No.10-11-38 Opp. Rtc Bus Stand",
+        "city": "Nidadavolu",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 204,
+        "address": "Nizamabad No.7-1-527 Ramgopal Street Godown Road",
+        "city": "Nizamabad",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 205,
+        "address": "Noida A - 354, Sector 19, Near Atta Chowk",
+        "city": "Noida",
+        "district": null,
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 206,
+        "address": "Ongole Main Gate Entrance Sri Bapuji Market Complex Trunk Road",
+        "city": "Ongole",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 207,
+        "address": "Palakkad No.10\/259(9) Vellan Street Sultanpet Junction",
+        "city": "Palakkad",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 208,
+        "address": "Palakol No.13-1-11\/9, Annanagar, Chennai . Jetty Tank Road",
+        "city": "Palakol",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 209,
+        "address": "Palani No.3, Gandhi Road",
+        "city": "Palani",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 210,
+        "address": "Palayamkottai 117\/b, K R Shopping Complex Trivandrum Road",
+        "city": "Palayamkottai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 211,
+        "address": "Palladam No.111 \/ C, Trichy Main Road",
+        "city": "Palladam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 212,
+        "address": "Panipat No. 932 935 Ward No.8, City Centre, G.T.Karnal Main Road, Opp. I.B.College",
+        "city": "Panipat",
+        "district": null,
+        "state": "Haryana"
+    },
+    {
+        "id": 213,
+        "address": "Paundamangalam No.1\/k-1 Bye-pass Road",
+        "city": "Paundamangalam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 214,
+        "address": "Periyakulam No.3 Vasantha Vihar Building Cumbum Road",
+        "city": "Periyakulam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 215,
+        "address": "Perundurai Kec Nagar Kongu Engg. College Thoppupalayam",
+        "city": "Perundurai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 216,
+        "address": "Perundurai No..486\/55 Bhavani Main Road",
+        "city": "Perundurai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 217,
+        "address": "Pollachi 67\/33 Venkataramanan Street",
+        "city": "Pollachi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 218,
+        "address": "Polur 41\/2, 3-4 Cuddalore Chittoor Road",
+        "city": "Polur",
+        "district": "Tiruvanamalai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 219,
+        "address": "Pondicherry 30 Jawaharlal Nehru Street Landmark: Next Traffic Police Station Hq",
+        "city": "Pondicherry",
+        "district": null,
+        "state": "Pondicherry"
+    },
+    {
+        "id": 220,
+        "address": "Pondicherry Sri Meenakshi In No:239, Maraimalai Adigal Salai Landmark: Opp To New Bus Stand",
+        "city": "Pondicherry",
+        "district": null,
+        "state": "Pondicherry"
+    },
+    {
+        "id": 221,
+        "address": "Poranki 13-146, M.G.Road Poranki Centre, Penamaluru Mandalam Poranki Vijayawada",
+        "city": "Poranki",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 222,
+        "address": "Proddatur 4\/100 Mydukur Road",
+        "city": "Proddatur",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 223,
+        "address": "Pudukottai No. 5504-5505, Marthandapuram First Street",
+        "city": "Pudukottai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 224,
+        "address": "Pune Bldg. No.5 Bakre Apartments Near Shivaji Chowk Kothrud",
+        "city": "Pune",
+        "district": null,
+        "state": "Maharashtra"
+    },
+    {
+        "id": 225,
+        "address": "Raichur Raichur Rice Millers Association Lingsugur Road Gabdhi Chowk",
+        "city": "Raichur",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 226,
+        "address": "Raja Annamalai Puram 17 \/ 5, Kamarajar Salai Srinivasa Avenue Raja Annamalai Puram Chennai",
+        "city": "Raja Annamalai Puram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 227,
+        "address": "Rajahmundry No. 29-14-58 Ward No.13, Lakhmivarapupet",
+        "city": "Rajahmundry",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 228,
+        "address": "Rajapalayam No.33 Railway Feeder Road",
+        "city": "Rajapalayam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 229,
+        "address": "Rajkot R.G.C.Complex Trikan Baug",
+        "city": "Rajkot",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 230,
+        "address": "Rallabuduguru 2-116 Gandhi Road Kuppam Taluk Chittoor Fist.",
+        "city": "Rallabuduguru",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 231,
+        "address": "Ramanathapuram Salai Street",
+        "city": "Ramanathapuram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 232,
+        "address": "Ravulapalem Next To Srinivasa Theatre, Opp: Andhra Bank (rcb) Branch, Main Road, Ravulapalem East God",
+        "city": "Ravulapalem",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 233,
+        "address": "Salem Alagapuram No.269-a Bharathi St., Swarnapuri Alagapuram",
+        "city": "Salem",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 234,
+        "address": "Salem Alagapuram 45-46, Car Street Salem",
+        "city": "Salem",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 235,
+        "address": "Salem Alagapuram No.338\/101 H, Saradha College Road",
+        "city": "Salem",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 236,
+        "address": "Salem Alagapuram 45-46, Car Street",
+        "city": "Salem",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 237,
+        "address": "Salem Shevapet No.400\/2, Main Road Shevapet",
+        "city": "Salem",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 238,
+        "address": "Sampath Nagar D.No.45\/2, Perundurai Road Opposite Rana Kalyana Mandapam Sampath Nagar Erode",
+        "city": "Sampath Nagar",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 239,
+        "address": "Sathyamangalam No.98 Bazaar Street",
+        "city": "Sathyamangalam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 240,
+        "address": "Secunderabad No.6549, Rashtrapathi Road",
+        "city": "Secunderabad",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 241,
+        "address": "Kalappanaickenpatti No: 74\/1 (old No.51 A), Main Road",
+        "city": "Sendamangalam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 242,
+        "address": "Shimoga Bedre Complex Nehru Road Shimoga Bangalore",
+        "city": "Shimoga",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 243,
+        "address": "Ahmedabad Shirdi Hotel Sai Gangotri Nagar Manmad Road Shirdi Ahmedabad",
+        "city": "Shirdi",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 244,
+        "address": "Singaperumal Koil No. 23\/13b1 & 23\/12 A2 G.S.T.Road Singaperumal Koil",
+        "city": "Singaperumal Koil",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 245,
+        "address": "Sivagiri No.124, Anna Street, Main Road",
+        "city": "Sivagiri",
+        "district": "ERODE",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 246,
+        "address": "Sivakasi No.34 New Road Landmark: Near Kamak Irumbu Kadai",
+        "city": "Sivakasi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 247,
+        "address": "Somanur S.F.No.272\/1 Karumuthampatti Main Road Somanur. Coimbatore",
+        "city": "Somanur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 248,
+        "address": "Srikakulam D. No. 6-1-57 & 58, Murthy Nivas, Palakonda Road, Near Krishna Park Mobile: 98494-41788 Tel 1 : 98494-41788",
+        "city": "Srikakulam",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 249,
+        "address": "Surat 103-104, Silver Plaza Complex Belgium Square Ring Road Landmark: Opp Linear Bus Stand",
+        "city": "Surat",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 250,
+        "address": "Suriyur Anna University Trichy Campus, Academic Block",
+        "city": "Suriyur",
+        "district": "Tiruchirapalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 251,
+        "address": "Tadepalligudem No.2-1-18(2) Main Road",
+        "city": "Tadepalligudem",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 252,
+        "address": "Tenali No.2-20-17 Kurra Veera Raghavaiah Complex Nehru Road",
+        "city": "Tenali",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 253,
+        "address": "Tenkasi Rehman Plaza No.156\/43-a North Masi Street",
+        "city": "Tenkasi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 254,
+        "address": "Thanjavur Balu Complex No.1653",
+        "city": "Thanjavur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 255,
+        "address": "Theni Ward No.117 Door No.476\/6, S S Complex Periyakulam Road",
+        "city": "Theni",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 256,
+        "address": "Thiruvananthapuram Tc, 25\/1437, S.S.Koil Street, Thampanoor",
+        "city": "Thiruvananthapuram",
+        "district": null,
+        "state": "Kerala"
+    },
+    {
+        "id": 257,
+        "address": "Thiruvanamalai S.M.Thirumana Mahal, No. 16, Polur Road",
+        "city": "Thiruvannamalai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 258,
+        "address": "Thiruvanamalai 33 Sannathi Street",
+        "city": "Thiruvannamalai",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 259,
+        "address": "Tindivanam 16 Perumal Koil Sannathi Street",
+        "city": "Tindivanam",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 260,
+        "address": "Tiruchengode 77 & 78, Tepakulam Street Sankari Road",
+        "city": "Tiruchengode",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 261,
+        "address": "Tiruchengode No. 360 Shiva Buildings Pallipalayam Main Road Ksr College",
+        "city": "Tiruchengode",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 262,
+        "address": "Tiruchengode Koottapally Housing Board Colony, Near Water Tank Bus Stop",
+        "city": "Tiruchengodu",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 263,
+        "address": "Tirunelveli Town No.155-158 Peryam Complex West Car St.",
+        "city": "Tirunelveli Town",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 264,
+        "address": "Tirupathi Main 631 Mosque Road",
+        "city": "Tirupathi",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 265,
+        "address": "Tirupathi Kadhi Colony No.1248\/a N.G.O's Colony K.T.Road",
+        "city": "Tirupathi",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 266,
+        "address": "Belgaum No.315, Kumaran Road",
+        "city": "Tirupur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 267,
+        "address": "Tirupur Pn Road No.282 Ground Floor P.N.Road",
+        "city": "Tirupur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 268,
+        "address": "Thiruvarur No:19 A, East Street",
+        "city": "Tiruvarur",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 269,
+        "address": "Trichy Thillai Nagar C-18 Iii Cross Sri Ram Towers Thillai Nagar",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 270,
+        "address": "Trichy K K Nagar No.1 & 2, Managamma Salai, K.K.Nagar",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 271,
+        "address": "Trichy Cantonment 5, Bharathiar Salai Jennie Plaza Cantonment",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 272,
+        "address": "Trichy Srirangam No B - 14\/27, E.V.S Street, Renga Nagar, Srirangam",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 273,
+        "address": "Trichy Main 20 - 24, Theradikadai Street, Tiruchirapalli",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 274,
+        "address": "Trichy Thillai Nagar C-18, Iii Cross, Sri Ram Towers, Thillai Nagar",
+        "city": "Trichy",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 275,
+        "address": "Tumkur Tumkur Shopping Complex, B.H.Road",
+        "city": "Tumkur",
+        "district": null,
+        "state": "Karnataka"
+    },
+    {
+        "id": 276,
+        "address": "Tuticorin No.280 West Great Cotton Road",
+        "city": "Tuticorin",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 277,
+        "address": "Udumalpet 2\/3, Kalpana Road",
+        "city": "Udumalpet",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 278,
+        "address": "Vadodara No.13 Sidcup Tower Race Course Circle",
+        "city": "Vadodara",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 279,
+        "address": "Periyakulam No:3 - 1 - 61, Amman Sannathi Road, Near Bus Stand, Vadugapatti, Periakulam Periyakulam",
+        "city": "Vadugapatti",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 280,
+        "address": "Vandavasi No.46 Sannathi Street",
+        "city": "Vandavasi",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 281,
+        "address": "Vellakoil No 28 Main Road Vellakoil",
+        "city": "Vellakoil",
+        "district": "Erode",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 282,
+        "address": "Vellore No.114\/67 Opp.To Cmc Hospital Arcot Road",
+        "city": "Vellore",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 283,
+        "address": "Vijayawada Bunder Road No.38-8-46 M.G.Road Labbipet",
+        "city": "Vijayawada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 284,
+        "address": "Vijayawada Governorpet No.27-16-81, Jeevan Krishna (lic) Building, . Governorpet",
+        "city": "Vijayawada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 285,
+        "address": "Vijayawada One Town No.11-25-74\/a\/7 Main Road Opp.Jain Public School",
+        "city": "Vijayawada",
+        "district": null,
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 286,
+        "address": "Villupuram 730 G, Subbaraya Pillai Punniyavathi Ammal Complex Nehruji Road",
+        "city": "Villupuram",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 287,
+        "address": "Virudhunagar Msps, Yj Plaza 47\/1, Katcheri Road",
+        "city": "Virudhunagar",
+        "district": null,
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 288,
+        "address": "Visakhapatnam Peda Waltair No.1-1-114\/22 Ramalakshmi Estates Peddawaltair, Shivajipalem Road, Vizag",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 289,
+        "address": "Visakhapatnam Main 12-1-18, Near Green Park Hotel Waltair Main Road",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 290,
+        "address": "Vizianagaram No.5-1-11 Dhanavardhana Complex Ncs Road Mobile: 235145 Tel 1 : 235145 Tel 2: 222150",
+        "city": "Vizianagaram",
+        "district": null,
+        "state": "Andhra Pradesh"
+    }
+]

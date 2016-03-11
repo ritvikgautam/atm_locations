@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "address": "32- Bhuleshwar Society",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 2,
+        "address": "10-11 Empire Tower, Panchwati",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "Gujarat Vidhyapith, Nagindas Chambers, Usmanpuraashram Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "Jawahar Chowk, Maninagar",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Near Govt.Hospital, Ahore",
+        "city": "Ahore",
+        "district": "Jalor",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 6,
+        "address": "Temple, Dargah Bazar",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 7,
+        "address": "Naka Madar",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 8,
+        "address": "Shastri Nagar",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 9,
+        "address": "12\/120, Ram Bharose Bhawan",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 10,
+        "address": "Gopal Building, Near Bus Stand",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 11,
+        "address": "Ashok Circle, Nangli Ka Chouraha",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 12,
+        "address": "Sanjay Gandhi Marg, Sadar Bazar",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 13,
+        "address": "Jaipur",
+        "city": "Amber",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 14,
+        "address": "Sriganganagar",
+        "city": "Anupgarh",
+        "district": "Ganganagar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 15,
+        "address": "Dungarpur",
+        "city": "Aspur",
+        "district": "Dungarpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 16,
+        "address": "Baran",
+        "city": "Atru",
+        "district": "Baran",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 17,
+        "address": "Institute, P.D.Memorial Religious And Educational Association Premises, Sarai Aurangabad",
+        "city": "Bahadurgarh",
+        "district": "Jhajjar",
+        "state": "Haryana"
+    },
+    {
+        "id": 18,
+        "address": "Delhi Rohtak Road",
+        "city": "Bahadurgarh",
+        "district": "Jhajjar",
+        "state": "Haryana"
+    },
+    {
+        "id": 19,
+        "address": "Bali",
+        "city": "Bali",
+        "district": "Pali",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 20,
+        "address": "Barmer",
+        "city": "Balotra",
+        "district": "Barmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 21,
+        "address": "Sikanda Road",
+        "city": "Bandikui",
+        "district": "Dausa",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 22,
+        "address": "Siwan Chetty Garden",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "Collectorate, New Cloth Market",
+        "city": "Banswara",
+        "district": "Banswara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 24,
+        "address": "Hospital Road",
+        "city": "Baran",
+        "district": "Baran",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 25,
+        "address": "Collectorate, Baran Collectorate Baran",
+        "city": "Baran",
+        "district": "Baran",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 26,
+        "address": "Tehsil Permises Ghanta Ghar Chouraha, Bari Sadri",
+        "city": "Bari Sadri",
+        "district": "Chittorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 27,
+        "address": "Barmer",
+        "city": "Barmer",
+        "district": "Barmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 28,
+        "address": "Collectorate, Barmer Collectorate Barmer",
+        "city": "Barmer",
+        "district": "Barmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 29,
+        "address": "Shivshakti Co - Op.Housing Society Ltd",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 30,
+        "address": "Jaipur",
+        "city": "Bassi",
+        "district": "Chittorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 31,
+        "address": "Bharatpur",
+        "city": "Bayana",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 32,
+        "address": "National Highway, Hotel Vinod, Hemlan Market",
+        "city": "Beawar",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 33,
+        "address": "Pali Bazar, Kothi Chowk Chauraha",
+        "city": "Beawar",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 34,
+        "address": "Uit Campus",
+        "city": "Bharatpur",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 35,
+        "address": "Collectorate, Treasury Building",
+        "city": "Bharatpur",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 36,
+        "address": "Station Raod",
+        "city": "Bhawani Mandi",
+        "district": "Jhalawar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 37,
+        "address": "Bhopalganj",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 38,
+        "address": "Purana Chunginaka Bldg., Magh Chowk Nagarpalika",
+        "city": "Bhinmal",
+        "district": "Jalor",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 39,
+        "address": "Bhiwadi",
+        "city": "Bhiwadi",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 40,
+        "address": "Hospital Road, Dr Ambedkar Circle",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 41,
+        "address": "Drm Office, Bikaner",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 42,
+        "address": "Naganechic Road",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 43,
+        "address": "Industrial Area",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 44,
+        "address": "No.11, D 107",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 45,
+        "address": "Jassusar Gate",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 46,
+        "address": "Public Park",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 47,
+        "address": "Admn Office, Chief Engineer",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 48,
+        "address": "Jodhpur",
+        "city": "Bilara",
+        "district": "Bilara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 49,
+        "address": "Indira Market",
+        "city": "Bundi",
+        "district": "Bundi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 50,
+        "address": "Iocl Petrol Pump Nh-12",
+        "city": "Chaksu",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 51,
+        "address": "S.C.F.No.5, Sector - 17 D",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 52,
+        "address": "Booth No.19, Sector 41-d",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 53,
+        "address": "27 - 10 Avenue",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 54,
+        "address": "No.5, R.K.Mutt Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 55,
+        "address": "Opp.Sivavishu Temple South Usman Road, T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 56,
+        "address": "Uti House 29, Rajaji Salai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 57,
+        "address": "Opp.Sivavishu Temple South Usman Road, T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 58,
+        "address": "Chirawa",
+        "city": "Chirawa",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 59,
+        "address": "Near Collectorate Office",
+        "city": "Chittorgarh",
+        "district": "Chittorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 60,
+        "address": "Chomu Jaipur",
+        "city": "Chomu",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 61,
+        "address": "Collectorate",
+        "city": "Churu",
+        "district": "Churu",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 62,
+        "address": "Sbbj Dausa Collectorate Dausa",
+        "city": "Dausa",
+        "district": "Dausa",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 63,
+        "address": "Dausa",
+        "city": "Dausa",
+        "district": "Dausa",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 64,
+        "address": "Udaipur",
+        "city": "Debari Zinc Smelter",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 65,
+        "address": "Nagaur",
+        "city": "Degana",
+        "district": "Nagaur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 66,
+        "address": "P.B.No.3",
+        "city": "Dhariawad",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 67,
+        "address": "Secretariat Courts Building",
+        "city": "Dholpur",
+        "district": "Dholpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 68,
+        "address": "Nagaur",
+        "city": "Didwana",
+        "district": "Nagaur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 69,
+        "address": "Collectorate, Main Bazar Dungarpur",
+        "city": "Dungarpur",
+        "district": "Dungarpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 70,
+        "address": "Po Box No.1064, Awasthi",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 71,
+        "address": "College Road",
+        "city": "Falna",
+        "district": "Pali",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 72,
+        "address": "26 Railway Road, Near Bata Chowk",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 73,
+        "address": "Sikariya Churasta, Main Market Fatehpur Shekhawati Sikar",
+        "city": "Fatehpurshekhawati",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 74,
+        "address": "Jain Complex, Kachchari Rd.Gangapur City",
+        "city": "Gangapur City",
+        "district": "Sawai Madhopur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 75,
+        "address": "Near Bus Stand",
+        "city": "Gogunda",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 76,
+        "address": "117 \/ 118, Shopping Mall Dlf",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 77,
+        "address": "Collectorate, Colletrorate",
+        "city": "Hanumangarh",
+        "district": "Hanumangarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 78,
+        "address": "Hanumangarh",
+        "city": "Hanumangarh Junction",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 79,
+        "address": "National Highway",
+        "city": "Hindoli",
+        "district": "Bundi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 80,
+        "address": "P.O.Box No.1501, Somaji Goda",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 81,
+        "address": "6 - Kanthi Mansion, Sanyogitaganj",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 82,
+        "address": "Om Tower, Mi Road",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 83,
+        "address": "233-opp Narang Tent House Adarsh Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 84,
+        "address": "Shop No.452, Sirahdiyodi Bazar Chandi Ki Taksal",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 85,
+        "address": "Bhawani Singh Road, Bapu Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 86,
+        "address": "Burmese Colony Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 87,
+        "address": "C Scheme",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 88,
+        "address": "C 8 \/ 2, Chitrakoot",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 89,
+        "address": "Collectorate Office, Reserve Police Lines, Chandpole",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 90,
+        "address": "Collectorate Office, Ac-4 Gayatri Sadan",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    }
+]

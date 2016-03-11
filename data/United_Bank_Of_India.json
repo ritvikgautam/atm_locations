@@ -1,0 +1,1542 @@
+[
+    {
+        "id": 1,
+        "address": "C\/o Lt Kanal Roy, Akhaura Road, , Old Rms Chowmani , Dist - West Tripura",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 2,
+        "address": "8\/338, Nala Bhairon, , Freeganj",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "United Bank Of India Building, Lal Darwaja",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "33d, Mahatama Gandhi Margh, , Civil Lines",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Andul Mori Road, P.O.Andul Distt.Howrah",
+        "city": "Andul",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 6,
+        "address": "Andul Mori Road, P.O.Andul Distt.Howrah",
+        "city": "Andul",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 7,
+        "address": "Link Road, Opposite Ubi Buliding, Arambagh",
+        "city": "Arambagh",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 8,
+        "address": "Link Road, Opposite Ubi Buliding, Arambagh",
+        "city": "Arambagh",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 9,
+        "address": "Asansol Municipal Corporation Bldg, ,",
+        "city": "Asansol",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 10,
+        "address": "Sonajuri, , Bakkreswar Tpp Township",
+        "city": "Bakkreswar",
+        "district": "Birbhum",
+        "state": "West Bengal"
+    },
+    {
+        "id": 11,
+        "address": "Sonajuri, , Bakkreswar Tpp Township",
+        "city": "Bakreswar",
+        "district": "Birbhum",
+        "state": "West Bengal"
+    },
+    {
+        "id": 12,
+        "address": "Ubi Dunlop More, Dakshin Dinajpur, Balurghat",
+        "city": "Balurghat",
+        "district": "South Dinajpur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 13,
+        "address": "Airdeccan Corporate Office, Ali Asagar Road, , Po- Basant Nagar, Cunningham Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 14,
+        "address": "Ubi Bldgs, Plot No.100, Opp.Infosys Technologies",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 15,
+        "address": "Jogeswar Bhawan, 551\/3, Rabindra Sarani",
+        "city": "Bankura",
+        "district": "Bankura",
+        "state": "West Bengal"
+    },
+    {
+        "id": 16,
+        "address": "Rudra Main Road, Disst.Hooghly",
+        "city": "Bansberia",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 17,
+        "address": "Barauni Railway Station,",
+        "city": "Barauni",
+        "district": "Begusarai",
+        "state": "Bihar"
+    },
+    {
+        "id": 18,
+        "address": "56, Civil Lines, Near Pratap Talkies",
+        "city": "Bareily",
+        "district": "Bareily",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "H\/o Tarun Kundu, Natun Bazar, Itinda Road",
+        "city": "Basirhat",
+        "district": "North 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 20,
+        "address": "1&2, Dr.S.N Bhattacharjee Road, Berhampur, Murshidabad",
+        "city": "Berhampur",
+        "district": "Murshidabad",
+        "state": "West Bengal"
+    },
+    {
+        "id": 21,
+        "address": "Market Building,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 22,
+        "address": "Plot No.E-6, City Centre",
+        "city": "Bokaro",
+        "district": "Bokaro",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 23,
+        "address": "Plot No.E-6, City Centre",
+        "city": "Bokaro",
+        "district": "Bokaro",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 24,
+        "address": "Station Road,",
+        "city": "Bolepur",
+        "district": "Birbhum",
+        "state": "West Bengal"
+    },
+    {
+        "id": 25,
+        "address": "Station Road,",
+        "city": "Bolepur",
+        "district": "Birbhum",
+        "state": "West Bengal"
+    },
+    {
+        "id": 26,
+        "address": "P.O Bondamunda, Sundargarh",
+        "city": "Bondamunda",
+        "district": "Sundargarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 27,
+        "address": "Bata More, Jessore Road, Bongaon",
+        "city": "Bongaon",
+        "district": "North 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 28,
+        "address": "8\/2, , Deshbandhu Chittaranjan Road",
+        "city": "Budge Budge",
+        "district": "South 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 29,
+        "address": "8\/2, , Deshbandhu Chittaranjan Road",
+        "city": "Budge Budge",
+        "district": "South 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 30,
+        "address": "Chakdah Municipility Bldg., N.S.Road, Chakdah, Nadia",
+        "city": "Chakdah",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 31,
+        "address": "Vill & P.O.Champahati, (south Garia More), Distt.24 Prgns (n)",
+        "city": "Champahati",
+        "district": "South 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 32,
+        "address": "Vill & P.O.Champahati, (south Garia More), Distt.24 Prgns (n)",
+        "city": "Champahati",
+        "district": "South 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 33,
+        "address": "41, G.T.Road, Chandannagar",
+        "city": "Chandannagar",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 34,
+        "address": "Sco\/32\/33\/34, Sector 17 C",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 35,
+        "address": "Sco\/32\/33\/34, Sector 17 C",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 36,
+        "address": "117, Kutchery Road, Mylapore",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 37,
+        "address": "294, , Anna Salai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 38,
+        "address": "1513-e, East Main Road, Anna Nagar, Western Extension",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 39,
+        "address": "Ubi, Putherical, Building Market Road,",
+        "city": "Cochin",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 40,
+        "address": "Po Box No 70, 24\/831-832, Oppanakara Street",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Kerala"
+    },
+    {
+        "id": 41,
+        "address": "25, H M Lama Road, Darjeeling",
+        "city": "Darjeeling",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 42,
+        "address": "City Centre, Near Combined Building",
+        "city": "Dhanbad",
+        "district": "Dhanbad",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 43,
+        "address": "Ubi, Naharkatia, Dibrugarh",
+        "city": "Dibrugarh",
+        "district": "Dibrugarh",
+        "state": "Assam"
+    },
+    {
+        "id": 44,
+        "address": "Howrah Amta Road, Near Domjur Police Station",
+        "city": "Domjur",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 45,
+        "address": "Howrah Amta Road, Near Domjur Police Station",
+        "city": "Domjur",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 46,
+        "address": "Stall No- 32, New Market",
+        "city": "Durgachak",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 47,
+        "address": "Ubi City Center, Near Dmc, , Durgapur",
+        "city": "Durgapur",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 48,
+        "address": "Sbsstc, Garage More, , B.C.Ray Avenue,",
+        "city": "Durgapur",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 49,
+        "address": "Mayabazar,",
+        "city": "Durgapur",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 50,
+        "address": "Bn-103, Sect-2(a), Yuri Gagarin Path, Bidhannagar",
+        "city": "Durgapur",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 51,
+        "address": "Ubi Gangarampur, , Khudiram Market, Dakshin Dinajpur",
+        "city": "Gangarampur",
+        "district": "South Dinajpur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 52,
+        "address": "M G Marg, Gangtok,",
+        "city": "Gangtok",
+        "district": "Gangtok",
+        "state": "Sikkim"
+    },
+    {
+        "id": 53,
+        "address": "Ubi Gaya, 30 K P Road, , Near Kotwali Chowk",
+        "city": "Gaya",
+        "district": "Gaya",
+        "state": "Bihar"
+    },
+    {
+        "id": 54,
+        "address": "Po-8, Giridi Branch, Giridi",
+        "city": "Giridi",
+        "district": "Giridih",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 55,
+        "address": "Assam Sachibalaya,",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 56,
+        "address": "Assam Sachibalaya, Guwahati",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 57,
+        "address": "H\/o Dilip Saha, Moscow Shoe House, Jessore Road, Habra",
+        "city": "Habra",
+        "district": "North 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 58,
+        "address": "H\/o Dilip Saha, Moscow Shoe House, Jessore Road, Habra",
+        "city": "Habra",
+        "district": "North 24 Parganas",
+        "state": "West Bengal"
+    },
+    {
+        "id": 59,
+        "address": "Ubi Building, Cpt Township, Po- Haldia, Dist-purba Medinipur",
+        "city": "Haldia",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 60,
+        "address": "Po-17, Hazaribagh Branch, Hazaribagh Town",
+        "city": "Hazaribagh",
+        "district": "Hazaribagh",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 61,
+        "address": "B.E College Campus,",
+        "city": "Howrah",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 62,
+        "address": "4-3-331, Bank Street",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 63,
+        "address": "White Place Hotel, M G Avenue, Thangal Bazar, Imphal (west)",
+        "city": "Imphal",
+        "district": "Imphal East",
+        "state": "Mizoram"
+    },
+    {
+        "id": 64,
+        "address": "Ubi, Baba Bazar,",
+        "city": "Jagatsinghpur",
+        "district": "Jagatsinghpur",
+        "state": "Orissa"
+    },
+    {
+        "id": 65,
+        "address": "Ubi, Raghunathpur, Dist - Jagatsinghpur",
+        "city": "Jagatsinghpur",
+        "district": "Jagatsinghpur",
+        "state": "Orissa"
+    },
+    {
+        "id": 66,
+        "address": "Ubi, Raghunathpur, Dist - Jagatsinghpur",
+        "city": "Jagatsinghpur",
+        "district": "Jagatsinghpur",
+        "state": "Orissa"
+    },
+    {
+        "id": 67,
+        "address": "Choura Rasta, Near Sai Baba Temple",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 68,
+        "address": "68, Benar Road, Sakchi",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 69,
+        "address": "Ubi Jhirpani, Po-jhirpani, Dist-sundergarh",
+        "city": "Jhirpani",
+        "district": "Sundergarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 70,
+        "address": "Ubi, Kamlabari, Jorhat",
+        "city": "Jorhat",
+        "district": "Jorhat",
+        "state": "Assam"
+    },
+    {
+        "id": 71,
+        "address": "At Road, Jorhat, Jorhat",
+        "city": "Jorhat",
+        "district": "Jorhat",
+        "state": "Assam"
+    },
+    {
+        "id": 72,
+        "address": "Mina Market, 1st Floor, Kaliachak, Malda",
+        "city": "Kaliachak",
+        "district": "Malda",
+        "state": "West Bengal"
+    },
+    {
+        "id": 73,
+        "address": "Ubi Kaliaganj, Dist-uttar Dinajpur",
+        "city": "Kaliaganj",
+        "district": "Uttar Dinajpur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 74,
+        "address": "A\/9x\/sq\/1, Station Road, Kalyani , A Block",
+        "city": "Kalyani",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 75,
+        "address": "87\/b, Kandi Court Road, , Po-kandi , Dist - Murshidabad",
+        "city": "Kandi",
+        "district": "Murshidabad",
+        "state": "West Bengal"
+    },
+    {
+        "id": 76,
+        "address": "Station Road, Opp.Gangabhandar",
+        "city": "Karimganj",
+        "district": "Karimganj",
+        "state": "Assam"
+    },
+    {
+        "id": 77,
+        "address": "Station Road, Katwa, Burdwan",
+        "city": "Katwa",
+        "district": "Katwa",
+        "state": "West Bengal"
+    },
+    {
+        "id": 78,
+        "address": "Puratan Bazar, Kharagpur, Paschim Medinipur",
+        "city": "Kharagpur",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 79,
+        "address": "264, Golbazar Railway Market, , Po-kharagpur , Midnapur",
+        "city": "Kharagpur",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 80,
+        "address": "Sahu Bhawan, Po-khatra, Dist-bankura",
+        "city": "Khatra",
+        "district": "Bankura",
+        "state": "West Bengal"
+    },
+    {
+        "id": 81,
+        "address": "Near United Trader, Main Town",
+        "city": "Kohima",
+        "district": "Kohima",
+        "state": "Nagaland"
+    },
+    {
+        "id": 82,
+        "address": "Near United Trader, Main Town",
+        "city": "Kohima",
+        "district": "Kohima",
+        "state": "Nagaland"
+    },
+    {
+        "id": 83,
+        "address": "Baruipur Puratan Bazar, Opp.Mansi Complex, Baruipur",
+        "city": "Kokata",
+        "district": "Kokata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 84,
+        "address": "391, G.T.Road, Town Hall Gate, , Burdwan",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 85,
+        "address": "Shop No-2, Ground Gloor, Barrachpore Plaza, , Ghoshpara Road, Lalkuthi",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 86,
+        "address": "33\/3e, Chetla Central Road, Near Central Park",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 87,
+        "address": "Vidyasagar Tower, , 15, Shyama Charan Street",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 88,
+        "address": "160\/1 Jessore Road, Rath Kall Bus Stop, , Dum Dum Park",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 89,
+        "address": "126\/1, B T Road, ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 90,
+        "address": "Em Bypass Swastik Bhawan, 18, Kalitala Main Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 91,
+        "address": "Uttara Apartment, , 5\/24 A P Nagar, Sonarpur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 92,
+        "address": "32 A, Mahim Haldar Street, Near Hazra Crossing",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 93,
+        "address": "188 S C Mullick Road ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 94,
+        "address": "13 A, Lake Road, Near Lake Market",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 95,
+        "address": "Tea Board Building, 14 B T M Sarani, Lalbazar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 96,
+        "address": "76, Sarat Bose Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 97,
+        "address": "41\/c, Ekbalpur Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 98,
+        "address": "357\/1 Basudevpur Road, Shyamnagar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 99,
+        "address": "14\/5, Dum Dum Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 100,
+        "address": "Hotel Anadlok, Station Road, Barasat, 24 Pargana (north)",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 101,
+        "address": "Pushpa Arcade, 116 Sodepur Road, Madhyamgram, Basunagar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 102,
+        "address": "Ubi Baguiati Branch, Main Road, Deshbandhu Nagar, ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 103,
+        "address": "Ubi, Tittumir Bus Terminus, Champadali, Barasat",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 104,
+        "address": "99, Ashutosh Mukherjee Road, 1st Floor",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 105,
+        "address": "Ubi, 88 Sarat Bose Road, , Po- Rajbari, Mahajati Nagar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 106,
+        "address": "47 A, B B Chatterjee Road, Kasba",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 107,
+        "address": "235 B\/4, N S C Bose Road, Near Usha Gate Bus Stand",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 108,
+        "address": "P-191 A, Cit Road, Scheme Iv M",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 109,
+        "address": "2, Jaliapara, B T Road, , Kharda, 24 Pargana (north)",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 110,
+        "address": "227\/1, Sarkarat Lane,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 111,
+        "address": "862\/1, Diamond Harbour Road, Opp.Vivekanand College, Thakurpukur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 112,
+        "address": "K.C.Paul Apt, Jl No 13, Rs No.198, , Po&dist :24 Parganas North",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 113,
+        "address": "Duttapukur, Hatkola",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 114,
+        "address": "74, Jessore Road, Nager Bazar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 115,
+        "address": "P\/1, Raipur, P.O.Garia",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 116,
+        "address": "P-141, Kalindi Housing, Block No-a, Shop No.6",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 117,
+        "address": "Ia, 126, Cluster Iii, Salt Lake City",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 118,
+        "address": "K.C.Paul Apt, Jl No 13, Rs No.198, , Po&dist :24 Parganas North",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 119,
+        "address": "Duttapukur, Hatkola",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 120,
+        "address": "74, Jessore Road, Nager Bazar",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 121,
+        "address": "P\/1, Raipur, P.O.Garia",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 122,
+        "address": "P-141, Kalindi Housing, Block No-a, Shop No.6",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 123,
+        "address": "Ia, 126, Cluster Iii, Salt Lake City",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 124,
+        "address": "84a, Santoshpur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 125,
+        "address": "225c, A.J.C.Bose Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 126,
+        "address": "10, Kendua Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 127,
+        "address": "24, Raja S.C.Mullick Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 128,
+        "address": "48, B.T.Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 129,
+        "address": "H\/o Smt.K.Bannerjee, Basant Trading, Barasat",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 130,
+        "address": "Port Blair Market, Port Blair Lane, Barrackpore",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 131,
+        "address": "191, Raja Manindra Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 132,
+        "address": "204\/a, Lake Town, Block B",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 133,
+        "address": "Sahebpara, Peerless Bhavan, P.O.Sonarpur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 134,
+        "address": "A-38, Amarabati, Barasat Road, Sodepur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 135,
+        "address": "Garia Station Road, Garia",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 136,
+        "address": "Monsson Appt, Vip Road, , Po-kolkata Airport, Kaikhali",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 137,
+        "address": "P-23, Raja S.C.Mullick Road, Garia",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 138,
+        "address": "Dd-29, Salt Lake Service Station, Salt Lake City",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 139,
+        "address": "116, Vivekanada Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 140,
+        "address": "16, Chittaranjan Avenue,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 141,
+        "address": "60c Harish Mukherjee Road,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 142,
+        "address": "627\/1, Diamond Harbour Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 143,
+        "address": "17, Madhusuadan Banerjee Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 144,
+        "address": "Belurmath, Howrah",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 145,
+        "address": "6\/57\/2, Bijoygarh",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 146,
+        "address": "4, N.C.Datta Sarani",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 147,
+        "address": "76, Dr.Sundari Mohan Avenue",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 148,
+        "address": "26\/26\/7, Hindustan Park",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 149,
+        "address": "9, Post Office Street",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 150,
+        "address": "Hotel Oberoi Grand, Chowringhee",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 151,
+        "address": "Chaplin Square, New Market",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 152,
+        "address": "Acharya Prafulla Chandra Road, New Barrackpore",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 153,
+        "address": "16, , Hemanta Basu Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 154,
+        "address": "9, A, Gariahat Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 155,
+        "address": "24, , Park Street",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 156,
+        "address": "P-419, Parnasree Pally",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 157,
+        "address": "Block Bd, Plot No 17, Sector 1 Salt Lake City",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 158,
+        "address": "23, Rai M.C.Lahiri Bahadur Street, Serampore",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 159,
+        "address": "226 A, Acharya Prafulla Chandra Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 160,
+        "address": "35\/1, Jaikishan Street, Uttarpara",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 161,
+        "address": "Narendrapur, 24-parganas (s)",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 162,
+        "address": "Baruipur Road, Kanyanagar, 24-parganas (s)",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 163,
+        "address": "6\/940, Sekan Chambers, Kannur Road",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 164,
+        "address": "P.O Krishnagar, Nadia",
+        "city": "Krishnagar",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 165,
+        "address": "Gomtinagar,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 166,
+        "address": "11 Grrc, Kranthi Line, Po-dilkusha, Cantt Sadar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 167,
+        "address": "23 Bidhan Sabha Marg,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 168,
+        "address": "33 Nehru Road,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 169,
+        "address": "Near Children Park, Po-lamding, Dist-nagaon",
+        "city": "Lumding",
+        "district": "Naogaon",
+        "state": "Assam"
+    },
+    {
+        "id": 170,
+        "address": "522\/1, G T Road, Mahesh, Dist-hooghly",
+        "city": "Mahesh",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 171,
+        "address": "B.G Road, P.O Mokdumpur",
+        "city": "Malda",
+        "district": "Malda",
+        "state": "West Bengal"
+    },
+    {
+        "id": 172,
+        "address": "Gr.Floor Of Police Club, Market Bldg., , Library Road,",
+        "city": "Mednipur",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 173,
+        "address": "Gr.Floor Of Police Club, Market Bldg., , Library Road,",
+        "city": "Mednipur",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 174,
+        "address": "N S Avenue, Silchar, Dist-cachar, Meherpur",
+        "city": "Meherpur",
+        "district": "Meherpur",
+        "state": "Assam"
+    },
+    {
+        "id": 175,
+        "address": "United Bank Of India, Morigaon",
+        "city": "Morigaon",
+        "district": "Morigaon",
+        "state": "Assam"
+    },
+    {
+        "id": 176,
+        "address": "Vyom Arcade, Ground Floor, Opposite U Pharma, Off Subhash Road, Vile Parle (east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 177,
+        "address": "Ubi Building, 25, Sir Pheroze Shah Mehta Road Fort",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 178,
+        "address": "Anand Arshan, 13, Pedder Road",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 179,
+        "address": "Siddarth Off J.P.Road, Opp 7, Bungalows Bus Depot.Andheri",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 180,
+        "address": "Hotel Oberoi Tower Building, Nariman Point",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 181,
+        "address": "Mahanam Math, Poromatola Road, , Nabadwip, Nadia",
+        "city": "Nabadwip",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 182,
+        "address": "Jubilee Math, Nabagram, Po-nabagram, Hoogly",
+        "city": "Nabagram",
+        "district": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "id": 183,
+        "address": "1 L M Moitra Road, Santipur, Nadia",
+        "city": "Nadia",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 184,
+        "address": "29, Aurobindo Road, Naihati, 24 Pargana (north)",
+        "city": "Naihati",
+        "district": "Naihati",
+        "state": "West Bengal"
+    },
+    {
+        "id": 185,
+        "address": "Jorethang Road, Namchi, Sikkim South",
+        "city": "Namchi",
+        "district": "South Sikkim",
+        "state": "Sikkim"
+    },
+    {
+        "id": 186,
+        "address": "108, Banarasi Das Estate",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 187,
+        "address": "21, Daryaganj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 188,
+        "address": "J.C.Das Building, 90\/8 Connaught Circus",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 189,
+        "address": "H-1598, D.D.A.Shopping Complex, Market No.4 C.R.Park",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 190,
+        "address": "Maidens Hotel, 7, Shyamnath Marg",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 191,
+        "address": "The Oberoi, Dr.Zakir Hussain Marg",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 192,
+        "address": "5, Gopal Nagar, Fateh Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 193,
+        "address": "Presidents Estate,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 194,
+        "address": "C-9, Community Centre, S.D.Area",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 195,
+        "address": "D-187, Sec-27,",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 196,
+        "address": "United Bank Of India, North Lakhimpur, Assam",
+        "city": "North Lakhimpur",
+        "district": "Lakhimpur",
+        "state": "Assam"
+    },
+    {
+        "id": 197,
+        "address": "Rua Heliodore Salgado,",
+        "city": "Panaji",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 198,
+        "address": "Bar Council, High Court Compound",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 199,
+        "address": "Dc-18, Akancha Enclave, Lohia Nagar, Kankarbagh",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 200,
+        "address": "1255, Deccan Gymkhana,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 201,
+        "address": "Sri Balanandtirth Ashram, Sea Beach, Puri",
+        "city": "Puri",
+        "district": "Puri",
+        "state": "Orissa"
+    },
+    {
+        "id": 202,
+        "address": "G N Mukherjee Road, Hospital More, , Ward No-3, Po-purulia",
+        "city": "Purulia",
+        "district": "Purulia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 203,
+        "address": "Ubi, Raghunathpur, Cheliyama Road, P.O.Raghunathpur Dist Purulia",
+        "city": "Purulia",
+        "district": "Purulia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 204,
+        "address": "Ubi, Raghunathpur, Cheliyama Road, P.O.Raghunathpur Dist Purulia",
+        "city": "Purulia",
+        "district": "Purulia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 205,
+        "address": "Rajamarket, 1st Floor, Po Raghunathganj",
+        "city": "Raghunathganj",
+        "district": "Murshidabad",
+        "state": "West Bengal"
+    },
+    {
+        "id": 206,
+        "address": "Block-5, Raiganj Commercial Estate, , Dist - Uttar Dinajpur",
+        "city": "Raiganj",
+        "district": "Raiganj",
+        "state": "West Bengal"
+    },
+    {
+        "id": 207,
+        "address": "Sunder Market, Station Road, Near Gurudwara",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 208,
+        "address": "17, Subhash Avenue, Ranaghat, Nadia",
+        "city": "Ranaghat",
+        "district": "Nadia",
+        "state": "West Bengal"
+    },
+    {
+        "id": 209,
+        "address": "Birsa Chowk, Hatia,",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 210,
+        "address": "Irba Branch, Apollo Hospital, Irba",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 211,
+        "address": "United Bank Of India, Namkum Branch, Ranchi",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 212,
+        "address": "Albeit Ekka Chowk, Main Road",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 213,
+        "address": "B-57, Sahidnagar, Bhubneswar",
+        "city": "Sahidnagar",
+        "district": "Bhubaneswar",
+        "state": "Orissa"
+    },
+    {
+        "id": 214,
+        "address": "G.S.Road, Shillong, Shillong",
+        "city": "Shillong",
+        "district": "Shillong",
+        "state": "Meghalaya"
+    },
+    {
+        "id": 215,
+        "address": "Hotel Talatal Building, ,",
+        "city": "Sibsagar",
+        "district": "Sibsagar",
+        "state": "Assam"
+    },
+    {
+        "id": 216,
+        "address": "Station Road, Tarapur, Silchar",
+        "city": "Silchar",
+        "district": "Silchar",
+        "state": "Assam"
+    },
+    {
+        "id": 217,
+        "address": "Silchar Barnch , Central Road, , Dist- Cachar",
+        "city": "Silchar",
+        "district": "Silchar",
+        "state": "Assam"
+    },
+    {
+        "id": 218,
+        "address": "Hill Cart Road, Silliguri",
+        "city": "Silliguri",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 219,
+        "address": "Ashutosh Pada Sarani, , Singur Station Road, Singur, Hoogly",
+        "city": "Singur",
+        "district": "Hoogly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 220,
+        "address": "Dubrajpur Road, Near Super Market, Suri, Birbhum",
+        "city": "Suri",
+        "district": "Suri",
+        "state": "West Bengal"
+    }
+]

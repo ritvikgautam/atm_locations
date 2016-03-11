@@ -1,0 +1,772 @@
+[
+    {
+        "id": 1,
+        "address": "Sadar Bazar , , Abu Road, Distt.Sirohi ,",
+        "city": "Abu Road",
+        "district": "Sirohi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 2,
+        "address": "4-3-168\/1, Tngos Road(cinema Road) , Hameedpura (dwaraka Nagar),",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Ambala 5357\/8, Sudershan Tower, Cross Raod No.1, Punjabi Mohallanicholshon Road,",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 4,
+        "address": "Sai Road, Opp.Krishna Complex, Baddi, District - Solan",
+        "city": "Baddi",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Near Bus Stand, Distt.Barmer , , Balotra",
+        "city": "Balotra",
+        "district": "Barmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 6,
+        "address": "Gandhi Chowk, Barmer., ,",
+        "city": "Barmer",
+        "district": "Barmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 7,
+        "address": "The Bank Of Rajasthan Ltd., , Mahaveer Bazar, P.B.No.-4.",
+        "city": "Beawar",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 8,
+        "address": "Gopi Arcade, Plot No.12, Opp.Takhteshwar Post Office,",
+        "city": "Bhavnagar",
+        "district": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "Mahesh Siksha Sadan School, , Near Roadways Bus Stand,",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 10,
+        "address": "Bhupal Ganj, P.O.Box No.2,",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 11,
+        "address": "Bhilwara Spinners Limited Gandhi Nagar,",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 12,
+        "address": "Bhilwara Processors Limited Mandpam,",
+        "city": "Bhilwara",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 13,
+        "address": "Kote Gate, , Ganesh Mandir",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 14,
+        "address": "33, Panchshati Circle, P.B.No.9",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 15,
+        "address": "Rani Bazar, Near Kisan Chatrawas",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 16,
+        "address": "Rajasthan Agricultural University, Beechwal",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 17,
+        "address": "Bapu Bazar, , Tehsil Beawar, Distt-ajmer",
+        "city": "Bjai Nagar",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 18,
+        "address": "Daulat Building, Ground Floor, , 18th June Road, Near Calculo Island,",
+        "city": "Campal Panjim",
+        "district": "North Goa",
+        "state": "Goa"
+    },
+    {
+        "id": 19,
+        "address": "Booth No.01 , Sector 44 C",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 20,
+        "address": "Subhash Chowk, , Opp.Bank Of Rajasthan",
+        "city": "Churu",
+        "district": "Churu",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 21,
+        "address": "Silvasa, Piparia ( Ext) 58 \/ 1 - A , Eskay Knit ( India) Ltd, Danuudyog Indl Estat,",
+        "city": "Dadra & Nagar Haveli",
+        "district": "Dadra & Nagar Haveli",
+        "state": "Dadra & Nagar Haveli"
+    },
+    {
+        "id": 22,
+        "address": "Amba Complex, 1st Floor, , H.S.Road",
+        "city": "Dibrugarh",
+        "district": "Dibrugarh",
+        "state": "Assam"
+    },
+    {
+        "id": 23,
+        "address": "Sadar Bazar, Kekri",
+        "city": "District Ajmer",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 24,
+        "address": "Gulabpura Baori Choraha, Opp Hathi Bldg.Gulabpura-311021, Tehsil-hurda,",
+        "city": "Gulabpura",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 25,
+        "address": "585\/16, Civil Lines, Gurudwara Road",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 26,
+        "address": "Hissar Sco 53-54, Red Square Market, Hissar,",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 27,
+        "address": "194, Jaora Compound , ,",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 28,
+        "address": "22, Yashwant Niwas Road, Opp.Rani Sati Gate",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 29,
+        "address": "Cvvbm Girls Hr.Sec.School, 177, Jawahar Marg, South Raj Mohalla",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 30,
+        "address": "A-22, Janta Colony, , Agra Road ,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 31,
+        "address": "40\/17 Tps, Swarn Path, , Mansarovar , ,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 32,
+        "address": "Stock Exchange Building , , Jln Marg, Malviya Nagar ,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 33,
+        "address": "Jda Campus, Bapu Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 34,
+        "address": "Jaipur, Bani Park Raj Bank Building, Indra Colony, Jhotwara Road, Bani Park,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 35,
+        "address": "Jaipur, C-scheme Opp.S.M.S.Hospital, Sawai Ram Singh Road, C-scheme,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 36,
+        "address": "Jaipur, Sardar Patel Marg C - 3, Sardar Patel Marg, C-scheme,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 37,
+        "address": "Jaipur, Subhash Marg D - 45b, Subhash Marg, C-scheme,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 38,
+        "address": "Jaipur, Bapu Nagar University Campus , Bapu Nagar , Jaipur,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 39,
+        "address": "Jaipur, Sahakar Marg V.K.Complex Sahakar Marg,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 40,
+        "address": "Jaipur, M I Road Raj Bank Building , Bhagat Bhawan , M I Road,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 41,
+        "address": "Jaipur, Jda, Malviya Nagar E - 66 , Siddharth Nagar , Malviya Nagar,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 42,
+        "address": "Jaipur, Sanganer Shahid Bhagat Singh Marg , Gujron Ka Mohalla, Sanganer,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 43,
+        "address": "Jaipur, Parivahan Marg.Rajasthan State Roadways Head Office , Parivahan Marg,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 44,
+        "address": "Jaipur, M.N.I.T.M.N.I.T.Campus, J.L.N.Marg, Malviya Nagar,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 45,
+        "address": "Jaipur, Saket Hospital Mansarovar Meera Marg, Mansarovar, ,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 46,
+        "address": "The Bank Of Rajasthan Ltd., 1-629, Vidhyadhar Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 47,
+        "address": "The Bank Of Rajasthan Ltd., H.No.3852, Ward No.5 Kelapura, Jaisalmer, Rajasthan,",
+        "city": "Jaisalmer",
+        "district": "Jaisalmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 48,
+        "address": "26 Ammunition Company, Jodhpur Road C\/o 56 Apo",
+        "city": "Jaisalmer",
+        "district": "Jaisalmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 49,
+        "address": "Pn-89 Opp Nutan Maratha College , , Distt.Jalgaon",
+        "city": "Jalgaon",
+        "district": "Jalgaon",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 50,
+        "address": "Near Petrol Pump, , Bus Stand Road ,",
+        "city": "Jalore",
+        "district": "Jalor",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 51,
+        "address": "Base Camp Tehsil: -girwa., , Distt: -udaipur ,",
+        "city": "Jhamar Kotra",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 52,
+        "address": "Jodhpur Arora Bhawan, Chopasani Road,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 53,
+        "address": "Jodhpur 18 E\/ 173 A , Chopasani Housing Board,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 54,
+        "address": "Jodhpur, K.E.T.Campus Jodhpur Engineering & Dental College Campus, Jhanwar Road, ,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 55,
+        "address": "122, Nai Sarak,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 56,
+        "address": "Platinum Plaza, Near Jay Kishan Petrol Pump, Kadi Kalol Highway",
+        "city": "Kadi District Mehsana",
+        "district": "Na",
+        "state": "Gujarat"
+    },
+    {
+        "id": 57,
+        "address": "28, Sec-14, Urban Estate, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 58,
+        "address": "Near Gurudwara Kaligidhar, G.T.Road",
+        "city": "Khanna",
+        "district": "Punjab",
+        "state": "Punjab"
+    },
+    {
+        "id": 59,
+        "address": "15, Portuguese Church Street , , New Howrah Bridge Approach Road ,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 60,
+        "address": "Kolkata, Salt Lake Ad - 59, Sector - 1, Salt Lake City , Distt.- 24 Pargana ( Nor,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 61,
+        "address": "Gulzar Mansion, Opp.Garh Palace, Tipta,",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 62,
+        "address": "Kota, Junction Bhimganj Mandi, Kota Junction,",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 63,
+        "address": "Kota, Sri Ram Nagar Sri Ram Nagar Kota,",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 64,
+        "address": "Kota, I E Aerodrome Circle , Kota,",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 65,
+        "address": "Kota - I E Career Point, 112, Shakti Nagar, Kota ( Raj ),",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 66,
+        "address": "Kota, M.B.V.B.B - 304, Talwandi, ,",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 67,
+        "address": "Liluah 243, 1st Floor, G.T.Road (n) , Liluah, Distt.Howrah ( W.B.),",
+        "city": "Liluah",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 68,
+        "address": "Lucknow, Sahara India 9, Ground Floor , Sahara India Bhawan , Aliganj, Kapoorthala,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 69,
+        "address": "Opp.Agresen Bhawan, , Main Market, Ajmer Road,",
+        "city": "Madanganj Kishangarh",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 70,
+        "address": "Malegaon Prabhat Heights, Ground Floor , Satana Naka, Satana Road , Malegaon,",
+        "city": "Malegaon",
+        "district": "Nashik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 71,
+        "address": "Near Main Gate Of Residential Colony, Mangalam Cement Ltd.Aditya Nagar",
+        "city": "Morak",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 72,
+        "address": "Shop No.6809-b, Dashmesh Nagar, , Opp.-muktsar Club, Kotkapura Road",
+        "city": "Muktsar",
+        "district": "Muktsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 73,
+        "address": "Krishna Kunj, Near Chitra Tower , , S.V.P.Road Kandivali (west) ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 74,
+        "address": "Mumbai, Kalyan Lok Vatika, Netivili, Kalyan (east ) , Distt.Thane,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 75,
+        "address": "Mumbai, Lower Parel.Raghuvanshi Mills Compound , 11 \/ 12, Senapati Bapat Marg , L,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 76,
+        "address": "Mumbai, Thane ( West ) Shop No.G-5 To G-10, Malahar Housing Society, Lokpuram, ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 77,
+        "address": "Mumbai, Bandra Golden Corner, Pali Road 29 Th Road, Crossing Bandra ( West ),",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 78,
+        "address": "Mumbai, Chandivali B-6, Ground Floor, Lok Milan , Chandivali, Andheri (e),",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 79,
+        "address": "Mumbai, Ghatkoper (east)148, Garodia Nagar, Ghatkoper(east),",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 80,
+        "address": "Fort Road, Nagaur",
+        "city": "Nagaur",
+        "district": "Nagaur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 81,
+        "address": "Vashi, Plaza",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 82,
+        "address": "Delhi, Shalimar Bagh Ae-6, Shalimar Bagh,",
+        "city": "New Dehli",
+        "district": "New Dehli",
+        "state": "Delhi"
+    },
+    {
+        "id": 83,
+        "address": "132, Hargobind Enclave, New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 84,
+        "address": "Delhi, Panchsheel Park N-136, Panchsheel Park,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 85,
+        "address": "Delhi- Vikas Puri J - 8 , Vikaspuri,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 86,
+        "address": "Delhi, Paschim Vihar A-1\/3, Ground Floor, Main Rohtak Road, Paschim Vihar,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 87,
+        "address": "Bansthali Vidyapeeth Campus, Near Shopping Center",
+        "city": "Newai",
+        "district": "Newai",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 88,
+        "address": "Nimbahera, Kailash Nagar Jk Cement Works, Kailash Nagar,",
+        "city": "Nimbahera",
+        "district": "Nimbahera",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 89,
+        "address": "The Bank Of Rajasthan Ltd., , Station Road, P.B.No.10",
+        "city": "Nohar (distthanumangarh)",
+        "district": "Na",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 90,
+        "address": "Noida (ext) Sahara India Mass Communication , Sahara India Complex, C-2, Sector ?,",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 91,
+        "address": "Patialasco No.134, Chhoti Baradari,",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 92,
+        "address": "The Bank Of Rajasthan Ltd., Hatimi Plaza, High School Road, ,",
+        "city": "Pratabgarh",
+        "district": "Chitorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 93,
+        "address": "Pune S S P M School , Kenedy Road , Near R T O,",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 94,
+        "address": "Sangham Spinners Campus, , Sareri, Via Raila",
+        "city": "Raila",
+        "district": "Bhilwara",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 95,
+        "address": "Jain Public School, , Circular Road,",
+        "city": "Rewari",
+        "district": "Rewari",
+        "state": "Haryana"
+    },
+    {
+        "id": 96,
+        "address": "59\/2\/1\/2, Behind V.V.Towers, , Kaushalya Estate Lane, Karkhana Road,",
+        "city": "Secunderabad",
+        "district": "Secunderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 97,
+        "address": "Pawan Market, Near Kalyan Circle, Station Road",
+        "city": "Sikar",
+        "district": "Sikar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 98,
+        "address": "Shyam Jyoti Building , , Ist Floor, Sevoke Rd Dist:darjiling ,",
+        "city": "Siliguri",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 99,
+        "address": "Silvasa Tirumalla Developers, Shop.No.2 - 9, Plot No.282 P & 283 P, Vapi Road,",
+        "city": "Silvassa",
+        "district": "Dadra & Nagar Haveli",
+        "state": "Dadra & Nagar Haveli"
+    },
+    {
+        "id": 100,
+        "address": "Silvasa, Samarvarni ( Ext)65 \/ 4 , Krishna Knitwear Tech Ltd Samarvarni,",
+        "city": "Silvassa",
+        "district": "Dadra & Nagar Haveli",
+        "state": "Dadra & Nagar Haveli"
+    },
+    {
+        "id": 101,
+        "address": "Luthra House, Delhi Road, Sikka Colony",
+        "city": "Sonepat",
+        "district": "Sonepat",
+        "state": "Haryana"
+    },
+    {
+        "id": 102,
+        "address": "2-c Block, Ravindra Path, Post Box N.5",
+        "city": "Sri Ganganagar",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 103,
+        "address": "Mazar-e-fakhri Compound Taherabad, Galiyakot",
+        "city": "Tehsil Sagrawa",
+        "district": "Dungarpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 104,
+        "address": "Post Box No.15 , , Clock Tower ,",
+        "city": "Tonk",
+        "district": "Tonk",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 105,
+        "address": "Guru Nanak Public School, , Sector - 4, Hiran Magri",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 106,
+        "address": "Raj.College Of Agriculture Campus,",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 107,
+        "address": "Udaipur, Clock Tower 1st Floor, Raj Bank Bhawan , Clock Tower,",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 108,
+        "address": "Udaipur, University Campus College Of Dairy Science & Food Technology, Universit,",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 109,
+        "address": "Silvasa, Bilad ( Ext) Krishna Lifestyle Tech Ltd , Daheli , Umergaon,",
+        "city": "Umergaon",
+        "district": "Na",
+        "state": "Gujarat"
+    },
+    {
+        "id": 110,
+        "address": "Padmavati Complex, Opposite 21st Century Hospital, G.I.D.C.",
+        "city": "Vapi",
+        "district": "Vapi",
+        "state": "Gujarat"
+    }
+]

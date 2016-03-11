@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "address": "Adilabad",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Near Amedkar Statue, Mudhol Tq",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Main Road-opposite:inspe, Ction Bangow, Luxettipet Taluka",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Gangareddy Road, Mancherial Tq.M",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Near Mro Office; Besides, Kk-2 Dispensary, Mandamarry Branch (yapal)",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Opp.Junior Collegen.H.7, Hotel Tirumala Premises",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "B.Zone Centre.Rajiv Chowk, Near Dispensary, Mandamarri Mandal",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "Near Police Station, Sri, Rampur, Main Road Srirampur, Mancherial Mandal",
+        "city": "Adilabad",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "Tahsil Premises",
+        "city": "Aland",
+        "district": "Gulberga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 10,
+        "address": "Door No.13844r.F Road, Anantapur Taluq",
+        "city": "Anantapur",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Armoor Tq",
+        "city": "Armoor",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Trafic Signal, Opp.To All India Radio, Jalna Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 13,
+        "address": "Near Taj Residency A.Bad, Roza Baugh, Near Moulana Azad College",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 14,
+        "address": "P.O.No.2 Shahagunj",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 15,
+        "address": "P O No.002 Shahgunj, Shahgunj",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 16,
+        "address": "Rigved Bansilalnagar, Station Road",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 17,
+        "address": "Traffic Signal, Town Centre Plot No : 1, Cidco",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 18,
+        "address": "30\/78 Singalagadda, Netaji Junction",
+        "city": "Badepally",
+        "district": "Mahabubnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 19,
+        "address": "Fom Live Run, 18 Victoria Road, Austin Town",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 20,
+        "address": "Near Nettakallappa Circl, E And Opp:upahara Darshini, 72\/1 K.R.Road, Opp Basavanagudi Police Station",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 21,
+        "address": "303 A 100 Ft Road, 1st Stage Indiranagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 22,
+        "address": "Next To Shivaji Theatre, 11\/90 J.C.Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 23,
+        "address": "Jnagar Head Post Of, 56811th Main Road, 38th Cross 5th Block Jayanagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 24,
+        "address": "200y Iii Block, 50th Cross 12th Main",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 25,
+        "address": "Next To Shivaji Theatre, 11\/90 J.C.Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 26,
+        "address": "Main Road Banswada Tq",
+        "city": "Banswada",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 27,
+        "address": "Ashoka Apartment Near, Dinesh Mills(akota)",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 28,
+        "address": "Bhalki Tq",
+        "city": "Basavakalyan",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 29,
+        "address": "Basmat Nagar Main Road",
+        "city": "Basmathnagar",
+        "district": "Parbhani",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 30,
+        "address": "Bashir Gunj, Near Ashok Talkies",
+        "city": "Beed",
+        "district": "Beed",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 31,
+        "address": "Bellampally Bazar, Asifabad Taluk",
+        "city": "Bellampalli",
+        "district": "Adilabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 32,
+        "address": "Engg.College Administra, Tion Building., In The Premises Of Sagi, Ramakrishna Engg College",
+        "city": "Bhimavaram",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 33,
+        "address": "Bidar-main",
+        "city": "Bidar",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 34,
+        "address": "State Bank Of Hyderabad, Bhalki Udgir Road",
+        "city": "Bidar",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 35,
+        "address": "Bidar-main",
+        "city": "Bidar",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 36,
+        "address": "Plot No:7 Survey No:69\/a, Shivnagar Bidar",
+        "city": "Bidar",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 37,
+        "address": "Humnabad",
+        "city": "Bidar",
+        "district": "Bidar",
+        "state": "Karnataka"
+    },
+    {
+        "id": 38,
+        "address": "No:16-3shree Mahaveer Vidya, Seva Sangh Opp:blde Hospital",
+        "city": "Bijapur",
+        "district": "Bijapur",
+        "state": "Karnataka"
+    },
+    {
+        "id": 39,
+        "address": "Sapna Theatre Complex, Taluq Chandrapur",
+        "city": "Chandrapur",
+        "district": "Chandrapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 40,
+        "address": "Parrys Corner, 45 Ii Line Beach",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 41,
+        "address": "Christian College, 91 Harrington Road, Chetput",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 42,
+        "address": "75 L.B.Road Adyar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 43,
+        "address": "Opp.Poultry Research, 488-489 Annasalai, Nandanam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 44,
+        "address": "Behind Sri Kapali Temple, 18\/19 East Mada Street, Mylapore",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 45,
+        "address": "29\/192 Taramani Link Road, Tansinagar Velachery",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 46,
+        "address": "Porur, Arcot Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 47,
+        "address": "Jangaon",
+        "city": "Cheriyal",
+        "district": "Ranga Reddy",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 48,
+        "address": "Ida Phase Ii, Beside Electrical Sub Station",
+        "city": "Cherlapally",
+        "district": "Mahabubnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 49,
+        "address": "34\/585mkk Nair Road, Palarivattom Bye-pass Jn",
+        "city": "Cochin",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 50,
+        "address": "Bus Terminals-kovaipudur, Kovaipudir",
+        "city": "Coimbatore",
+        "district": "Coimbotore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 51,
+        "address": "Slv Plazar.K.M.Street",
+        "city": "Cuddapah",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 52,
+        "address": "Sri Shiva Complex, Near Ambedkar Chowk",
+        "city": "Cuddapah",
+        "district": "Cuddapah",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 53,
+        "address": "Hotel Vasista Complex, College Road Amalapuram",
+        "city": "East Godavari",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 54,
+        "address": "H.No.13-1-59 Main Road, Kakinada",
+        "city": "East Godavari",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 55,
+        "address": "Inmispet",
+        "city": "East Godavari",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 56,
+        "address": "Raja Complexcanal Road",
+        "city": "Eluru",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 57,
+        "address": "Municipal Corp Area",
+        "city": "Godavari Khani",
+        "district": "Karimnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 58,
+        "address": "Bungalow Area Rajiv Rahadari, Near P.G.Centre",
+        "city": "Godavari Khani",
+        "district": "Karimnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 59,
+        "address": "Shopping Complex, 8incline Colony, Shopping Complex",
+        "city": "Godavari Khani",
+        "district": "Karimnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 60,
+        "address": "Sangmeswarnagar",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 61,
+        "address": "Court Road - Gulbarga., Marathi Sahitya Mandal Bldg, Timmapur Chowk Court Road",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 62,
+        "address": "Fom On Live, Gulbarga-supermarket",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 63,
+        "address": "Gulbarga University",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 64,
+        "address": "Saranabasaweshara Temple, & Khaja Banda Nawaz Darga, Ksrtc Building-depot Cross, Msk Mill Road",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 65,
+        "address": "Shahapur",
+        "city": "Gulbarga",
+        "district": "Gulbarga",
+        "state": "Karnataka"
+    },
+    {
+        "id": 66,
+        "address": "Near Sankar Vilas & Over, Bridge, 1st Floor Samata Building, Near Police Station",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 67,
+        "address": "Brundavan Garden Centre, Guntur - Shift Branch, Door No.5-87-50main Road",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 68,
+        "address": "Little Krishna Theatre, D.S.Complex, Kothapet",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 69,
+        "address": "Carrier Aircon Ltd.Prem, Ises, Carrier Aircon Ltd.Complex, Gurgaon-jaipur Road",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 70,
+        "address": "Hingoli",
+        "city": "Hingoli",
+        "district": "Hingoli",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 71,
+        "address": "Road No.3, Sultan-ul-uloom Educational Society",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 72,
+        "address": "16-11-771\/3 Moosaram Bagh, Dilsukhnagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 73,
+        "address": "Banjara Hills, Plot No 8a Road No 5, Jubilee Hills Coop Society, Banjara Hills Extn",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 74,
+        "address": "Plot No.4\/79venture I, S.B.H Colonyl.B.Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 75,
+        "address": "A.P.High Court, Hyderaba, D Nampally Hyderabad., 21-1\/3\/5 Ghansi Bazar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 76,
+        "address": "Road From Mediciti Hospi, Tal To Birla Temple, 5-9-22\/1\/10 Adarshnagar, Behind New Mla Quarters",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 77,
+        "address": "Rr Dt.Courts 1km(app, V.D.Prasadarao School Bld",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 78,
+        "address": "6-3-609\/191 Anandnagar, Khairtabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 79,
+        "address": "Apsrtc Admn.Building, Behind Apsrtc Admn.Bldg., Musheerabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 80,
+        "address": "Ashoknagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    }
+]

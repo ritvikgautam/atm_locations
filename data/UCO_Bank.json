@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "address": "Central Road, Post Box No.1, Kaman Chowmuhani, Po - Agartala, Distt - West Tripura Pin - 799 001",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 2,
+        "address": "Central Road, Post Box No.1, Kaman Chowmuhani, Po - Agartala, Distt - West Tripura Pin - 799 001",
+        "city": "Agartala",
+        "district": "Agartala",
+        "state": "Tripura"
+    },
+    {
+        "id": 3,
+        "address": "Uco Bank Building, Bhadra, Ahmedabad (gujrat) Pin-380001",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "Preetamrai Road, Town Hall, V.S.Hospital, Ellis Bridge, Ahmedabad (gujrat) Pin-38006",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Near Navneet Press, , Gurukul Road, Memnagar, , Ahmedabad - 380052",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 6,
+        "address": "Uco Bank, Judges Bunglow Crossing, Satelite Township, Ahmedabad.Pin 3800015.",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 7,
+        "address": "Purani Mandi, Opp Central Girls School, Ajmer (raj) Pin - 305 001",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 8,
+        "address": "Madanganj Kishangarhdistt., Ajmer 305801",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 9,
+        "address": "Purani Mandi, Opp Central Girls School, Ajmer (raj) Pin - 305 001",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 10,
+        "address": "4, Sardar Patel Marg, Civil Lines, Allahabad (up) Pin - 211 001",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "4, Sardar Patel Marg, Civil Lines, Allahabad (up) Pin - 211 001",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Court Road, Civil Lines, Amritsar (punjab) Pin-143001",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 13,
+        "address": "X 2 Type Quarters, Opp.Kalyani School Ground Post - Atul Distt - Valsad (gujrat) Pin - 396020",
+        "city": "Atul",
+        "district": "Valsad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "Feeder Road, P.O.Bakshara, Distt- Howrah (wb) Pin - 711 306",
+        "city": "Bakshara",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 15,
+        "address": "Feeder Road, P.O.Bakshara, Distt- Howrah (wb) Pin - 711 306",
+        "city": "Bakshara",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 16,
+        "address": "Srikanthapur, Vivekanand Marg, Balasore (orissa) Pin - 756001",
+        "city": "Balasore",
+        "district": "Balasore",
+        "state": "Orissa"
+    },
+    {
+        "id": 17,
+        "address": "37, Surya Vilas Opp:police Outpost Okdenganj Distt:ballia Pin-27700",
+        "city": "Ballia",
+        "district": "Balia",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "G.T.Road, Bandel, , Dist:hooghly(west Bengal), , Pin-713 123",
+        "city": "Bandel",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 19,
+        "address": "G.T.Road, Bandel, Dist:hooghly(west Bengal), Pin-713 123",
+        "city": "Bandel",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 20,
+        "address": "13\/22, Kempagowda Road, Bangalore Pin - 560009",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "address": "18\/a\/8d\/1, Shop No.1, Laxmi Commercial Complex, Bansal Nagar,",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "Ground Floor, Rembrandt, C.G.Road, Near Panchavati Circle",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 3,
+        "address": "Star India Bazzar, Iscon Mall, Satellite Road, Jodhpur Road Charrasta, West Side-hypermarts",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "Shop No.3, Utsav Complex, Opp.Rawji Bhai Tower, Maninagarstation Road",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 5,
+        "address": "Ground Floor, Yamuna Tarang Complex, Plot No2., National Highway No.6",
+        "city": "Akola",
+        "district": "Akola",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 6,
+        "address": "Saraswati Sankul, Opp.S.B.Bus Stop, Aurangapura",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 7,
+        "address": "Pelican, Race Course Road",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 8,
+        "address": "Shop No Gs-21, Saffron Mansion, Fatehgunj",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 9,
+        "address": "Ground Floor, Shop No.31, Silver Coin Opposite Bhavans School, Makarpura,",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "Kay Kay Business Centre, 133, Zone-1, M.P.Nagar",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "A103, Nayapalli Escon Temple, Rajdhani Gas Distributors, Bhubaneshwar - 751012",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 12,
+        "address": "98, Janapath, Bhubaneshwar - 751001",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 13,
+        "address": "Sco 132\/133\/134, Sector 9c Madhya Marg,",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 14,
+        "address": "164, Anna Salai,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 15,
+        "address": "Door No.68\/3, G.N.Chetty Road, T.Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 16,
+        "address": "Shop No.5, Tnhb Complex, 110 4th Avenue, Ashok Nagar",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 17,
+        "address": "426, Anna Salai, Nandanam ,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 18,
+        "address": "Old No.122 , New No 44, Dr Radhakrishnan Salai, Mylapore",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 19,
+        "address": "Alsa Promenade, Shop No.223 Ground Floor, Anna Nagar, Door No.149, Aa Block,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 20,
+        "address": "873\/874, Opposite Nehru Park, Poonamallee High Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    }
+]

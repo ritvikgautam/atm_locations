@@ -1,0 +1,6302 @@
+[
+    {
+        "id": 1,
+        "address": "Ichhapur, Kolkata",
+        "city": "24 Parganas North",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 2,
+        "address": "Shahganj Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "Sanjay Complex, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "address": "Rohta, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "Block No 36\/2\/4, Sanjay Place",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "Prtc, Para Regimental Trg Centre",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "Shatrujeet",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "Kamla Nagar, Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "address": "Shastripark, S M Road, Ambavadi",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 10,
+        "address": "Opp.Diwan Ballubhai School, Kankaria",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 11,
+        "address": "Hanuman Mandir",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 12,
+        "address": "5, Aashirwad Shopping Center, Ground Floor, Vs Main Road, Paldi",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 13,
+        "address": "Sola Road Ahmedabad",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 14,
+        "address": "Ashapurna Complex, Opp.Shy And Row House",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 15,
+        "address": "Ashapurna Complex, Opp.Shy And Row House",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 16,
+        "address": "Mirc Darewadi, Ahmednagar Po-ahmednagar",
+        "city": "Ahmednagar",
+        "district": "Ahmednagar",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 17,
+        "address": "Shreya Market, Ajmer",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 18,
+        "address": "Ajmer Nagra",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 19,
+        "address": "Foy Sagar Road, Ajmer",
+        "city": "Ajmer",
+        "district": "Ajmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 20,
+        "address": "Htps Kasimpur",
+        "city": "Aligarh",
+        "district": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "Svdc Aligarh",
+        "city": "Aligarh",
+        "district": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "Railway Station, Allahabad",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 23,
+        "address": "Zeeshan Market, Govindpur",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 24,
+        "address": "Allapur, Allahabad",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 25,
+        "address": "University Road, Colonel Ganj",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 26,
+        "address": "Behror Ganga Bishan",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 27,
+        "address": "Alwar Shivaji Park",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 28,
+        "address": "Hariram Palace, Bhiwadi",
+        "city": "Alwar",
+        "district": "Alwar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 29,
+        "address": "Naraingarh Ambala",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 30,
+        "address": "Near Court Road Chowk",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 31,
+        "address": "Dav College, Ambala",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 32,
+        "address": "Sadar Bazaar Main, Ambala Cantt",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 33,
+        "address": "Castle Line, Kharga Canteen, Ambala Cantt",
+        "city": "Ambala",
+        "district": "Ambala",
+        "state": "Haryana"
+    },
+    {
+        "id": 34,
+        "address": "Tanda Tpp, Ambedkar Nr",
+        "city": "Ambedkarnagar",
+        "district": "Ambedkarnagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 35,
+        "address": "Saidpur",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 36,
+        "address": "Katrabhai Sant Singh",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 37,
+        "address": "Basant Avenue, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 38,
+        "address": "Goindwal Sahib",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 39,
+        "address": "Amritsar Cant, Railway Station",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 40,
+        "address": "Mcleod Road, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 41,
+        "address": "Green Avenue, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 42,
+        "address": "G.T.Road, Rayya",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 43,
+        "address": "Queen Road, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 44,
+        "address": "Guru Nanak Dev Hospital",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 45,
+        "address": "Mena Cherry Building, Bank Junction N.M.",
+        "city": "Angamaly",
+        "district": "Angamaly",
+        "state": "Kerala"
+    },
+    {
+        "id": 46,
+        "address": "Bhagyanagar, Aurangabad",
+        "city": "Aurangabad",
+        "district": "Aurangabad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 47,
+        "address": "Station Road, Balia",
+        "city": "Ballia",
+        "district": "Ballia",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 48,
+        "address": "Sea College",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 49,
+        "address": "33\/a, I Stage, Indira Nagar, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 50,
+        "address": "1382, 32nd Cross, 4th't' Block, Jaya Nagar, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 51,
+        "address": "Ec:anand Nagar (prtc),",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 52,
+        "address": "Banergatta, Ring Road",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 53,
+        "address": "50, Feel Road, Anand Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 54,
+        "address": "Railway St, Bangalore City",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 55,
+        "address": "Rmv Extn, Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 56,
+        "address": "34 K.G.Road Bangalore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 57,
+        "address": "1078, 11th Main, 9th Cross, Dr Modi Hospital Road Mahalaxmi Layout",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 58,
+        "address": "Sjce Mysore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 59,
+        "address": "100 Khb Colony, V-block, Koramangala",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 60,
+        "address": "1007\/49, Dr.Rajkumar Road, Rajaji Nagar",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 61,
+        "address": "Pie, Banglore",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 62,
+        "address": "Gopalan Mall, Mysore Rd",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 63,
+        "address": "Muncipal Mkt Barabanka",
+        "city": "Barabanki",
+        "district": "Barabanki",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 64,
+        "address": "Prem Nagar",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 65,
+        "address": "Madhinath, Bareilly",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 66,
+        "address": "Near Railway Workshop, Izzatnagar",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 67,
+        "address": "Cane Society",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 68,
+        "address": "156, Civil Lines",
+        "city": "Bareilly",
+        "district": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 69,
+        "address": "Ambika Complex, Baragarh",
+        "city": "Bargarh",
+        "district": "Bargarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 70,
+        "address": "Fatehgunj, Vadodara",
+        "city": "Baroda",
+        "district": "Sonipat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 71,
+        "address": "Raopura",
+        "city": "Baroda",
+        "district": "Sonipat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 72,
+        "address": "Atmajyoti Ashram Road",
+        "city": "Baroda",
+        "district": "Sonipat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 73,
+        "address": "Gotri Road, Vadodara",
+        "city": "Baroda",
+        "district": "Sonipat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 74,
+        "address": "Padmavati Complex",
+        "city": "Baroda",
+        "district": "Sonipat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 75,
+        "address": "Agdalpur",
+        "city": "Bastar",
+        "district": "Bastar",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 76,
+        "address": "Circuit House, Jagdalpur",
+        "city": "Bastar",
+        "district": "Bastar",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 77,
+        "address": "3381, College Road, Belgaum",
+        "city": "Belgaum",
+        "district": "Belgaum",
+        "state": "Karnataka"
+    },
+    {
+        "id": 78,
+        "address": "Station Road, Distt Sant Ravi Dass Marg, Bhadohi",
+        "city": "Bhadohi",
+        "district": "Sant Ravi Dass",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 79,
+        "address": "By Pass Road, Bhadrak",
+        "city": "Bhadrak",
+        "district": "Bhadrak",
+        "state": "Orissa"
+    },
+    {
+        "id": 80,
+        "address": "Bayana",
+        "city": "Bharatpur",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 81,
+        "address": "Rajendra Nagar, Super Bazar, Bharatpur",
+        "city": "Bharatpur",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 82,
+        "address": "Station Road, New Mandi, Bharatpur",
+        "city": "Bharatpur",
+        "district": "Bharatpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 83,
+        "address": "Opp.Udaan Cinema, Bathinda",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 84,
+        "address": "Civil Line, Bhatinda",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 85,
+        "address": "Ludhiana, Railway Station",
+        "city": "Bhatinda",
+        "district": "Bhatinda",
+        "state": "Punjab"
+    },
+    {
+        "id": 86,
+        "address": "Badhra",
+        "city": "Bhiwani",
+        "district": "Bhiwani",
+        "state": "Haryana"
+    },
+    {
+        "id": 87,
+        "address": "Rly.Stn., Bhiwani",
+        "city": "Bhiwani",
+        "district": "Bhiwani",
+        "state": "Haryana"
+    },
+    {
+        "id": 88,
+        "address": "Govindpura",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 89,
+        "address": "Govindpura, Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 90,
+        "address": "New Market",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 91,
+        "address": "Zonal Office Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 92,
+        "address": "Habibganj",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 93,
+        "address": "Rly.St.Habib Ganj",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 94,
+        "address": "Habibganj, Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 95,
+        "address": "Railway St., Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 96,
+        "address": "Jumerati",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 97,
+        "address": "Jummerati, Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 98,
+        "address": "Hpcl Petrol Pump, Kolar Rd",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 99,
+        "address": "Nehru Nagar",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 100,
+        "address": "Malik Market",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 101,
+        "address": "E-7\/635, Arrera Colony, Shahpura",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 102,
+        "address": "Devika Petrol Pump",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 103,
+        "address": "E-7\/635, Arrera Colony, Shahpura",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 104,
+        "address": "Malik Market",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 105,
+        "address": "Uit, Bikaner",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 106,
+        "address": "Nokha",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 107,
+        "address": "Bikaner Cantt",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 108,
+        "address": "Bikaner Jassusar Gate",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 109,
+        "address": "Vyapar Vihar, Bilaspur",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 110,
+        "address": "Beri Barmana",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 111,
+        "address": "Mungeli, Raipur",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 112,
+        "address": "Dayalbandh Branch, Near Punjabi Colony, Gurudwara Road, Bilaspur",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 113,
+        "address": "Bilaspur",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 114,
+        "address": "Bongigaon, Assam",
+        "city": "Bongaigaon",
+        "district": "Bongaigaon",
+        "state": "Assam"
+    },
+    {
+        "id": 115,
+        "address": "Bharuch, Gujrat",
+        "city": "Broach",
+        "district": "Broach",
+        "state": "Gujarat"
+    },
+    {
+        "id": 116,
+        "address": "Motibagh, Bulandshahar",
+        "city": "Bulandshahar",
+        "district": "Bulandshahar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 117,
+        "address": "Gidc Vapi",
+        "city": "Bulsar",
+        "district": "Valsad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 118,
+        "address": "Near Azad Park, Bundi",
+        "city": "Bundi",
+        "district": "Bundi",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 119,
+        "address": "Kalptaru, G.T Road",
+        "city": "Burdwan",
+        "district": "Burdwan",
+        "state": "West Bengal"
+    },
+    {
+        "id": 120,
+        "address": "Silchar, Cachar, Assam",
+        "city": "Cachar",
+        "district": "Cachar",
+        "state": "Assam"
+    },
+    {
+        "id": 121,
+        "address": "Manimara",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 122,
+        "address": "Rly.Station, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 123,
+        "address": "Booth 166 , Sec 35, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 124,
+        "address": "Sector 9d, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 125,
+        "address": "Punjab Engg.College",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 126,
+        "address": "Palsaura, Near Jain Mill",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 127,
+        "address": "Booth 4, Sec 47 C, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 128,
+        "address": "Sector 22b, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 129,
+        "address": "Booth 239 , Sector 38 , Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 130,
+        "address": "Sec-33, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 131,
+        "address": "Sector 44, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 132,
+        "address": "Sector-26, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 133,
+        "address": "Sec-37, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 134,
+        "address": "Burail, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 135,
+        "address": "Sector-20, Chandigarh",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 136,
+        "address": "Jatpura Gate, Main Road , Chandrapur",
+        "city": "Chandrapur",
+        "district": "Chandrapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 137,
+        "address": "Ambattur",
+        "city": "Chengalpattu",
+        "district": "Chengalpattu",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 138,
+        "address": "Jerusalam, Eng.College",
+        "city": "Chengalpattu",
+        "district": "Chengalpattu",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 139,
+        "address": "Tambaram",
+        "city": "Chengalpattu",
+        "district": "Chengalpattu",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 140,
+        "address": "Changannur",
+        "city": "Chenganoor",
+        "district": "Chenganoor",
+        "state": "Kerala"
+    },
+    {
+        "id": 141,
+        "address": "74, New Avadi Road, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 142,
+        "address": "4055, 4th Main Road, Anna Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 143,
+        "address": "4055, 4th Main Road, Anna Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 144,
+        "address": "347, Lakshmana Samy Salai, K K Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 145,
+        "address": "21, Raja Annamalai Road, Purasawalkam, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 146,
+        "address": "West Mambalam",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 147,
+        "address": "152, Eldams Road, Teynampet, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 148,
+        "address": "6, Nungambakkam, High Road, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 149,
+        "address": "Door No.7, Narayan Street, Periamet, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 150,
+        "address": "Hpcl Outlet, Parry's Cor",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 151,
+        "address": "75 South Mada Street, Tiruvanmiyur, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 152,
+        "address": "39 , 1st Floor, Karuneegar Street, Adambakkam, Distt.Kancheepuram,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 153,
+        "address": "C P Ramaswamy Road, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 154,
+        "address": "Old No.50, North Usman Road, T Nagar, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 155,
+        "address": "Ayyavoo Complex, Tvk Ngr, Chennai",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 156,
+        "address": "Amritha Complex, Opp Ksrtc Bus Stand, Cherthala",
+        "city": "Cherthala",
+        "district": "Cherthala",
+        "state": "Kerala"
+    },
+    {
+        "id": 157,
+        "address": "Jawahar Marg, Chhatarpur",
+        "city": "Chhatarpur",
+        "district": "Chhatarpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 158,
+        "address": "Seshapeeran Street, Chittoor",
+        "city": "Chittoor",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 159,
+        "address": "Sadar Bazar, Fort Road Chittorgarh",
+        "city": "Chittorgarh",
+        "district": "Chittorgarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 160,
+        "address": "Gudari Bazar, Churu",
+        "city": "Churu",
+        "district": "Ratangarh",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 161,
+        "address": "190, Sarojini Street, Ramnagar, Po Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 162,
+        "address": "Rly Station Coimbatore",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 163,
+        "address": "Kanchanjungha, Chaudhury Bazar Cuttack",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 164,
+        "address": "Stn Feeder Road Silliguri",
+        "city": "Darjeeling",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 165,
+        "address": "Sukhna",
+        "city": "Darjeeling",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 166,
+        "address": "Sevak Road, Siliguri",
+        "city": "Darjeeling",
+        "district": "Darjeeling",
+        "state": "West Bengal"
+    },
+    {
+        "id": 167,
+        "address": "Rawat Market, Datia",
+        "city": "Datia",
+        "district": "Datia",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 168,
+        "address": "P H Road, Dhakrani, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 169,
+        "address": "Tilak Road, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 170,
+        "address": "Geit, Subhash Nagar",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 171,
+        "address": "Kaulagarh Road",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 172,
+        "address": "Patel Nagar",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 173,
+        "address": "Clement Town",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 174,
+        "address": "Mahant Indresh Hospital, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 175,
+        "address": "Race Course(mobile Atm)",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 176,
+        "address": "Indira Nagar",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 177,
+        "address": "Ajabpurkalan, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 178,
+        "address": "Clock Tower Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 179,
+        "address": "Zonal Office, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 180,
+        "address": "Tiri Hydro Devlpmnt Corp",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 181,
+        "address": "Hnic Park Road, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 182,
+        "address": "Idpl, Rishikesh",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 183,
+        "address": "1-narender Vihar, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 184,
+        "address": "Kanwali Road, Mbi, Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 185,
+        "address": "Race Course Dehradun",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 186,
+        "address": "Seema Dental College",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 187,
+        "address": "Burari, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 188,
+        "address": "Ece House",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 189,
+        "address": "Hotel Le Maridien",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 190,
+        "address": "Bsnl Janpath, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 191,
+        "address": "Preet Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 192,
+        "address": "Shastri Nagar, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 193,
+        "address": "B-177derewal Ngr, Gujranwalan Town",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 194,
+        "address": "Shiv Mandir, Maujpur",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 195,
+        "address": "Ignou, Maidan Garhi New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 196,
+        "address": "C 184, Madhuban",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 197,
+        "address": "Sec-3, Rohini, Surya Plaza",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 198,
+        "address": "Sector-21, Rohini",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 199,
+        "address": "Er 14, Inderpuru, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 200,
+        "address": "Ta-93-a, Ravi Das Marg, Tughlakabad Extn., Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 201,
+        "address": "Dilshad Garden",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 202,
+        "address": "Hpcl, Shanti Serv.Station",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 203,
+        "address": "J Block, Csc, Sarita Vihar,",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 204,
+        "address": "New Custom House I.G.I.Airport",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 205,
+        "address": "Hpcl, Meera Bagh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 206,
+        "address": "Vasant Kunj",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 207,
+        "address": "G-10, Amba Tower, Rohini",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 208,
+        "address": "E 83, Shastri Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 209,
+        "address": "Preet Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 210,
+        "address": "B-73, Greater Kailash Part 1",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 211,
+        "address": "Gunjrawala Town",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 212,
+        "address": "39&40 Central Market, West Punjabi Bagh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 213,
+        "address": "Srt Nagar, Jhandewala Ext",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 214,
+        "address": "Verdhman Janakpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 215,
+        "address": "4, Dda Mkt, Madipur",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 216,
+        "address": "Jhandewala Metro Station",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 217,
+        "address": "Metro Rly Stn, Janakpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 218,
+        "address": "Community Centre, Janakpur",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 219,
+        "address": "B 1\/18 , B 1 Shopping Complex, Janakpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 220,
+        "address": "Janakpuri Metro Stn",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 221,
+        "address": "Chitranjan Park, U\/b Chirag Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 222,
+        "address": "Ahram Chowk",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 223,
+        "address": "C1, Janakpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 224,
+        "address": "Lsc, Sheikh Sarai-2",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 225,
+        "address": "Maharani Bagh, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 226,
+        "address": "New Friends Colony",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 227,
+        "address": "Tota Ram Bazar, Tri Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 228,
+        "address": "A34\/35, Shivshankar Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 229,
+        "address": "Dewali Morh, Khanpur",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 230,
+        "address": "Tri Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 231,
+        "address": "Khanpur, New-delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 232,
+        "address": "Shop 154\/3, Devli Village",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 233,
+        "address": "E -214 Pandav Nagar Patparganj Road",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 234,
+        "address": "Dinapur Goyla, Jhatikara",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 235,
+        "address": "Najafgarh, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 236,
+        "address": "Rajendra Place, Nd",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 237,
+        "address": "27\/28, Shakti Ngr",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 238,
+        "address": "Nazafgarh Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 239,
+        "address": "Hpcl Petrol Pump",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 240,
+        "address": "Patel Nagar, Metro Station",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 241,
+        "address": "Shop No.8910, Single Storey Market, Vijay Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 242,
+        "address": "Roop Nagar, Shakti Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 243,
+        "address": "Hpcl Petrol Pump, Hari Nr",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 244,
+        "address": "Jail Road, Hari Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 245,
+        "address": "Nehru Place, Petrol Pmp",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 246,
+        "address": "Shop No:45\/3 Subhash Mkt, Kotla",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 247,
+        "address": "Ce-4, Hari Nagar, N.Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 248,
+        "address": "Nehru Place, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 249,
+        "address": "D-block, Vasant Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 250,
+        "address": "Shop No 8, 41 Nanakpur Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 251,
+        "address": "Near Chand Cinema",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 252,
+        "address": "Pushp Vihar , Sec-5, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 253,
+        "address": "A -9, Geetanjali, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 254,
+        "address": "A-11 Community Centre, Industrial Area, Lawrence Road, Keshav Puram",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 255,
+        "address": "Shop 331\/2, Wrd 4, Mehrauli",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 256,
+        "address": "Dda Mkt, Saidulajab Saket",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 257,
+        "address": "Vikas Marg, Laxmi Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 258,
+        "address": "111, Main Bazar, Laxmi Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 259,
+        "address": "A-9, Main Uttam Nagar Road, Vikaspuri New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 260,
+        "address": "Metro Stn., Uttam Nagar (east),",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 261,
+        "address": "A-9, Main Uttam Nagar Road, Vikaspuri New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 262,
+        "address": "111, Main Bazar, Laxmi Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 263,
+        "address": "F-122, Vikaspuri, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 264,
+        "address": "F-122, Vikaspuri,",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 265,
+        "address": "K P S, D-block Vikaspuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 266,
+        "address": "Pitampura, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 267,
+        "address": "22, Sardar Patel Marg, Chanakya Puri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 268,
+        "address": "Aravali Shopping Complex, Asc Alaknanda",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 269,
+        "address": "Shyam Block, Kailash Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 270,
+        "address": "N-10, Kalkaji, Alaknanda",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 271,
+        "address": "G T Road Azadpur",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 272,
+        "address": "81, B S Marg Gole Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 273,
+        "address": "New Azadpur Rly Stn, Kela Godown",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 274,
+        "address": "N-46, Connaught, Circus",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 275,
+        "address": "Phase I, Community Centre, Mayapuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 276,
+        "address": "Bhikaji Cama Place",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 277,
+        "address": "Bhikaji Cama-ii",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 278,
+        "address": "2nd Mobile Atm Jhatikara",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 279,
+        "address": "C 3\/55 A, Yamuna Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 280,
+        "address": "Marigold School, Katewara Vil",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 281,
+        "address": "Near Bus Stand, Qutub Garh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 282,
+        "address": "Sector 7, Nahar Pur Market, Rohini Sector 7",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 283,
+        "address": "Sector 7, Nahar Pur Market, Rohini Sector 7",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 284,
+        "address": "Radhey Puri, Arjun Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 285,
+        "address": "Khrms, Ashok Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 286,
+        "address": "West Patel Ngr Main Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 287,
+        "address": "Shadipur Metro Station",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 288,
+        "address": "Wz 1061, Arya Samaj Road, Rani Bagh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 289,
+        "address": "Pratap Vihar Under Bo:nangloi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 290,
+        "address": "Dasghera, Nera Inderpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 291,
+        "address": "West Patel Nagar, Main Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 292,
+        "address": "Rani Bagh Comercial Comp",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 293,
+        "address": "Nangloi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 294,
+        "address": "Fire St.Rajender Ngr",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 295,
+        "address": "G-27, Agg Plaza Mukhrjee Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 296,
+        "address": "Bo:chandanhola, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 297,
+        "address": "Nsic Building, Okhla Ind Estate",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 298,
+        "address": "Sewa Bhavan, R.K.Puram",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 299,
+        "address": "C Bloack, Vasant Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 300,
+        "address": "B.O, Sant Nirankari Col",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 301,
+        "address": "Nangal Dewat(rangpuri)",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 302,
+        "address": "Ssi Okhla New Delhi Railway Station",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 303,
+        "address": "Flat No.1, Sector Iv Market",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 304,
+        "address": "Vsc, Alaknanda",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 305,
+        "address": "A Block, C.P.(lcb)",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 306,
+        "address": "G 6 Hauz Khas, Mehrauli Road",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 307,
+        "address": "D-34, Amar Cly, Lajpat Nr",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 308,
+        "address": "Jangpura Extn",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 309,
+        "address": "L-block C.P.",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 310,
+        "address": "C Block Community Centre New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 311,
+        "address": "C-30, Community Centre, Naraina Industrial Area",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 312,
+        "address": "Jasola",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 313,
+        "address": "Ec:dilli Haat, New Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 314,
+        "address": "I.P.Ext, Patparganj",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 315,
+        "address": "Cghs, Dda Mkt, Patparganj",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 316,
+        "address": "D Block, Dda Market, Anand Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 317,
+        "address": "Ram Vihar, Vardman Mkt",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 318,
+        "address": "Mayur Vihar-ii",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 319,
+        "address": "Bhera Enclave , Paschim Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 320,
+        "address": "C-3\/9, Prashant Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 321,
+        "address": "B 1\/18 , B 1 Shopping Complex, Janakpuri",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 322,
+        "address": "Ad Block Shalimar Bagh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 323,
+        "address": "C-3\/9, Prashant Vihar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 324,
+        "address": "5, Nikhil Plaza, Near Vishram Chowk, Rohini Sector 5",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 325,
+        "address": "14, Uv Dda Mkt, Shalimar Bg",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 326,
+        "address": "A-60, Shalimar Bagh",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 327,
+        "address": "Scope Towers, Lakshmi Nagar",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 328,
+        "address": "Cross River Mall, Shahdara",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 329,
+        "address": "A-5, Vivek Vihar, Phase-ii, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 330,
+        "address": "A-5, Vivek Vihar, Phase-ii, Delhi",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 331,
+        "address": "19, Vasundhara Enclv",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 332,
+        "address": "Pocket B, Sagar Galaxy, Mayur Vihar Phase Ii,",
+        "city": "Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 333,
+        "address": "Station Road Deoria",
+        "city": "Deoria",
+        "district": "Deoria",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 334,
+        "address": "Civil Lines, Tilak Road Deoria",
+        "city": "Deoria",
+        "district": "Deoria",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 335,
+        "address": "A.B.Road, Dewas",
+        "city": "Dewas",
+        "district": "Dewas",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 336,
+        "address": "Pnb House, Dallirajhara",
+        "city": "Durg",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 337,
+        "address": "Durg Medical Complex",
+        "city": "Durg",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 338,
+        "address": "142\/1, Station Road, Dhamda Naka",
+        "city": "Durg",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 339,
+        "address": "Indian Motors, G E Road",
+        "city": "Durg",
+        "district": "Durg",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 340,
+        "address": "Hotel Annapurna",
+        "city": "East Sikkim",
+        "district": "East Sikkim",
+        "state": "Sikkim"
+    },
+    {
+        "id": 341,
+        "address": "Trichur Rd.Edappal",
+        "city": "Edappal",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 342,
+        "address": "Vytila",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 343,
+        "address": "Kitex Garments",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 344,
+        "address": "High Court Jn",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 345,
+        "address": "Main Road Edapalli",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 346,
+        "address": "Perumbavoor",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 347,
+        "address": "Tripunitura",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 348,
+        "address": "M.G.Road",
+        "city": "Ernakulam",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 349,
+        "address": "Etawah Main",
+        "city": "Etawah",
+        "district": "Etawah",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 350,
+        "address": "Drc Ec Sahibganj",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 351,
+        "address": "Khawaspura, Sahabganj",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 352,
+        "address": "Rozagoan, Rudauli",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 353,
+        "address": "Ec-vikash Bhawan",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 354,
+        "address": "Sector 8, Huda Market, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 355,
+        "address": "Huda Mkt, Sector-17, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 356,
+        "address": "Hudamkt, Sector16, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 357,
+        "address": "Srs Multiplex, Sec-12, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 358,
+        "address": "Sec-15, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 359,
+        "address": "Sec37, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 360,
+        "address": "B.O: Palwal, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 361,
+        "address": "Faridabad Old",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 362,
+        "address": "Old Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 363,
+        "address": "Dps Mathura Rd, Faridabad",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 364,
+        "address": "Post Office Ballabhgarh, Near Sector 58",
+        "city": "Faridabad",
+        "district": "Faridabad",
+        "state": "Haryana"
+    },
+    {
+        "id": 365,
+        "address": "Bassi Pathana",
+        "city": "Fatehgarh Sahib",
+        "district": null,
+        "state": "Punjab"
+    },
+    {
+        "id": 366,
+        "address": "Cycle Bazaar",
+        "city": "Ferozepur",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 367,
+        "address": "Bagdadi Gate, Ferozepur",
+        "city": "Ferozepur",
+        "district": "Ferozepur",
+        "state": "Punjab"
+    },
+    {
+        "id": 368,
+        "address": "Gandhi Nagar",
+        "city": "Gandhinagar",
+        "district": null,
+        "state": "Gujarat"
+    },
+    {
+        "id": 369,
+        "address": "Berhampur, Gandhinagar",
+        "city": "Ganjam",
+        "district": "Ganjam",
+        "state": "Orissa"
+    },
+    {
+        "id": 370,
+        "address": "Chaprola (biometric)",
+        "city": "Gautam Budh Nagar",
+        "district": "Gautam Budh Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 371,
+        "address": "Sector 31, Noida",
+        "city": "Gautam Budh Nagar",
+        "district": "Gautam Budh Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 372,
+        "address": "Sec-27, Noida",
+        "city": "Gautam Budh Nagar",
+        "district": "Gautam Budh Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 373,
+        "address": "Sec26 Jaipuriaplaza Noida",
+        "city": "Gautam Budh Nagar",
+        "district": "Gautam Budh Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 374,
+        "address": "Railway Station, Gaya",
+        "city": "Gaya",
+        "district": "Gaya",
+        "state": "Bihar"
+    },
+    {
+        "id": 375,
+        "address": "Nehru Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 376,
+        "address": "D-64, Kaushambi",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 377,
+        "address": "R.K Goel Inst.Of Tech",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 378,
+        "address": "Sahibabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 379,
+        "address": "Ambedker Ngr",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 380,
+        "address": "Ghaziabad, Railway Station",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 381,
+        "address": "Brij Vihar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 382,
+        "address": "Arya Kanya Pathshala, Sector 9, Vijay Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 383,
+        "address": "Kl-44, Kavi Nagar, Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 384,
+        "address": "Loni",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 385,
+        "address": "Govind Puram",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 386,
+        "address": "Indirapuram",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 387,
+        "address": "Vaishali",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 388,
+        "address": "127-c, Sector-11, Raj Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 389,
+        "address": "Sanjay Ngr., Ghaziabad",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 390,
+        "address": "Sector 1, Noida , Gautam Budh Nagar",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 391,
+        "address": "Noida Sec.I",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 392,
+        "address": "Mau;mankapur",
+        "city": "Gonda",
+        "district": "Gonda",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 393,
+        "address": "Rajahi Nandanagar",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 394,
+        "address": "Jubliee Road",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 395,
+        "address": "Bypass Rd, Barhalganj",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 396,
+        "address": "Jubilee Road, Gorakhpur",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 397,
+        "address": "Vpo Guhla Cheeka",
+        "city": "Guhla",
+        "district": "Kaithal",
+        "state": "Haryana"
+    },
+    {
+        "id": 398,
+        "address": "Chenchupeta, Tenali",
+        "city": "Guntur",
+        "district": "Guntur",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 399,
+        "address": "Harial, Distt Gurdaspur",
+        "city": "Gurdaspur",
+        "district": "Gurdaspur",
+        "state": "Punjab"
+    },
+    {
+        "id": 400,
+        "address": "Sukhrali, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 401,
+        "address": "Railway Rd., Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 402,
+        "address": "Sohana, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 403,
+        "address": "Hailey Mandy, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 404,
+        "address": "Udyog Vihar, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 405,
+        "address": "Udyog Vihar",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 406,
+        "address": "Sec-14 Mkt., Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 407,
+        "address": "Sector 14, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 408,
+        "address": "B.O: Manesar",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 409,
+        "address": "Pb No 5, West Nada, Guruvayur, Trichur",
+        "city": "Guruvayur",
+        "district": "Trissur",
+        "state": "Kerala"
+    },
+    {
+        "id": 410,
+        "address": "Chetakpuri, Ag Office Road, Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 411,
+        "address": "Jayendra Ganj, Gwalior",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 412,
+        "address": "Jahu Dist Hamirpur",
+        "city": "Hamirpur",
+        "district": "Hamirpur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 413,
+        "address": "Bo Mehre",
+        "city": "Hamirpur",
+        "district": "Hamirpur",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 414,
+        "address": "Patanjali Yogpeeth, Hardwar",
+        "city": "Hardwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 415,
+        "address": "Police Lines, Hardwar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 416,
+        "address": "Shivalik Nagar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 417,
+        "address": "Sector 5, Bhel Complex, Hardwar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 418,
+        "address": "N C Roshanabad",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 419,
+        "address": "Ahmedpur, Ranipura More",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 420,
+        "address": "Manglaur Town",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 421,
+        "address": "Sapth Rishi Ashram Road",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 422,
+        "address": "Railway Station, Haridwar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 423,
+        "address": "Ram Nagar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 424,
+        "address": "Mayapur, Devpura Hardwar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 425,
+        "address": "Gurukulkangri, Haridwar",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 426,
+        "address": "Haridwar Road",
+        "city": "Haridwar",
+        "district": "Hardwar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 427,
+        "address": "Sadabad Gate, Hathras",
+        "city": "Hathras",
+        "district": "Maha Maya Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 428,
+        "address": "Jndc, Hissar",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 429,
+        "address": "Barwala",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 430,
+        "address": "Uklana , Hissar",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 431,
+        "address": "Mandi Adampur",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 432,
+        "address": "Dabra Chowk",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 433,
+        "address": "Hisar Cantt",
+        "city": "Hissar",
+        "district": "Hissar",
+        "state": "Haryana"
+    },
+    {
+        "id": 434,
+        "address": "Chandan Nagar, Hoogly",
+        "city": "Hooghly",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 435,
+        "address": "Rishra, Hoogly Distt",
+        "city": "Hooghly",
+        "district": "Hooghly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 436,
+        "address": "Hoshangabad",
+        "city": "Hoshangabad",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 437,
+        "address": "Vardhman Factory, Budhni",
+        "city": "Hoshangabad",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 438,
+        "address": "Bhunga",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 439,
+        "address": "Kandhla Jattan, Punjab",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 440,
+        "address": "Parbhat Chouk , Hoshiarpur",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 441,
+        "address": "Garhdiwala",
+        "city": "Hoshiarpur",
+        "district": "Hoshiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 442,
+        "address": "Shibpur",
+        "city": "Howrah",
+        "district": "Howrah",
+        "state": "West Bengal"
+    },
+    {
+        "id": 443,
+        "address": "J K Colony, Mehdipatnam",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 444,
+        "address": "Kakatiya Nagar",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 445,
+        "address": "1-4-747, Jadala Towers, Musheerabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 446,
+        "address": "Lal Bazar",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 447,
+        "address": "M.G.Road , Secunderabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 448,
+        "address": "Plot No.3 & 4, Saibaba Mansion Door No.3\/20 Vikrampuri, Habsiguda",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 449,
+        "address": "Sarvar Complex, Phisal Bhanda Main Road",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 450,
+        "address": "4-5-214, Sultan Bazaar, Kothi",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 451,
+        "address": "1-7-145\/b, Opp.Subhash Talkies, Musheerabad",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 452,
+        "address": "1-8-59 Green Gate, Chickkadapally",
+        "city": "Hyderabad",
+        "district": "Hyderabad Urban",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 453,
+        "address": "Marimata Chouraha",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 454,
+        "address": "Mp Housing Board Shopping Complex, A.B.Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 455,
+        "address": "Indira Complex, Navlakha",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 456,
+        "address": "Keshar Bagh Road",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 457,
+        "address": "Shakti Nagar",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 458,
+        "address": "Ghamapur, Bai Ka Bagicha",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 459,
+        "address": "Vehicle Factory Jabalpur",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 460,
+        "address": "Ec, God, Ghamapur",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 461,
+        "address": "Dherka Balaji, Tindukan, Sikar Road",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 462,
+        "address": "Chandpole Bazar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 463,
+        "address": "Shindhi Camp, Bus Stand",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 464,
+        "address": "Raja Park Road",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 465,
+        "address": "Arya Engg College, Kukas",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 466,
+        "address": "V.K.Vrajaparkpranamimndir",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 467,
+        "address": "New Truck Stand, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 468,
+        "address": "7 Da 25, Jawahar Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 469,
+        "address": "Everest Colony",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 470,
+        "address": "Mgf Mall, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 471,
+        "address": "Johari Bazar, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 472,
+        "address": "Shastri Nagar Near Pital Factory",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 473,
+        "address": "5, Panchbatti, Mi Road,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 474,
+        "address": "Sikar Road, V.K.I Area, Jaipur (ssi Branch)",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 475,
+        "address": "House No: 3\/3 Sfs, Agrawal Farm, Mansarovar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 476,
+        "address": "Pratap Ngr, Sanganer",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 477,
+        "address": "House No: 3\/3 Sfs, Agrawal Farm, Mansarovar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 478,
+        "address": "Seedling School",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 479,
+        "address": "Pnb House, 2, Nehru Place",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 480,
+        "address": "Geejgarh House, Ghat Gate,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 481,
+        "address": "Hansmarg, Gopalpura",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 482,
+        "address": "New Sangani Road, Sodala",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 483,
+        "address": "Kendriya Vidyalaya No 2, Jhotwara",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 484,
+        "address": "F-27, Gautam Marg, Vaishali Nagar",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 485,
+        "address": "Brahampuri, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 486,
+        "address": "Jecrc Eng.College",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 487,
+        "address": "Jaisalmer, Rajasthan",
+        "city": "Jaisalmer",
+        "district": "Jaisalmer",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 488,
+        "address": "D.A.V College, Jallandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 489,
+        "address": "Defence Colony, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 490,
+        "address": "New Jwahar Nagar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 491,
+        "address": "Rama Mandi, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 492,
+        "address": "Main Hiran Gate",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 493,
+        "address": "Kishanpur Chowk, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 494,
+        "address": "Preet Nagar, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 495,
+        "address": "G.T.Road, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 496,
+        "address": "Nakodar Road",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 497,
+        "address": "Old Railway Road",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 498,
+        "address": "Scf-53, Phase-1, Urban Estate",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 499,
+        "address": "Orai, Stn Road, Jalaun",
+        "city": "Jalaun",
+        "district": "Jalaun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 500,
+        "address": "Trikuta Shopping Complex",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 501,
+        "address": "Bari Brahmna, Jammu",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 502,
+        "address": "Shastri Nagar, Jammu",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 503,
+        "address": "Gangyal, Jammu",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 504,
+        "address": "Canal Road, U\/b Canal Road, Jammu",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 505,
+        "address": "Near Tiger Cinema, Jammu Cantt",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 506,
+        "address": "Jammu Tawi, Railway Station",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 507,
+        "address": "Dimna Road, Jamshedpur,",
+        "city": "Jamshedpur",
+        "district": "Purbi Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 508,
+        "address": "Railway Station Naila",
+        "city": "Janjgir-champa",
+        "district": "Janjgir-champa",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 509,
+        "address": "Korba Road",
+        "city": "Janjgir-champa",
+        "district": "Janjgir-champa",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 510,
+        "address": "Prakash Industry Janjgir",
+        "city": "Janjgir-champa",
+        "district": "Janjgir-champa",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 511,
+        "address": "Babina, Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 512,
+        "address": "Sipri Bazar, Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 513,
+        "address": "08, Civil Lines, Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 514,
+        "address": "Khande Rao Gate, Fort, Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 515,
+        "address": "Sarbahal, Jharsuguda",
+        "city": "Jharsuguda",
+        "district": "Jharsuguda",
+        "state": "Orissa"
+    },
+    {
+        "id": 516,
+        "address": "Gurudwara Rd, Jharsuguda",
+        "city": "Jharsuguda",
+        "district": "Jharsuguda",
+        "state": "Orissa"
+    },
+    {
+        "id": 517,
+        "address": "Bank Road, Jind",
+        "city": "Jind",
+        "district": "Jind",
+        "state": "Haryana"
+    },
+    {
+        "id": 518,
+        "address": "Chopasani Road, Angira Darpan, Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 519,
+        "address": "C-97, P&t Circle, Shastrinagar Jodpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 520,
+        "address": "Chopasani Road, Angira Darpan, Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 521,
+        "address": "Kamla Nehru Ngr, Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 522,
+        "address": "Madhuban Colony Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 523,
+        "address": "Army Cantt, Jodhpur",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 524,
+        "address": "M.G.Road",
+        "city": "Junagadh",
+        "district": "Jodhpur",
+        "state": "Gujarat"
+    },
+    {
+        "id": 525,
+        "address": "Gajraula Industrial Area",
+        "city": "Jyotiba Phule Ngr",
+        "district": "Jyotiba Phule Ngr",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 526,
+        "address": "Anand, Gujrat",
+        "city": "Kaira",
+        "district": "Kaira",
+        "state": "Gujarat"
+    },
+    {
+        "id": 527,
+        "address": "Ratgal, Kurukshetra",
+        "city": "Kaithal",
+        "district": "Kaithal",
+        "state": "Haryana"
+    },
+    {
+        "id": 528,
+        "address": "Zoo Road",
+        "city": "Kamrup",
+        "district": "Kamrup",
+        "state": "Assam"
+    },
+    {
+        "id": 529,
+        "address": "Silpukhuri, Guwahati",
+        "city": "Kamrup",
+        "district": "Kamrup",
+        "state": "Assam"
+    },
+    {
+        "id": 530,
+        "address": "Rampur, Distt Kamrup",
+        "city": "Kamrup",
+        "district": "Kamrup",
+        "state": "Assam"
+    },
+    {
+        "id": 531,
+        "address": "Dharamshala",
+        "city": "Kangra",
+        "district": "Kangra",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 532,
+        "address": "Payyannur",
+        "city": "Kannur",
+        "district": "Bijapur",
+        "state": "Kerala"
+    },
+    {
+        "id": 533,
+        "address": "Tmc 44\/416, Paris Building, Logans Road, Thalassery",
+        "city": "Kannur",
+        "district": "Bijapur",
+        "state": "Kerala"
+    },
+    {
+        "id": 534,
+        "address": "Canannore, Kerla",
+        "city": "Kannur",
+        "district": "Bijapur",
+        "state": "Kerala"
+    },
+    {
+        "id": 535,
+        "address": "124\/c\/240, Govind Nagar,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 536,
+        "address": "Birhana Road",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 537,
+        "address": "Kidwai Nagar, Kanpur",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 538,
+        "address": "W-1\/522, Saket Nagar",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 539,
+        "address": "15\/54a, Opp.Mg College, Civil Line,",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 540,
+        "address": "12\/36\/9 Church Road, Gwaltoli,",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 541,
+        "address": "320-d, Rail Bazar",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 542,
+        "address": "Chakeri",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 543,
+        "address": "Hal Kanpur",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 544,
+        "address": "M.G.Road, Kanpur",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 545,
+        "address": "11\/15, Sarai Maswanpur, Kanpur",
+        "city": "Kanpur",
+        "district": "Karim Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 546,
+        "address": "Enbl, Nagerkoli",
+        "city": "Kanyakumari",
+        "district": "Kanyakumari",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 547,
+        "address": "Bus Stand Road, Karim Nagar",
+        "city": "Karimnagar",
+        "district": "Karimnagar",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 548,
+        "address": "Balla, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 549,
+        "address": "Kunjpura Road, Near Iti, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 550,
+        "address": "Nigdu, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 551,
+        "address": "Oasis, Karnal Ext Ctr",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 552,
+        "address": "Nilolheri, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 553,
+        "address": "Doon Vally Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 554,
+        "address": "Sector-07, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 555,
+        "address": "Sco 60, Sector-6 Market, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 556,
+        "address": "149, Sec 7, U E Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 557,
+        "address": "Karnal Road, Kaithal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 558,
+        "address": "Shop # 17, Shopping Cmplx, Sec 9, Karnal",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 559,
+        "address": "Liberty Ent., Railway Road,",
+        "city": "Karnal",
+        "district": "Karnal",
+        "state": "Haryana"
+    },
+    {
+        "id": 560,
+        "address": "Civil Court Road, Karwar",
+        "city": "Karwar",
+        "district": "Uttara Kannada",
+        "state": "Karnataka"
+    },
+    {
+        "id": 561,
+        "address": "Main Road, Jatni",
+        "city": "Khurda",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 562,
+        "address": "Iter, Baramunda",
+        "city": "Khurda",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 563,
+        "address": "Shahid Nagar",
+        "city": "Khurda",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 564,
+        "address": "Kiss Campus, V V Bbsr",
+        "city": "Khurdah",
+        "district": "Khurdah",
+        "state": "Orissa"
+    },
+    {
+        "id": 565,
+        "address": "Chandrasekharpur",
+        "city": "Khurdah",
+        "district": "Khurdah",
+        "state": "Orissa"
+    },
+    {
+        "id": 566,
+        "address": "Kiit Campus, Sailashree",
+        "city": "Khurdah",
+        "district": "Khurdah",
+        "state": "Orissa"
+    },
+    {
+        "id": 567,
+        "address": "Cuttack Road, Bhubaneshwar",
+        "city": "Khurdah",
+        "district": "Khurdah",
+        "state": "Orissa"
+    },
+    {
+        "id": 568,
+        "address": "Lewis Rd.Bhubneshwr",
+        "city": "Khurdah",
+        "district": "Khurdah",
+        "state": "Orissa"
+    },
+    {
+        "id": 569,
+        "address": "Bo Kolhapur",
+        "city": "Kolhapur",
+        "district": "Kolhapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 570,
+        "address": "Sealdah Railway Station",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 571,
+        "address": "Ec:ins Hasings, Napier Rd",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 572,
+        "address": "152, Raja Rajendra Lal Mitra Road, Beliaghat",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 573,
+        "address": "Ec:heritage Sch Anadapur",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 574,
+        "address": "35\/1 Kali Temple Road",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 575,
+        "address": "567, Diamond Harbour Road, Kolkatta",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 576,
+        "address": "66, Sarat Bose Road, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 577,
+        "address": "29\/a\/3b Raje, Mallick Rd",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 578,
+        "address": "Salt Lake City, Sec Iii",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 579,
+        "address": "406, Ho Chi Min Sarani, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 580,
+        "address": "311 Jawaharlal Nehru Road, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 581,
+        "address": "Dunlop Bridge Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 582,
+        "address": "123, Southern Avenue, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 583,
+        "address": "No 500, Q S Road , Kollam",
+        "city": "Kollam",
+        "district": "Kollam",
+        "state": "Kerala"
+    },
+    {
+        "id": 584,
+        "address": "Bo:darri Korba",
+        "city": "Korba",
+        "district": "Korba",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 585,
+        "address": "Alankar Dairy, Korba",
+        "city": "Korba",
+        "district": "Korba",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 586,
+        "address": "Main Road Korba",
+        "city": "Korba",
+        "district": "Korba",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 587,
+        "address": "Rajgamar, Korba",
+        "city": "Korba",
+        "district": "Korba",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 588,
+        "address": "Manendragarh",
+        "city": "Koriya",
+        "district": "Koriya",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 589,
+        "address": "Kota, Talwandi",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 590,
+        "address": "Dadabari, Kota",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 591,
+        "address": "Dadabari, Kota",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 592,
+        "address": "Bhimganj Mandi, Kota",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 593,
+        "address": "Nagar Nigam, Kota",
+        "city": "Kota",
+        "district": "Kota",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 594,
+        "address": "Kottayam",
+        "city": "Kottayam",
+        "district": "Kottayam",
+        "state": "Kerala"
+    },
+    {
+        "id": 595,
+        "address": "Bank Road, Calicut",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 596,
+        "address": "Kpkm Road Calicut",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 597,
+        "address": "Traffic Junction, Eranhipalam",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 598,
+        "address": "Govindpuram",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 599,
+        "address": "West Hill",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 600,
+        "address": "Pallikandi, Calicut",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 601,
+        "address": "Ramanattukara Nbl",
+        "city": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala"
+    },
+    {
+        "id": 602,
+        "address": "Suryaraopet Vijayawada",
+        "city": "Krishna",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 603,
+        "address": "Sriram Ngr., Ringroad",
+        "city": "Krishna",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 604,
+        "address": "Governor Pet Vijaywada",
+        "city": "Krishna",
+        "district": "Krishna",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 605,
+        "address": "Manali, H.P,",
+        "city": "Kulu",
+        "district": "Kulu",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 606,
+        "address": "Petrol Pump, Opp.Bus Std",
+        "city": "Kurukshetra",
+        "district": "Kurukshetra",
+        "state": "Haryana"
+    },
+    {
+        "id": 607,
+        "address": "Subhash Chowk",
+        "city": "Kushinagar",
+        "district": "Kushinagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 608,
+        "address": "Station Road, Bhuj",
+        "city": "Kutch",
+        "district": "Kutch",
+        "state": "Gujarat"
+    },
+    {
+        "id": 609,
+        "address": "Kandla Port Town",
+        "city": "Kutch",
+        "district": "Kutch",
+        "state": "Gujarat"
+    },
+    {
+        "id": 610,
+        "address": "Gola Gokaranath",
+        "city": "Lakhimpur Kheri",
+        "district": "Lakhimpur Kheri",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 611,
+        "address": "Charbagh, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 612,
+        "address": "Indira Ngr Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 613,
+        "address": "Cpwd Aliganj-ii",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 614,
+        "address": "Aliganj, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 615,
+        "address": "Iit, Kursi Road, Dasauli",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 616,
+        "address": "Aliganj Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 617,
+        "address": "Vikas Nagar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 618,
+        "address": "Upsrtc, Lalbagh",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 619,
+        "address": "Pnbiit Campus, Vibhutikhan",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 620,
+        "address": "Rakabganj, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 621,
+        "address": "Trade Tax Office U\/b V S Marg, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 622,
+        "address": "Hal Township",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 623,
+        "address": "V.S.Marg, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 624,
+        "address": "Hal, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 625,
+        "address": "Talkotora",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 626,
+        "address": "Gomti Nagar",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 627,
+        "address": "Aashiana, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 628,
+        "address": "Jankipuram, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 629,
+        "address": "Central Toolroom, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 630,
+        "address": "Railway Station, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 631,
+        "address": "Krnail Singh Nagar, Pakhowal Rd",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 632,
+        "address": "Feroze Gandhi Market",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 633,
+        "address": "Sarabha Nagar, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 634,
+        "address": "Chd'garh Road;ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 635,
+        "address": "Shiv Mandir Chandigarh Rd",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 636,
+        "address": "New Shivpuri Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 637,
+        "address": "Khanna Bank Colony",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 638,
+        "address": "Mata Rani Chowk",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 639,
+        "address": "Grain Mkt, Mandi Mullanpur",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 640,
+        "address": "Spl.Agri.Branch",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 641,
+        "address": "B.R.S.Nagar",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 642,
+        "address": "Durgapuri, Haibowal",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 643,
+        "address": "Opp Dmc Hospital Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 644,
+        "address": "Madurai",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 645,
+        "address": "Maharajganj",
+        "city": "Maharajganj",
+        "district": "Maharajganj",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 646,
+        "address": "Mahasamund, Chhattisgarh",
+        "city": "Mahasamund",
+        "district": "Mahasamund",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 647,
+        "address": "Kuttipuram",
+        "city": "Malapuram",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 648,
+        "address": "Kottakal, Kerala",
+        "city": "Malapuram",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 649,
+        "address": "Tirur, Kerala",
+        "city": "Malapuram",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 650,
+        "address": "Wandoor, Kerala",
+        "city": "Malapuram",
+        "district": "Malapuram",
+        "state": "Kerala"
+    },
+    {
+        "id": 651,
+        "address": "Sunder Nagar",
+        "city": "Mandi",
+        "district": "Mandi",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 652,
+        "address": "Mandi School Bazar",
+        "city": "Mandi",
+        "district": "Mandi",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 653,
+        "address": "Margoa",
+        "city": "Margao",
+        "district": "Margao",
+        "state": "Goa"
+    },
+    {
+        "id": 654,
+        "address": "Agnel Ashram, Margao, Goa",
+        "city": "Margao",
+        "district": "Margao",
+        "state": "Goa"
+    },
+    {
+        "id": 655,
+        "address": "Chowki Bagh Bahadur",
+        "city": "Mathura",
+        "district": "Mathura",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 656,
+        "address": "Miet, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 657,
+        "address": "Bit, Institute, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 658,
+        "address": "Sports Complex",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 659,
+        "address": "Gole Market, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 660,
+        "address": "Railway Stn",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 661,
+        "address": "E K Road, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 662,
+        "address": "Begum Bridge, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 663,
+        "address": "Jagriti Vihar",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 664,
+        "address": "Shastri Nagar",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 665,
+        "address": "Ganga Nagar",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 666,
+        "address": "Ganga Nagar",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 667,
+        "address": "Bit, Institute, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 668,
+        "address": "Belda",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 669,
+        "address": "Contai-midnapur",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 670,
+        "address": "Durga Chowk",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 671,
+        "address": "Haldia",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 672,
+        "address": "Keshiary, Midnapur",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 673,
+        "address": "Air For Ce Station",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 674,
+        "address": "Mecheda Railway Station",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 675,
+        "address": "Mecheda",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 676,
+        "address": "Bijoygram Chowk, Panskura",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 677,
+        "address": "Kharagpur, Keshiary Road",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 678,
+        "address": "Harir Bazar, Tamluk",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 679,
+        "address": "Kharagpur I.I.T",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 680,
+        "address": "I I T Kharagpur",
+        "city": "Midnapur",
+        "district": "Midnapur",
+        "state": "West Bengal"
+    },
+    {
+        "id": 681,
+        "address": "Ferozpur Road",
+        "city": "Moga",
+        "district": "Moga",
+        "state": "Punjab"
+    },
+    {
+        "id": 682,
+        "address": "Jawahar Nagar, Moga",
+        "city": "Moga",
+        "district": "Moga",
+        "state": "Punjab"
+    },
+    {
+        "id": 683,
+        "address": "Phase Vii, Mohali",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 684,
+        "address": "Mohali Phase 7",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 685,
+        "address": "Sarao Hotel Site 71-74",
+        "city": "Mohali",
+        "district": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "id": 686,
+        "address": "Mohindergarh",
+        "city": "Mohendragarh",
+        "district": "Mohendragarh",
+        "state": "Haryana"
+    },
+    {
+        "id": 687,
+        "address": "Court Road, Narnaul",
+        "city": "Mohendragarh",
+        "district": "Mohendragarh",
+        "state": "Haryana"
+    },
+    {
+        "id": 688,
+        "address": "Opp Pnb Bo:court Rd Narnul",
+        "city": "Mohendragarh",
+        "district": "Mohendragarh",
+        "state": "Haryana"
+    },
+    {
+        "id": 689,
+        "address": "Civil Lines",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 690,
+        "address": "Lajpat Nagar, Moradabad",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 691,
+        "address": "Kanth Road, Moradabad",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 692,
+        "address": "Anushakti Nagar, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 693,
+        "address": "Navsena Baugh, Cheetah Camp",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 694,
+        "address": "Anushakti Nagar",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 695,
+        "address": "Malad",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 696,
+        "address": "Zonal Office, Dalamal House",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 697,
+        "address": "Seepz, Andheri",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 698,
+        "address": "Giridhar Tower, Mathuradas Road, Kandivli",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 699,
+        "address": "Chembur Camp",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 700,
+        "address": "Borivali, West",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 701,
+        "address": "Goregaon",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 702,
+        "address": "Sane Guruji Marg",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 703,
+        "address": "Bs Marg Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 704,
+        "address": "Sion Circle(west),",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 705,
+        "address": "Mandvi",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 706,
+        "address": "Vile Parle(east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 707,
+        "address": "Worli, Seaface",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 708,
+        "address": "Thakur Complex, Kandivili(e)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 709,
+        "address": "Andheri East;mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 710,
+        "address": "Mulund Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 711,
+        "address": "Kandivli(east)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 712,
+        "address": "Bo:dombivalli, Mumbai",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 713,
+        "address": "Hanuman Chowk",
+        "city": "Muzaffarnagar",
+        "district": "Muzaffarnagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 714,
+        "address": "Bo: Court Road",
+        "city": "Muzaffarnagar",
+        "district": "Muzaffarnagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 715,
+        "address": "Gandhi Nagar, Muzaffarnagr",
+        "city": "Muzaffarnagar",
+        "district": "Muzaffarnagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 716,
+        "address": "Khabra Road",
+        "city": "Muzaffarpur",
+        "district": "Muzaffarpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 717,
+        "address": "Mddm College",
+        "city": "Muzaffarpur",
+        "district": "Muzaffarpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 718,
+        "address": "Hajipur",
+        "city": "Muzaffarpur",
+        "district": "Muzaffarpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 719,
+        "address": "Akharaghat Road, Muzzafarpur",
+        "city": "Muzzafarpur",
+        "district": "Muzzafarpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 720,
+        "address": "Deedwana, Distt Naraur",
+        "city": "Nagaur",
+        "district": "Nagaur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 721,
+        "address": "Khamla Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 722,
+        "address": "Hanuman Nagar Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 723,
+        "address": "Priyadarshini College, Crpf Road",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 724,
+        "address": "Haldwani Medical College",
+        "city": "Naini Tal",
+        "district": "Naini Tal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 725,
+        "address": "Naini Tal",
+        "city": "Naini Tal",
+        "district": "Naini Tal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 726,
+        "address": "Ramnagar",
+        "city": "Naini Tal",
+        "district": "Naini Tal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 727,
+        "address": "Namakka, Tamilnadu",
+        "city": "Namakkal",
+        "district": "Namakkal",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 728,
+        "address": "Nandanam, Chennai",
+        "city": "Nandanam",
+        "district": "Nandanam",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 729,
+        "address": "Hal Township, Ojhar, Nasik",
+        "city": "Nasik",
+        "district": "Nasik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 730,
+        "address": "Sharanpur Road, Nasik",
+        "city": "Nasik",
+        "district": "Nasik",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 731,
+        "address": "Sidharth Nagar",
+        "city": "Naugarh",
+        "district": "Naugarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 732,
+        "address": "Vashi Branch",
+        "city": "Navi Mumbai",
+        "district": "Navi Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 733,
+        "address": "Cbd Belapur, Navimumbai",
+        "city": "Navi Mumbai",
+        "district": "Navi Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 734,
+        "address": "Rail Majra, Nawanshahr",
+        "city": "Nawanshahr",
+        "district": "Nawanshahr",
+        "state": "Punjab"
+    },
+    {
+        "id": 735,
+        "address": "New Danamandi",
+        "city": "Nawanshahr",
+        "district": "Nawanshahr",
+        "state": "Punjab"
+    },
+    {
+        "id": 736,
+        "address": "Court Road",
+        "city": "Nawanshahr",
+        "district": "Nawanshahr",
+        "state": "Punjab"
+    },
+    {
+        "id": 737,
+        "address": "Nizamabad",
+        "city": "Nizamabad",
+        "district": "Nizamabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 738,
+        "address": "Sec-18, Noida",
+        "city": "Noida",
+        "district": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 739,
+        "address": "Sector - 48, Noida",
+        "city": "Noida",
+        "district": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 740,
+        "address": "Sector-18, Noida",
+        "city": "Noida",
+        "district": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 741,
+        "address": "Ansal Fortune Arcade Mall",
+        "city": "Noida",
+        "district": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 742,
+        "address": "Ottapalam",
+        "city": "Palakad",
+        "district": "Palakad",
+        "state": "Kerala"
+    },
+    {
+        "id": 743,
+        "address": "Perinthalmana",
+        "city": "Palakad",
+        "district": "Palakad",
+        "state": "Kerala"
+    },
+    {
+        "id": 744,
+        "address": "Main Road Pattambi",
+        "city": "Palakad",
+        "district": "Palakad",
+        "state": "Kerala"
+    },
+    {
+        "id": 745,
+        "address": "Kalpathy, Kerla",
+        "city": "Palakkad",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 746,
+        "address": "Chandranagar",
+        "city": "Palakkad",
+        "district": "Palakkad",
+        "state": "Kerala"
+    },
+    {
+        "id": 747,
+        "address": "Pali",
+        "city": "Pali",
+        "district": "Pali",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 748,
+        "address": "Sector-08, Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 749,
+        "address": "Sec 15, Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 750,
+        "address": "Sec 7, Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 751,
+        "address": "Ec Rsc Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 752,
+        "address": "Pinjore",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 753,
+        "address": "Chandi Mandir",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 754,
+        "address": "Sector 4, Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 755,
+        "address": "Sec12, Panchkula",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 756,
+        "address": "Sec-5",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 757,
+        "address": "Nsm, Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 758,
+        "address": "Asandh Road, Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 759,
+        "address": "Tehsil Camp, Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 760,
+        "address": "Sukhdev Nagar, Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 761,
+        "address": "Shop No.12, Gol Mkt, Mt Panipat",
+        "city": "Panipat",
+        "district": "Panipat",
+        "state": "Haryana"
+    },
+    {
+        "id": 762,
+        "address": "Panjim Goa",
+        "city": "Panjim",
+        "district": "Panjim",
+        "state": "Goa"
+    },
+    {
+        "id": 763,
+        "address": "Malkana, Distt.Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 764,
+        "address": "Phatak No:22",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 765,
+        "address": "Model Town Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 766,
+        "address": "Tripuri, Opp Bsnl, Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 767,
+        "address": "Bhadson Road, Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 768,
+        "address": "Rajpura Township",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 769,
+        "address": "Ambedkar Mkt, Nabha",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 770,
+        "address": "Sst Nagar, Patiala",
+        "city": "Patiala",
+        "district": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "id": 771,
+        "address": "Kankarbagh Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 772,
+        "address": "B.O.Nawada",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 773,
+        "address": "A.N.College Extn., Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 774,
+        "address": "New Market",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 775,
+        "address": "Kidwaipuri, S.K.Nagar",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 776,
+        "address": "Rajya Nirman Nigam",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 777,
+        "address": "Cmo:buddha Colony, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 778,
+        "address": "Punaichak, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 779,
+        "address": "Egm, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 780,
+        "address": "Sampatchak, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 781,
+        "address": "V\/b:gandhinagar, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 782,
+        "address": "V\/b:gandhinagar, Patna",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 783,
+        "address": "Lakhi Sarai",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 784,
+        "address": "Bihar Sharif",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 785,
+        "address": "Morcha Road",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 786,
+        "address": "Pauri, Dehradun",
+        "city": "Pauri Garhwal",
+        "district": "Pauri Garhwal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 787,
+        "address": "Pithoragarh, Uttranchal",
+        "city": "Pithoragarh",
+        "district": "Pithoragarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 788,
+        "address": "Pondicherry",
+        "city": "Pondicherry",
+        "district": "Pondicherry",
+        "state": "Pondicherry"
+    },
+    {
+        "id": 789,
+        "address": "B.O.Pratapgarh",
+        "city": "Pratapgarh",
+        "district": "Pratapgarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 790,
+        "address": "Cme Campus, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 791,
+        "address": "Cme Campus Bhopkhed",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 792,
+        "address": "573\/1, Jangli Maharaj Road Deccan Gymkhana",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 793,
+        "address": "Senapati Bapat Road",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 794,
+        "address": "Vidyanagar Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 795,
+        "address": "Nanapeth, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 796,
+        "address": "Londewari Bhosari Ind.Est",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 797,
+        "address": "Suvidha Corner, Kothrud",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 798,
+        "address": "Satara Road, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 799,
+        "address": "Bharti Vidyapeeth, Satara",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 800,
+        "address": "Deccan Gymkhana, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 801,
+        "address": "Kothrud",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 802,
+        "address": "Nayak Plaza, Grand Road",
+        "city": "Puri",
+        "district": "Puri",
+        "state": "Orissa"
+    },
+    {
+        "id": 803,
+        "address": "Ntpc, Uchahar",
+        "city": "Raibareilly",
+        "district": "Raibareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 804,
+        "address": "Khopoli, Dist.Raigarh",
+        "city": "Raigad",
+        "district": "Raigad",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 805,
+        "address": "Station Road",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 806,
+        "address": "Devendra Nagar",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 807,
+        "address": "Rite(mandir Hasod)",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 808,
+        "address": "Anupam Nagar, Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 809,
+        "address": "Vip Estate Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 810,
+        "address": "Phool Chowk",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 811,
+        "address": "Rajsamand, Rajasthan",
+        "city": "Rajasmand",
+        "district": "Rajasmand",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 812,
+        "address": "Kalawad Raod",
+        "city": "Rajkot",
+        "district": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "id": 813,
+        "address": "Bachra",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 814,
+        "address": "Chaibasa Jharkhand",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 815,
+        "address": "Mahavir Chowk",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 816,
+        "address": "Bokaro City Centre, Sec 4",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 817,
+        "address": "Adityapur",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 818,
+        "address": "Main Road, Ranchi",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 819,
+        "address": "Iswp",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 820,
+        "address": "Cozycnr., Kantatoli Chowk",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 821,
+        "address": "Bankmore",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 822,
+        "address": "B.S.City, Sec Iv",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 823,
+        "address": "Dharuhera",
+        "city": "Riwari",
+        "district": "Riwari",
+        "state": "Haryana"
+    },
+    {
+        "id": 824,
+        "address": "Hissar Road, Rohtak",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 825,
+        "address": "Bhiwani Chungi",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 826,
+        "address": "Outer Quila Road",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 827,
+        "address": "Sector 1, Huda, Rohtak",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 828,
+        "address": "Model Town",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 829,
+        "address": "Delhi Rohtak Rd",
+        "city": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "id": 830,
+        "address": "Iit, Roorkee",
+        "city": "Roorkee",
+        "district": "Roorkee",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 831,
+        "address": "College Of Engg, Roorkee",
+        "city": "Roorkee",
+        "district": "Roorkee",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 832,
+        "address": "Zirakhpur",
+        "city": "Ropar",
+        "district": "Ropar",
+        "state": "Punjab"
+    },
+    {
+        "id": 833,
+        "address": "Ropar Rd., Kharar",
+        "city": "Ropar",
+        "district": "Ropar",
+        "state": "Punjab"
+    },
+    {
+        "id": 834,
+        "address": "Morinda Distt.Ropar",
+        "city": "Ropar",
+        "district": "Ropar",
+        "state": "Punjab"
+    },
+    {
+        "id": 835,
+        "address": "Gangapur City",
+        "city": "S Madhopur",
+        "district": "S Madhopur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 836,
+        "address": "Gangapur City",
+        "city": "S Madhopur",
+        "district": "S Madhopur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 837,
+        "address": "Awas Vikas Colony",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 838,
+        "address": "Fatehpur",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 839,
+        "address": "Pratap Mkt, Clock Tower",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 840,
+        "address": "Pandukheri",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 841,
+        "address": "Madho Nagar, Saharanpur",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 842,
+        "address": "Civil Hospital, Saharanpur",
+        "city": "Saharanpur",
+        "district": "Saharanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 843,
+        "address": "Abhishek Industries",
+        "city": "Sangrur",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 844,
+        "address": "Abhishek Industries",
+        "city": "Sangrur",
+        "district": "Sangrur",
+        "state": "Punjab"
+    },
+    {
+        "id": 845,
+        "address": "Sant Kabir Nagar",
+        "city": "Sant Kabir Nagar",
+        "district": "Sant Kabir Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 846,
+        "address": "Lalta Chowk, Satna",
+        "city": "Satna",
+        "district": "Satna",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 847,
+        "address": "Lift Road, Shimla",
+        "city": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 848,
+        "address": "Paonta Sahib G Road",
+        "city": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 849,
+        "address": "Sda Complex, Kasumpati",
+        "city": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 850,
+        "address": "Kasturba Market Solapur",
+        "city": "Sholapur",
+        "district": "Sholapur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 851,
+        "address": "Additional Anaj Mandi Sirsa",
+        "city": "Sirsa",
+        "district": "Sirsa",
+        "state": "Haryana"
+    },
+    {
+        "id": 852,
+        "address": "Barnala Road, Sirsa",
+        "city": "Sirsa",
+        "district": "Sirsa",
+        "state": "Haryana"
+    },
+    {
+        "id": 853,
+        "address": "Nalagrah Solan",
+        "city": "Solan",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 854,
+        "address": "Parwano",
+        "city": "Solan",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 855,
+        "address": "Subathu, Solan",
+        "city": "Solan",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 856,
+        "address": "Baddi, Distt.Solan",
+        "city": "Solan",
+        "district": "Solan",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 857,
+        "address": "Sec 14, Sonipat",
+        "city": "Sonepat",
+        "district": "Sonepat",
+        "state": "Haryana"
+    },
+    {
+        "id": 858,
+        "address": "#37, Sec-14, Sonepat",
+        "city": "Sonepat",
+        "district": "Sonepat",
+        "state": "Haryana"
+    },
+    {
+        "id": 859,
+        "address": "Bharat Hospital, Sonepat",
+        "city": "Sonepat",
+        "district": "Sonepat",
+        "state": "Haryana"
+    },
+    {
+        "id": 860,
+        "address": "Ganesha Temple Road",
+        "city": "South Canara",
+        "district": "South Canara",
+        "state": "Karnataka"
+    },
+    {
+        "id": 861,
+        "address": "Surathgarh Cantt",
+        "city": "Sriganganagar",
+        "district": "Sriganganagar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 862,
+        "address": "Meera Chowk",
+        "city": "Sriganganagar",
+        "district": "Sriganganagar",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 863,
+        "address": "Amirer Kadal, Srinagar",
+        "city": "Srinagar",
+        "district": "Srinagar",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 864,
+        "address": "Badami Bagh, Srinagar",
+        "city": "Srinagar",
+        "district": "Srinagar",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 865,
+        "address": "Zadibal",
+        "city": "Srinagar",
+        "district": "Srinagar",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 866,
+        "address": "Rawalpura",
+        "city": "Srinagar",
+        "district": "Srinagar",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 867,
+        "address": "Chinar Sh.Comp.Srinagar",
+        "city": "Srinagar",
+        "district": "Srinagar",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 868,
+        "address": "Sultanpur",
+        "city": "Sultanpur",
+        "district": "Sultanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 869,
+        "address": "Knit, Sultanpur",
+        "city": "Sultanpur",
+        "district": "Sultanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 870,
+        "address": "Sundergarh",
+        "city": "Sundergarh",
+        "district": "Sundergarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 871,
+        "address": "Sundergarh",
+        "city": "Sundergarh",
+        "district": "Sundergarh",
+        "state": "Orissa"
+    },
+    {
+        "id": 872,
+        "address": "Muktanand Nagar",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 873,
+        "address": "Ntpc Kawas",
+        "city": "Surat",
+        "district": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": 874,
+        "address": "Bhagirathpuram",
+        "city": "Tehri Garhwal",
+        "district": "Tehri Garhwal",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 875,
+        "address": "Shivaji Path, Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 876,
+        "address": "Shivaji Nagar",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 877,
+        "address": "Kalyan Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 878,
+        "address": "M.G.Road, Thane",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 879,
+        "address": "D\/1, Rutu Park, Thane(w)",
+        "city": "Thane",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 880,
+        "address": "Bikshandarkoli",
+        "city": "Thiruchirapalli",
+        "district": "Thiruchirapalli",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 881,
+        "address": "Karur",
+        "city": "Thiruchirapalli",
+        "district": "Thiruchirapalli",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 882,
+        "address": "Trichy Vayalur Road",
+        "city": "Thiruchirapalli",
+        "district": "Thiruchirapalli",
+        "state": "Tamilnadu"
+    },
+    {
+        "id": 883,
+        "address": "Tirupathi",
+        "city": "Tirupathi",
+        "district": "Tirupathi",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 884,
+        "address": "Tiruvalla",
+        "city": "Tiruvalla",
+        "district": "Tiruvalla",
+        "state": "Kerala"
+    },
+    {
+        "id": 885,
+        "address": "Trichur, Kuruppam Road",
+        "city": "Trichur",
+        "district": "Trichur",
+        "state": "Kerala"
+    },
+    {
+        "id": 886,
+        "address": "Edappazhinji, Trivandrum",
+        "city": "Trivandrum",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 887,
+        "address": "Stn.Rd., Trivendrum",
+        "city": "Trivandrum",
+        "district": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": 888,
+        "address": "Kalaji Goraji",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 889,
+        "address": "Chetak Circle, Udaipur",
+        "city": "Udaipur",
+        "district": "Udaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 890,
+        "address": "Thill Rown",
+        "city": "Udhampur",
+        "district": "Udhampur",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 891,
+        "address": "Dewas Gate, Ujjain",
+        "city": "Ujjain",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 892,
+        "address": "Una",
+        "city": "Una",
+        "district": "Una",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 893,
+        "address": "Gagret, Dist Una, H.P",
+        "city": "Una",
+        "district": "Una",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 894,
+        "address": "Vpo Amb, Distt Una, Hp",
+        "city": "Una",
+        "district": "Una",
+        "state": "Himachal Pradesh"
+    },
+    {
+        "id": 895,
+        "address": "Unnao Main , Lucknow",
+        "city": "Unnao",
+        "district": "Unnao",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 896,
+        "address": "Unnao",
+        "city": "Unnao",
+        "district": "Unnao",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 897,
+        "address": "Pahoria, Varanasi",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 898,
+        "address": "Orderly Bazar",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 899,
+        "address": "Bulanala",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 900,
+        "address": "Teliabagh, Varanasi",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    }
+]

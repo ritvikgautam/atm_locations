@@ -1,0 +1,1472 @@
+[
+    {
+        "id": 1,
+        "address": "Sanjay Place Agra",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "address": "C-2\/48, Grive Complex, Kamala Nagar, , Agra, 282005, 0562-2181551,",
+        "city": "Agra",
+        "district": "Agra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "address": "201, Om Tower, Near Star Bazar, Near Isro, Satellite Road, Ahmedabad - 3800015",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": 4,
+        "address": "University Campus, Aligarh Muslim University, , Aligarh, 202001, 0571 2705065,",
+        "city": "Aligarh",
+        "district": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "address": "22 Purshottam Das Tandon Road, Civil Lines , Allahabad, 211001, 0532-2622288 \/ 2621289 \/ 2422438,",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 6,
+        "address": "187-a, Atarsuiya Circular Park, Allahabad, 211003, 0532-2451496,",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "address": "House No.C- 883 , Kareli Housing Scheme , Allahabad, , 0532-2550348,",
+        "city": "Allahabad",
+        "district": "Allahabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 8,
+        "address": "659, Mukkath Plaza, , Bye-pass Junction, Bridge Road, Ernakulam, 683101",
+        "city": "Alwaye",
+        "district": "Ernakulam",
+        "state": "Kerala"
+    },
+    {
+        "id": 9,
+        "address": "Shop No.19, Corporation Market, Hathi Gate, Amritsar",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "id": 10,
+        "address": "C\/o A.K.Singh, Near Asrar Petrol Pump&police Lines, Civil Lines Badaun",
+        "city": "Badaun",
+        "district": "Badaun",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 11,
+        "address": "Kothari Bhawan, 23, Mewatipura, Bahraich",
+        "city": "Bahraich",
+        "district": "Bahraich",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 12,
+        "address": "Near Railway Station, Ballia",
+        "city": "Ballia",
+        "district": "Balia",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 13,
+        "address": "947, 7th Cross, 16th Main, Btm Layout, 2nd Stage, Bangalore-560043",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 14,
+        "address": "Bms Engineering College Campus, Hanumanthnagar, , Bangalore Urban, 560019, 080-26675727,",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 15,
+        "address": "K.G.Road Branch, Karnataka Chamber Of Commerce Building, 2 Kempe Gowda Road, Bangalore-560009, 080-22262064\/22261599 (under Shifting From Jayanagar Branch)",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 16,
+        "address": "806, 5th Cross, 1st Block, Hrbr Layout, Kalyannagar, Bangalore-560043",
+        "city": "Bangalore",
+        "district": "Bangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 17,
+        "address": "Sri Sunil Manchanda, Nandan Van Colony, Nainital Road, Izzatnagar, Bareilly-u.P.243122",
+        "city": "Bareilly",
+        "district": "Bareiily",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 18,
+        "address": "Shanti Bhawan, Giridhar Chamber, Ist Floor, , Oppo.Hathipole, Rajmahal Road, Baroda, 390001, 0265- 2433276 \/ 2435482,",
+        "city": "Baroda",
+        "district": "Baroda",
+        "state": "Gujarat"
+    },
+    {
+        "id": 19,
+        "address": "T.M.Bhagalpur University, , , , Bhagalpur, 812007, 0641-2620746,",
+        "city": "Bhagalpur",
+        "district": "Bhagalpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 20,
+        "address": "E-1\/74 Arera Colony, , , Bhopal, 462016, 0755-2564524,",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 21,
+        "address": "Bhel Town Qr.No.118, Type Iii, B Sector, Piplani Bhel, , Bhopal, 462021, 0755-2756939,",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 22,
+        "address": "Hpcl Petrol Pump, C\/o M\/s Ibrahim Ali Imdad Ali, Royal Market, Bhopal",
+        "city": "Bhopal",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 23,
+        "address": "159, Bapuji Nagar, Bhubaneswar , , Dist.Khurda, 751009, 0674-2532745\/2533087\/2536216\/ 2542233,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 24,
+        "address": "Kiit Campus-i , P.O.Kiit, Bhubaneswar, Dist.Khurda, 751024, ,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 25,
+        "address": "Lewis Talkies Square, Lewis Road, Bhubaneswar , , Dist.Khurda, 751002, 0674-2431421 \/ 2433673 \/ 2431127 ,",
+        "city": "Bhubaneshwar",
+        "district": "Khurda",
+        "state": "Orissa"
+    },
+    {
+        "id": 26,
+        "address": "Kem Road, Bikaner",
+        "city": "Bikaner",
+        "district": "Bikaner",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 27,
+        "address": "Link Road, Cmd College, Bilaspur - 495001",
+        "city": "Bilaspur",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 28,
+        "address": "Misterganj, Biswan, Sitapur",
+        "city": "Biswan",
+        "district": "Sitapur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 29,
+        "address": "15\/d\/2, Western Avenue, Sector - 2, Naya More, Bokaro , Bokaro, 827001, 06542-240257\/242542,",
+        "city": "Bokaro",
+        "district": "Bokaro",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 30,
+        "address": "796, B.Mukherjee Road, Chandannagar, , Dist.Hooghly, 712136, 033-26835768,",
+        "city": "Chandannagar",
+        "district": "Hoogly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 31,
+        "address": "S.C.O.No.90-91-92, Sector - 8 C Madhya Marg, , Chandigarh, 160018, 0172-2547007 \/ 2782040,",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 32,
+        "address": "Shop-cum-office 23-24-25, Sector -34 A, City Sub Centre, , Chandigarh, 160022, 0172-2621896 \/ 2669477,",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 33,
+        "address": "Chandigarh Tribune Trust",
+        "city": "Chandigarh",
+        "district": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "id": 34,
+        "address": "1, Vageeswari Amman Street, Vijayalakshmipuram, Ambattur, Chennai - 600053.",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 35,
+        "address": "E4-3rd Main Road, Annanagar, , Chennai, 600102, 044-26263882 \/ 26194848,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 36,
+        "address": "40\/41, Mount Road, , , Chennai , 600002, 044-28585641 \/ 28516194,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 37,
+        "address": "12\/35, First Main Road, Jawahar Nagar, Chennai, 600082, 044-26705566,",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 38,
+        "address": "1c, 1st Main Bazaar Road, Chennai -37.Ph.No.044-26566633",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 39,
+        "address": "Babuji Memorial Ashram, 39, Srcm Road, Manapakkam, Chennai-600116, 044-22522954",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 40,
+        "address": "R.S.-691, 20 No.Chinsurah Mouza",
+        "city": "Chinsurah",
+        "district": "Hoogly",
+        "state": "West Bengal"
+    },
+    {
+        "id": 41,
+        "address": "254, T V Samy Road(east), Rs Puram, Coimbatore - 2",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 42,
+        "address": "Moni Bhawan, 11 Cantonment Road, , Cuttack, 753001, 0671-2304013,",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 43,
+        "address": "C\/o- Sri Omm Prakash Chhapolia , Nayasarak Cuttack, Pin-753002, Orissa",
+        "city": "Cuttack",
+        "district": "Cuttack",
+        "state": "Orissa"
+    },
+    {
+        "id": 44,
+        "address": "Pandasari Road, , , , Darbhanga, 846004, 06272-222307 \/ 232706,",
+        "city": "Darbhanga",
+        "district": "Darbhanga",
+        "state": "Bihar"
+    },
+    {
+        "id": 45,
+        "address": "1, Gandhi Road, Near Clock Tower, Dehradun, 248001",
+        "city": "Dehradun",
+        "district": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 46,
+        "address": "Pathak Dharmshala Baidhyanath Mandir Campus, Deoghar",
+        "city": "Deoghar",
+        "district": "Deoghar",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 47,
+        "address": "Rada Swami Arcade, Sarai Phela",
+        "city": "Dhanbad",
+        "district": "Dhanbad",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 48,
+        "address": "C\/o Bangsi Saikia , Duliajanfancy Bazar, Saikai Market Complex",
+        "city": "Duliajan",
+        "district": "Dibrugarh",
+        "state": "Assam"
+    },
+    {
+        "id": 49,
+        "address": "Imperial Plaza, Faizabad",
+        "city": "Faizabad",
+        "district": "Faizabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 50,
+        "address": "Ansal Plaza Mall, Faridabad Main Nh-2, Sector 15a Main Mathura Road Faridabad",
+        "city": "Fatehpur",
+        "district": "Fatehpur",
+        "state": "Haryana"
+    },
+    {
+        "id": 51,
+        "address": "195-196, Chh Road, Sector 21, Gandhinagar - 382021",
+        "city": "Gandhinagar",
+        "district": "Gandhinagar",
+        "state": "Gujarat"
+    },
+    {
+        "id": 52,
+        "address": "K.P.Road Chowk Infront Of Bharat Talkis Buliding Gaya",
+        "city": "Gaya",
+        "district": "Gaya",
+        "state": "Bihar"
+    },
+    {
+        "id": 53,
+        "address": "Vasundhara Avas Vikas Colony, G.T.Road, , Ghaziabad, , 2882470,",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 54,
+        "address": "55a, Navyug Market, P.B.No.12, , , Ghaziabad, 201001, 0120-2790030\/2795941,",
+        "city": "Ghaziabad",
+        "district": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 55,
+        "address": "Court Road, Tower Chowk, Giridih",
+        "city": "Giridih",
+        "district": "Giridih",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 56,
+        "address": "Bahraich Road, Near Bus Stand, , Gonda, 271001, 05262-222979,",
+        "city": "Gonda",
+        "district": "Gonda",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 57,
+        "address": "Near Gorakhnath Branch, Gorakhpur",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 58,
+        "address": "Civil Lines, , , Gorakhpur, 273001, 0551-2333009,",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 59,
+        "address": "Cross Road Complex, Bank Road, Gorakhpur",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 60,
+        "address": "University Campus, , , Gorakhpur, 273001, 0551-2334381,",
+        "city": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 61,
+        "address": "House No.1, Sector 4, Urban Estate, Gurgaon, , Gurgaon, 122001, 0124-2334590,",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 62,
+        "address": "Ugf, Atm No.1 , Central Point, Sushant Lok-1, Gurgaon",
+        "city": "Gurgaon",
+        "district": "Gurgaon",
+        "state": "Haryana"
+    },
+    {
+        "id": 63,
+        "address": "Panbazar",
+        "city": "Guwahati",
+        "district": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "id": 64,
+        "address": "15 Tagore Nagar, Jiwaji University, , Gwalior, 474002, 0751-2341675,",
+        "city": "Gwalior",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 65,
+        "address": "Cinema Road Hardoi",
+        "city": "Hardoi",
+        "district": "Hardoi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 66,
+        "address": "Garibdhasi Dharmshala, Railway Road, Hardwar-249401",
+        "city": "Haridwar",
+        "district": "Haridwar",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 67,
+        "address": "3, Guru Govind Singh Road, Hazaribagh, 825301, 06546-222796\/223759,",
+        "city": "Hazaribagh",
+        "district": "Hazaribagh",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 68,
+        "address": "Police Line Hazaribagh",
+        "city": "Hazaribagh",
+        "district": "Hazaribagh",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 69,
+        "address": "3-6-435, Himayatnagar Main Road, , , Hyderabad, 500029, 040-27638798 \/ 26572838,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 70,
+        "address": "8\/3\/222\/1\/1 Shalimar Apartment, Yousufguda Road, Marutinagar, Hyderabad, 500038, 040-23732249 \/ 23750352,",
+        "city": "Hyderabad",
+        "district": "Hyderabad",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 71,
+        "address": "Scheme - 54, Infront Of Hotel Sayaji, Vijay Nagar, Indore",
+        "city": "Indore",
+        "district": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 72,
+        "address": "Allahabad Bank Square, Residency Road, Civil Lines , Jabalpur",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 73,
+        "address": "Narbada Road, Katanga, , Jabalpur, 482001, 0761-2403562,",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 74,
+        "address": "Rdvy Premises Pachpedi, South Civil Lines, , Jabalpur, 482001, 0761-604403,",
+        "city": "Jabalpur",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 75,
+        "address": "Allahabad Bank, Bhagat Singh Chauraha, Vijay Mandir Road, Alwar-301001",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 76,
+        "address": "Ambabari Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 77,
+        "address": "Jaipuria Mansion, Panch Batti, M.I.Road, Jaipur, 302003, 0141-2379383,",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 78,
+        "address": "Shop No.A-7, Kardhani Shopping Center, Malviya Nagar , Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 79,
+        "address": "9a, Rseb, Gautam Marg, Opp.Vaibhav Cinecomplex, Vaishali Nagar, Jaipur",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 80,
+        "address": "G.T.Road, Opposite Nehru Garden, Jalandhar",
+        "city": "Jalandhar",
+        "district": "Jalandhar",
+        "state": "Punjab"
+    },
+    {
+        "id": 81,
+        "address": "67, Vir Marg (residency Road), Near Raghunath Temple, Jammu",
+        "city": "Jammu",
+        "district": "Jammu",
+        "state": "Jammu & Kashmir"
+    },
+    {
+        "id": 82,
+        "address": "Shop : 4, Birenu Trade Centre, Pennar Road, Sakchi",
+        "city": "Jamshedpur",
+        "district": "East Singhbhum",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 83,
+        "address": "92, Civil Lines, , , Jhansi, 284001, 0517-2471567,",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 84,
+        "address": "Veerangna Nagar, Kanpur Road Jhansi",
+        "city": "Jhansi",
+        "district": "Jhansi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 85,
+        "address": "803, Chopasani Road, , , , Jodhpur, 342003, 0291-2430064\/5131364,",
+        "city": "Jodhpur",
+        "district": "Jodhpur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": 86,
+        "address": "Ntpc Complex Kahalgaon",
+        "city": "Kahalgaon",
+        "district": "Kahalgaon",
+        "state": "Bihar"
+    },
+    {
+        "id": 87,
+        "address": "20-1-47 , Ground Floor, Opp Srmt, Main Road Kakinada 533 001",
+        "city": "Kakinada",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 88,
+        "address": "223, Z-1, Barra-ii, P.O.Juhilal Colony, , Kanpur, 208027, 0512-2612363,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 89,
+        "address": "110\/31, Jawahar Nagar, 80 Ft.Road, Kanpur",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 90,
+        "address": "117\/n\/29, Kakadeo Kanpur",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 91,
+        "address": "233-c, Govind Nagar, , , Kanpur, 208006, 0512-2651641,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 92,
+        "address": "124a, Vikas Nagar, Lakhanpur, , Kanpur, , 0512-2580344,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 93,
+        "address": "15\/287, Civil Lines, Post Box No.2, M.G.Marg, Kanpur, 208001, 0512-2304052 \/ 2304411 \/ 2306939,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 94,
+        "address": "113\/58, Swarupnagar, Opp.Moti Jheel, , Kanpur, 208002, 0512-2214272,",
+        "city": "Kanpur",
+        "district": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 95,
+        "address": "New No.- 21 Alagumeenal Complex College Road, Karaikudi -630002",
+        "city": "Karaikudi",
+        "district": "Karaikudi",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 96,
+        "address": "Gole Bazar, Rly Mkt, Kharagpur, Dist.Paschim Mdnipur, Pin-721301",
+        "city": "Kharagpur",
+        "district": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "id": 97,
+        "address": "41\/2b, Sarat Bose Road, Kolkata - 700020",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 98,
+        "address": "4 & 5 Gariahat Road, Amri Hospital Campus, Kolkata-29",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 99,
+        "address": "Indian Statistical Institute, 203, B.T.Road.Kolkata-700 108.",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 100,
+        "address": "1\/a, Ronaldshay Road, Kolkata-700027, 033-24796267 \/ 24795839,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 101,
+        "address": "14\/1 Spd Block, Bagha Jatin, Kolkata-86.033-24252933",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 102,
+        "address": "425, Lake Gardens, Kolkata-45, 033-24174545,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 103,
+        "address": "Allahabad Bank Head Office, 2 N.S Road, Kolkata-700001.",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 104,
+        "address": "Block No.N Plot No.554, New Alipore, , Kolkata, 700053, 033-24000049",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 105,
+        "address": "4, Syed Amir Ali Avenue, Park Circus, Kolkata-17, 033-22470701,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 106,
+        "address": "117, Santoshpur Avenue, Kolkata-75.Ph.24162428",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 107,
+        "address": "93, Dum Dum Road, , , Kolkata, 700030, 033-25574032 \/ 25288718 \/ 25288719,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 108,
+        "address": "Jyotibhavan Mahamayatala, Garia Main Road, Kolkata-84",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 109,
+        "address": "57\/1z, N S C Bose Road 19\/2 Nehru Colony), Kolkata - 700040",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 110,
+        "address": "Bd-98, Salt Lake City, , , North 24-parganas, 700064, 033-23374808\/23213742,",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 111,
+        "address": "Debi Shetty Hospital, Mukundpur, E.M.Bye-pass, Kolkata",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 112,
+        "address": "168 Brij East , Near Bypass Dhalai Bridge, Kol-84",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": 113,
+        "address": "Radhey Complex, 1st Floor, Kutchery Road, Dist.Kheri, U.P.- 262701, Ph.No.05872-252502",
+        "city": "Lakimpur",
+        "district": "Lakimpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 114,
+        "address": "Airport Authorituy Of India, Lucknow, Airport Amausi, Lucknow-226009",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 115,
+        "address": "5, Shame Avadh Bazar, Parivartan Chowk, Near Kd Singh Babu Stadium, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 116,
+        "address": "Allahabad Bank Building, Hazratganj, Lucknow - 226001, Ph.No.0522-2286274",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 117,
+        "address": "Police Lines, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 118,
+        "address": "Mgs\/18, Sector B, Near Radhey Sweets, Aliganj, Lucknow",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 119,
+        "address": "4\/4, Vivek Khand-4, Gomtinagar, Opp.Police Thana, Lucknow.0522-2303012 \/ 2391531 \/ 2393928,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 120,
+        "address": "Adarsh Complex Engineering College, Sector-e, Sitapur Road, Ring Road, Lucknow, 226021, 0522-2731976 \/ 2365314,",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 121,
+        "address": "K.G.Medical College Campus, Lucknow-226018.0522-2255189",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 122,
+        "address": "3\/5a, Arihant Towers, Kitchlu Nagar Market, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 123,
+        "address": "Metro Tyres, Industrial Area, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 124,
+        "address": "Oswal Woolen Mills, G T Road, Sherpur Chowk, Ludhiana",
+        "city": "Ludhiana",
+        "district": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "id": 125,
+        "address": "43a, South Masi Street, Madurai-625001.0452-2341665",
+        "city": "Madurai",
+        "district": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 126,
+        "address": "Rabindra Avenue, Malda",
+        "city": "Malda",
+        "district": "Malda",
+        "state": "West Bengal"
+    },
+    {
+        "id": 127,
+        "address": "20-7-435\/19, Hamilton Circle, , Near D.C.Office, Manglore, , Dist.Dakshin Kannada, 575001, 0824-2420159 \/ 2428551,",
+        "city": "Mangalore",
+        "district": "Mangalore",
+        "state": "Karnataka"
+    },
+    {
+        "id": 128,
+        "address": "55, The Mall, P.O.Box No.9, Meerut Cantonment, Dist.Meerut, Pin - 250001.Ph.No.0121-2648924",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 129,
+        "address": "376, Khairnagar Bazar, , , Meerut, 250002, 20941,",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 130,
+        "address": "Meerut Development Authority Campus, Civil Lines, Meerut",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 131,
+        "address": "Meerut University Campus, , , Meerut, 250005, 0121-2762529\/2774729,",
+        "city": "Meerut",
+        "district": "Meerut",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 132,
+        "address": "Civil Lines, Post Box No-5, , , Dist.Moradabad, 244001, 0591-2417826,",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 133,
+        "address": "Smt.Poonam Gupta, W\/o Sri Sanjay Gupta, Plot No.Ae34, Ram Ganga Vihar, Phase-i, Kanth Road, Moradabad",
+        "city": "Moradabad",
+        "district": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 134,
+        "address": "Shri Tejinder Singh Sodi 38, Shere Punjab Society Opposite Gurudwara Andheri (e) Mobile No - 9324381036",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 135,
+        "address": "37, Mumbai Samachar Marg., Mumbai, Post Box No.-282 , , Greater Mumbai, 400023, 022-22655739 \/ 22662018 \/ 22670268 ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 136,
+        "address": "A.H.Wadia Tech.Instt.Bldg., 292\/11, C.S.T.Road , Santacruz (east), Kalina P.O. Vidyanagari",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 137,
+        "address": "Mrs.Nainani, 36, Usha Commercil, Opposite Allahabad Bank, Vallipear Road, Kalyan",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 138,
+        "address": "Laxmi Sadan, Opp.Thakur Public School, Thakur Village, Bldg.No.2, Cts 809a\/1\/19a\/14, Kandivilli,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 139,
+        "address": "5\/6 Poonam Sagar Complex, Building No.43\/44 Opp Sect 9, Shanti Nagar, Mira Road (e)",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 140,
+        "address": "Plot No.A-2, Model Town , Co-op Housing Society Ltd, , , Greater Mumbai, 400049, 022-26202236 ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 141,
+        "address": "Manish Commercial Centre, 216-a, , Dr.Annie Basant Road, Worli, Mumbai , , Greater Mumbai, 400025, 022-24927798 \/ 24930744 ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 142,
+        "address": "House No.1-a\/1 & 1-a\/2, Plot - 277, , New Sion Co-op.H.S.Sindhi Colony, , Opp.- Gurukripa Hotel, Sion (west) , Greater Mumbai, 400022, .022-24077142 ,",
+        "city": "Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 143,
+        "address": "Tilak Maidan Road, Near Town Thana, Muzafarpur, Bihar - 842001",
+        "city": "Muzfarpur",
+        "district": "Muzfarpur",
+        "state": "Bihar"
+    },
+    {
+        "id": 144,
+        "address": "N R Savadiya, Central Bazar Road, Ramdaspeth, Opp Hotel Center Point, Nagpur",
+        "city": "Nagpur",
+        "district": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 145,
+        "address": "A T Road, Haibargaon , Nagaon-782002",
+        "city": "Naogaon",
+        "district": "Naogaon",
+        "state": "Assam"
+    },
+    {
+        "id": 146,
+        "address": "Unit No.2, Arenja Arcade, , Sector 17, Vashi, New Mumbai, Thane, 400703, 022-27894498,",
+        "city": "Navi Mumbai",
+        "district": "Thane",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 147,
+        "address": "B-1\/1, G.F.Pvr Road, Saket",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 148,
+        "address": "Amar Colony Ext Count ( Lajpat Nagar)",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 149,
+        "address": "A-17, Acharya Niketan, Chilla Road, Mayur Vihar Pahse-1",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 150,
+        "address": "Shop No 14, Local Shopping Compex, New Rajdhani Enclave, Vikas Marg, Preet Vihar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 151,
+        "address": "Northern Railway, Head Quarter, , New Delhi, 110001, 011-23386880, 3386843,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 152,
+        "address": "Drm Northern Railway New Delhi Railway Station (near Booking Office) Paharganj",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 153,
+        "address": "H-12 , Green Park Extn.New Delhi",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 154,
+        "address": "Karol Bagh",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 155,
+        "address": "O-4, Ground Floor, Lajpat Nagar - Ii",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 156,
+        "address": "Shop No.1, Local Shopng.Centre, Masjid Math Extn, , , New Delhi, 110049, 26962006,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 157,
+        "address": "B-257, Chittaranjan Park, , , , New Delhi, 110019, 011-26417060,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 158,
+        "address": "4222\/1 Ansari Road, Daryaganj, , , New Delhi, 110002, 011-23275416,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 159,
+        "address": "17, Sansad Marg, , , New Delhi, 110001, 011-23743694 \/ 23361246,",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 160,
+        "address": "Shop No.4, Aditya Complex, D Block Market, Prashant Vihar, Rohini",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 161,
+        "address": "Sector-6, Dwarka",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 162,
+        "address": "8\/12, Tilak Nagar",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 163,
+        "address": "Da-93, Guru Ravidas Marg, Tuglakabad Extension, New Delhi-19",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": 164,
+        "address": "Bpcl Petrol Pump, Pari Chowk, Opp.Nri City, Greater Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 165,
+        "address": "Shop No.1, Dharam Palace Build.Sec-18 Noida",
+        "city": "Noida",
+        "district": "Gautam Bodda Nagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 166,
+        "address": "Plot No.25, Kasturba Market, Obra, , Dist.Sonbhadra, , 05445-262383,",
+        "city": "Obra",
+        "district": "Obra",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 167,
+        "address": "Ramnagar, , Orai, , Dist.Jalaun, 285001, 05162-52226,",
+        "city": "Orai",
+        "district": "Orai",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 168,
+        "address": "Booth 231, Sector-14 Panchkula(haryana)",
+        "city": "Panchkula",
+        "district": "Panchkula",
+        "state": "Haryana"
+    },
+    {
+        "id": 169,
+        "address": "Patna Main Branch, Budh Marg, Opp.Kotwali, Patna-800001",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 170,
+        "address": "Ashok Rajpath, Patna University, , Patna, 800005, 0612-2671644\/2682880\/2692610,",
+        "city": "Patna",
+        "district": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "id": 171,
+        "address": "Mall Road, Adjacent To Central Bank Of India, Pauri, Distt.Pauri Garhwal - 246001",
+        "city": "Pauri",
+        "district": "Pauri",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 172,
+        "address": "70, Guru Nanak Market Chowk, Dist Paratapgarh, Up , 05342-220551",
+        "city": "Pratapgarh",
+        "district": "Pratapgarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 173,
+        "address": "Kondwa , Nibm Road, Pune",
+        "city": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": 174,
+        "address": "C\/o Sri Debadri Bhusan Baneejee , Temple Road , Puri752001",
+        "city": "Puri",
+        "district": "Puri",
+        "state": "Orissa"
+    },
+    {
+        "id": 175,
+        "address": "Station Road, , , Rae Bareli, 229001, 0921-2212882,",
+        "city": "Rae Bareilly",
+        "district": "Rae Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 176,
+        "address": "Lal Ganga Complex, G.E.Road, Near Ghadi Chowk, Raipur -492001",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 177,
+        "address": "Bhagat Singh Chowk, G.E.Road, Raipur",
+        "city": "Raipur",
+        "district": "Raipur",
+        "state": "Chhattisgarh"
+    },
+    {
+        "id": 178,
+        "address": "K.P.Dutta Compound, P.O-lalpur, 60, Circular Road, Dist-ranchi, Pin Code-834001",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 179,
+        "address": "B.M.Airport Ranchi",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 180,
+        "address": "Ranchi Hatia Road, Doranda (1st Floor), , Ranchi, 834002, 0651\/2500125\/2501370,",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 181,
+        "address": "Gel Church Shopping Complex, Ranchi",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 182,
+        "address": "Ranchi Harmu Colony, Plot-b\/1, P.O-harmu Housing Colony, Ranchi, Dist-ranchi, Jharkhand - 834012",
+        "city": "Ranchi",
+        "district": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "id": 183,
+        "address": "P.O.Birla Market, Renukoot, Distt.Sonbadhra, Ph: 05446-252138",
+        "city": "Renukoot",
+        "district": "Renukoot",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 184,
+        "address": "Bopa Bagh Road, Rewa, Civil Lines, , Rewa, 486001, 07662-252730,",
+        "city": "Rewa",
+        "district": "Rewa",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 185,
+        "address": "Koyal Ghati, Uppal Hotel, Hardwar Road, P.O.Rishikesh, Distt.Dehradun - 249201",
+        "city": "Rishikesh",
+        "district": "Rishikesh",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 186,
+        "address": "Main Road, Robertsganj, , Dist.Sonbhadra, 231216, 05444-222054, 224229,",
+        "city": "Robertsganj",
+        "district": "Robertsganj",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 187,
+        "address": "Batra Complex, 18, Civil Lines, New Hardwar Rd., P.O.Cicivl Lines, Distt.Hardwar - 247667",
+        "city": "Roorkee",
+        "district": "Roorkee",
+        "state": "Uttarakhand"
+    },
+    {
+        "id": 188,
+        "address": "Marwari Bazar, Basant Market, , Samastipur, 848101, 06274-222678\/225759,",
+        "city": "Samastipur",
+        "district": "Samastipur",
+        "state": "Bihar"
+    },
+    {
+        "id": 189,
+        "address": "C\/o Miss Jyotirani Parmanik , Christianpada , Gm College Road, Sambalpur",
+        "city": "Sambalpur",
+        "district": "Sambalpur",
+        "state": "Orissa"
+    },
+    {
+        "id": 190,
+        "address": "Allahabad Bank Building, Jaistambh Chowk, , Satna, 485001, 07672-222336,",
+        "city": "Satna",
+        "district": "Satna",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 191,
+        "address": "Govind Ganj, , , Shahjahanpur, 242001, 05842-222231,",
+        "city": "Shahjahanpur",
+        "district": "Shahjahanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 192,
+        "address": "P.O.Shaktinagar, Campus Khadia Colliary Pjt, , Dist.Sonbhadra, 231222, 05446-232890,",
+        "city": "Shaktinagar",
+        "district": "Shaktinagar",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 193,
+        "address": "Below Sidhauli Branch, Sidhauli, Sitapur",
+        "city": "Sidhauli",
+        "district": "Sidhauli",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 194,
+        "address": "Sitapur Civil Lines",
+        "city": "Sitapur",
+        "district": "Sitapur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 195,
+        "address": "Civil Lines, Near Bus Stand, Sultanpur",
+        "city": "Sultanpur",
+        "district": "Sultanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 196,
+        "address": "Tezpur Main Road., Tezpur- 784001",
+        "city": "Tezpur",
+        "district": "Tezpur",
+        "state": "Assam"
+    },
+    {
+        "id": 197,
+        "address": "Hotel Ayodhya, G-car Street, Near Railway Station , Tirupati",
+        "city": "Tirupati",
+        "district": "Chittor",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 198,
+        "address": "344, Palladam Road, Thennampalayam",
+        "city": "Tirupur",
+        "district": "Tirupur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 199,
+        "address": "Kanuaj Bela Road, Tirwa Khas, Kanauj",
+        "city": "Tirwa",
+        "district": "Tirwa",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 200,
+        "address": "No.2, Msg Complex, College Road, Chatram Bus Stand, Trichy - 620002",
+        "city": "Trichy",
+        "district": "Trichy",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": 201,
+        "address": "Hotel Grand Tower, 1, Vikram Marg, Near Ashok Talkies, Mahakal Mandir Road, Freeganj, Ujjain- 456010",
+        "city": "Ujjain",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "id": 202,
+        "address": "B 36\/10 P.J.Opp.Manas Mandi , Sankat Mochan Road Varanasi 221005",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 203,
+        "address": "Up College Campus, Varanasi-221002",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 204,
+        "address": "Udaipratap College, Bhojubir, Varanasi - 221 002, Uttar Pradesh",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 205,
+        "address": "Taksal Theatres Building, (ground Floor), Nadesar, , Dist.Varanasi, 221002, 0542-2347239,",
+        "city": "Varanasi",
+        "district": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": 206,
+        "address": "Vardhman Spinning &general Mills, Chandigarh Road, Ludhiana",
+        "city": "Vardhman",
+        "district": "Vardhman",
+        "state": "Punjab"
+    },
+    {
+        "id": 207,
+        "address": "D.No : 59 A-19-2nirmala Convent Roadallahabad Bank Extension Counter , Patamatavijiyawada 520010",
+        "city": "Vijayawada",
+        "district": "Vijayawada",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 208,
+        "address": "Jct Mills Ltd., Hoshiarpur-chintpurni Road, Chohal",
+        "city": "Vill Chohal",
+        "district": "Hosiarpur",
+        "state": "Punjab"
+    },
+    {
+        "id": 209,
+        "address": "9.1.102, 24 Th Division, Opp Spencer\ufffds Super Market, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "id": 210,
+        "address": "Shop No-25a Jagadhri Road (near To Punjab & Sindh Bank)",
+        "city": "Yamunanagar",
+        "district": "Yamunanagar",
+        "state": "Haryana"
+    }
+]
