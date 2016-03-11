@@ -7,7 +7,6 @@
 	$url = "<URL of page>&page=";
 	$pageNumber = 1;
 	$breakOut = 0;
-	$count = 0;
 
 	$finalArrayJSON = array();
 	$interArrayJSON = array();
@@ -56,8 +55,6 @@
 
 			array_push($finalArrayJSON, $interArrayJSON);
 
-			echo "done $count \n";
-			$count = $count + 1;
 			
 		}
 
