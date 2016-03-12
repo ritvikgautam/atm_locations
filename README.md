@@ -21,5 +21,5 @@ The information is present in a format as explained in the following example.
 }
 ```
 
-The script used to scrap the data is written in PHP and makes use of the [Import.io](import.io) API. 
+The script used to scrap the data is written in PHP and makes use of the [Import.io](http://www.import.io) API. 
 
